@@ -1,0 +1,145 @@
+<resources>
+    <string name="app_name">Cast to TV</string>
+
+    <string name="intro_title_1">স্ক্রিন মিররিং</string>৷
+    <string name="intro_title_2">রিমোট ইউনিভার্সাল</string>
+    <string name="intro_title_3">টিভিতে কাস্ট করুন</string>৷
+    <string name="intro_title_4">ওয়েব ব্রাউজার কাস্ট</string>৷
+    <string name="intro_des_1">উচ্চ মানের এবং রিয়েল-টাইম গতিতে একটি ছোট ফোনের স্ক্রীন বড় টিভি স্ক্রিনে কাস্ট করুন</string>
+    <string name="intro_des_2">ওয়াইফাই সংযোগ সহ মোবাইল ফোন ব্যবহার করে আপনার টিভি নিয়ন্ত্রণ করুন</string>
+    <string name="intro_des_3">টিভিতে কাস্ট করুন এবং ভিডিও এবং সিনেমা দেখার সেরা অভিজ্ঞতা উপভোগ করুন</string>
+    <string name="intro_des_4">যদি আপনাকে আপনার পছন্দের ওয়েবসাইট থেকে আপনার টিভি ভিডিও দেখার অনুমতি দেয়৷</string>
+
+
+    <string name="audio">অডিও</string>
+    <string name="connect_device">ডিভাইস সংযোগ করুন</string>
+    <string name="connect_to_device">ডিভাইসের সাথে সংযোগ করুন</string>
+    <string name="thank_you_for_using_this_app">এই অ্যাপটি ব্যবহার করার জন্য আপনাকে ধন্যবাদ!!!</string>
+    <string name="you_want_to_exit">আপনি কি নিশ্চিত, আপনি এই অ্যাপ থেকে প্রস্থান করতে চান?</string>
+    <string name="yes">হ্যাঁ</string>৷
+    <string name="no">না</string>
+    <string name="image">চিত্র</string>
+    <string name="skip">এড়িয়ে যান</string>
+    <string name="next">পরবর্তী</string>
+    <string name="get_start"> শুরু করুন</string>
+    <string name="language">ভাষা</string>
+    <string name="save">সংরক্ষণ করুন</string>৷
+    <string name="cast_to_tv">টিভিতে কাস্ট করুন</string>৷
+    <string name="no_device_connection">কোনও ডিভাইস সংযোগ নেই</string>৷
+    <string name="tap_to_connect">সংযোগ করতে আলতো চাপুন</string>
+    <string name="tap_to_disconnect"> সংযোগ বিচ্ছিন্ন করতে আলতো চাপুন</string>
+    <string name="chromecast">Chromecast</string>৷
+    <string name="cast_media">কাস্ট মিডিয়া</string>৷
+    <string name="video">ভিডিও</string>
+    <string name="cast_web"> কাস্ট ওয়েব</string>
+    <string name="drive">ড্রাইভ</string>
+    <string name="youtube">YouTube</string>
+    <string name="browser">ব্রাউজার</string>
+    <string name="permission">অনুমতি</string>
+    <string name="for_this_application">এই অ্যাপ্লিকেশনটি কাজ করার জন্য, আপনাকে অবশ্যই প্রয়োজনীয় অনুমতি দিতে হবে।</string>
+    <string name="image_from_external_storage"> বাহ্যিক সঞ্চয়স্থান থেকে ছবি কাস্ট করার উদ্দেশ্যে অনুমতি নিয়ে পড়তে হবে৷</string>
+    <string name="audio_from_external_storage"> বাহ্যিক সঞ্চয়স্থান থেকে অডিও কাস্ট করার উদ্দেশ্যে অনুমতি নিয়ে পড়তে হবে৷</string>
+    <string name="video_from_external_storage">বাহ্যিক সঞ্চয়স্থান থেকে ভিডিও কাস্ট করার উদ্দেশ্যে অনুমতি নিয়ে পড়তে হবে৷</string>
+    <string name="allow_permissions">অনুমতি দিন</string>
+    <string name="we_value_your_feedback">আমরা আপনার মতামতকে গুরুত্ব দিই!!!</string>
+    <string name="please_take_a_moment">অনুগ্রহ করে একটু সময় নিন এবং এই অ্যাপটিকে রেট দিন</string>
+    <string name="select_the_connection_you_want">আপনি যে সংযোগ চান সেটি নির্বাচন করুন</string>
+    <string name="choose_a_screencast_scene">একটি স্ক্রিনকাস্ট দৃশ্য চয়ন করুন</string>
+    <string name="setting">সেটিং</string>
+    <string name="you_will_get_unlimited">আপনি প্রিমিয়াম সংস্করণে সীমাহীন অ্যাক্সেস পাবেন</string>
+    <string name="go_premium"> প্রিমিয়াম যান</string>
+    <string name="general">সাধারণ</string>
+    <string name="vibration">কম্পন</string>
+    <string name="vibrate_on_interaction"> ইন্টারঅ্যাকশনে ভাইব্রেট</string>
+    <string name="languages">ভাষা</string>
+    <string name="more">আরো</string>
+    <string name="rate_us">আমাদের রেট করুন</string>
+    <string name="please_let_us_know_about_your_experience_using_the_app">অনুগ্রহ করে অ্যাপটি ব্যবহার করে আপনার অভিজ্ঞতা সম্পর্কে আমাদের জানান</string>
+    <string name="share">শেয়ার করুন</string>৷
+    <string name="share_all_mirror_with_your_friends">আপনার বন্ধুদের সাথে সমস্ত আয়না শেয়ার করুন</string>
+    <string name="privacy_policy">গোপনীয়তা নীতি</string>৷
+    <string name="read_our_privacy_policy">আমাদের গোপনীয়তা নীতি পড়ুন</string>
+    <string name="version">সংস্করণ :</string>
+    <string name="start_mirroring"> মিরর করা শুরু করুন</string>
+    <string name="stop_mirroring"> মিরর করা বন্ধ করুন</string>
+    <string name="casting_a_small_phone_screen">একটি ছোট ফোনের স্ক্রীন একটি বড় টিভি স্ক্রিনে উচ্চ মানের এবং রিয়েল টাইমে কাস্ট করা৷</string>
+    <string name="no_item_found">কোন আইটেম পাওয়া যায়নি</string>৷
+    <string name="connecting">সংযুক্ত হচ্ছে...</string>
+    <string name="quickly_cast_video_image">দ্রুত ভিডিও, ছবি এবং ওয়েব মিররিং সংযোগ কাস্ট করুন৷</string>
+    <string name="disconnect_with_tv">টিভির সাথে সংযোগ বিচ্ছিন্ন করুন</string>৷
+    <string name="device_do_you_want_to_disconnect">আপনি কি ডিভাইসটি সংযোগ বিচ্ছিন্ন করতে চান?</string>
+    <string name="disconnect">সংযোগ বিচ্ছিন্ন করুন</string>
+    <string name="cancel">বাতিল করুন</string>৷
+    <string name="how_to_connect">কিভাবে সংযোগ করতে হয়</string>
+    <string name="how_to_connect_des_01">আপনার মোবাইল এবং টিভি একই ওয়াইফাইতে কানেক্ট করুন এবং VPN বন্ধ করুন</string>
+    <string name="how_to_connect_des_02">আপনার ফোনে ওয়্যারলেস ডিসপ্লে ফাংশন সক্ষম করুন এবং ডিভাইস অনুসন্ধানের জন্য অপেক্ষা করুন৷ সংযোগ করতে ডিভাইসের নাম দিতে ক্লিক করুন৷</string>
+    <string name="how_to_connect_des_03">সংযোগ সফল হয়েছে৷ এখন আপনি স্মার্টফোনের মাধ্যমে নিয়ন্ত্রণ করতে পারেন৷</string>
+    <string name="i_got_it"> আমি এটা পেয়েছি</string>
+    <string name="no_internet"> কোনো ইন্টারনেট নেই</string>
+    <string name="connect_wifi">ওয়াইফাই সংযোগ করুন</string>
+    <string name="ok">ঠিক আছে</string>৷
+    <string name="pairing_with_tv">টিভির সাথে পেয়ার করা</string>৷
+    <string name="please_confirm_the_connection_on_your_tv">অনুগ্রহ করে আপনার টিভিতে সংযোগ নিশ্চিত করুন</string>
+    <string name="enter_the_code_you_see_on_tv">টিভিতে যে কোডটি দেখছেন সেটি লিখুন</string>
+    <string name="enter_code">কোড লিখুন</string>
+    <string name="verify">যাচাই করুন</string>
+    <string name="please_wait">অনুগ্রহ করে অপেক্ষা করুন</string>
+    <string name="screen_mirroring">স্ক্রিন মিররিং</string>৷
+    <string name="get_premium">প্রিমিয়াম পান</string>
+    <string name="smart_tv"> স্মার্ট টিভি</string>
+    <string name="mobile_screen_sharing_to_tv">টিভিতে মোবাইল স্ক্রিন শেয়ার করা</string>
+    <string name="direct_mirror">ডাইরেক্ট মিরর</string>
+    <string name="mirror_web_browser">মিরর ওয়েব ব্রাউজার</string>
+    <string name="typing_url_in_your_pc_s_web_browser">আপনার পিসির ওয়েব ব্রাউজারে URL টাইপ করা</string>
+    <string name="info">তথ্য</string>
+    <string name="name">নাম :</string>
+    <string name="size"> আকার :</string>
+    <string name="resolution">রেজোলিউশন :</string>
+    <string name="path">পথ :</string>
+
+    <string name="make_sure_your_phone">নিশ্চিত করুন যে আপনার ফোন এবং টিভি\nএকই Wi-Fi নেটওয়ার্কে সংযুক্ত আছে৷</string>
+    <string name="the_page_you_re_looking">আপনি যে পৃষ্ঠাটি খুঁজছেন সেটি পাওয়া যাচ্ছে না আমরা\nআপনাকে বাড়িতে ফিরে যাওয়ার পরামর্শ দিচ্ছি</string>
+    <string name="no_internet_des">আপনি WiFi এর সাথে সংযুক্ত নন৷ আপনার ডিভাইসের সাথে সংযোগ করতে, অনুগ্রহ করে চালু করুন\nWiFi নেটওয়ার্ক!</string>
+    <string name="cast_smartphone_screen"> স্মার্টফোনের স্ক্রীনকে বড়\n টিভি স্ক্রীনে স্থিরভাবে কাস্ট করুন।</string>
+    <string name="sharing_screen_don_t_need_enable_miracast">শেয়ারিং স্ক্রীন সক্ষম করার প্রয়োজন নেই\nMiracast</string>
+
+
+    <string name="unlock_all_pro_features">সমস্ত প্রো বৈশিষ্ট্য আনলক করুন</string>
+
+    <string name="sm_smart_tv_des_01">নিশ্চিত করুন যে আপনার ডিভাইস এবং টিভি একই ওয়াইফাই নেটওয়ার্কের সাথে সংযুক্ত আছে৷</string>
+    <string name="sm_smart_tv_des_02">সেটিং সিস্টেমের সাথে সংযোগ করতে "স্টার্ট মিররিং" বোতামে ক্লিক করুন৷</string>
+    <string name="sm_smart_tv_des_03">আপনার ফোনে ওয়্যারলেস ডিসপ্লে ফাংশন সক্ষম করুন৷ আপনি আপনার ডিভাইস খুঁজে না পেলে আপনার টিভি সনাক্ত করতে ওয়্যারলেস ডিসপ্লে চালু করতে ডান কোণে আইকনে ক্লিক করুন৷</string>
+
+    <string name="sm_direct_mirror_des_01">নিশ্চিত করুন যে আপনার ডিভাইস এবং টিভি একই ওয়াইফাই নেটওয়ার্কের সাথে সংযুক্ত আছে৷</string>
+    <string name="sm_direct_mirror_des_02">স্ক্রিন মিররিং শুরু করতে "স্টার্ট বোতাম" আলতো চাপুন৷</string>
+    <string name="sm_direct_mirror_des_03">যদি আপনার টিভি নিশ্চিতকরণ ডায়ালগ দেখায়, তাহলে এটিকে ফিজিক্যাল টিভি রিমোট ব্যবহার করে গ্রহণ করুন।</string>
+
+    <string name="sm_web_browser_des_01">নিশ্চিত করুন যে আপনার ডিভাইস এবং কাস্ট ডিভাইস একই ওয়াইফাই নেটওয়ার্কের সাথে সংযুক্ত আছে৷</string>
+    <string name="sm_web_browser_des_02">ওয়েব ব্রাউজারে স্ক্রীন মিররিং শুরু করতে "স্টার্ট মিররিং" বোতামে ক্লিক করুন৷</string>
+    <string name="sm_web_browser_des_03">যদি আপনার টিভি নিশ্চিতকরণ ডায়ালগ দেখায়, তাহলে বাস্তব টিভি রিমোট ব্যবহার করে এটি গ্রহণ করুন৷</string>
+    <string name="sm_web_browser_des_04">অন্য ডিভাইসে (PC, Xbox, TV, ইত্যাদি) ব্রাউজার খুলুন এবং এই URLটি লিখুন:</string>
+
+
+    <string name="notification_disconnect_action">Disconnect</string>
+    <string name="notification_remote_camera_desc">Phone Camera is running.</string>
+    <string name="notification_remote_camera_title">Phone Camera</string>
+    <string name="notification_screen_sharing_desc">Connected device has been set to screen sharing.</string>
+    <string name="notification_screen_sharing_title">Screen Share</string>
+    <string name="by_purchasing">By purchasing, you agree to the Terms of Use\nand Privacy Policy</string>
+
+
+    <string name="remote_control">রিমোট কন্ট্রোল</string>
+    <string name="suitable_for_all_smart_tv_remote">সকল স্মার্ট টিভি রিমোটের জন্য উপযুক্ত।</string>
+    <string name="remote">রিমোট</string>
+    <string name="channel">চ্যানেল</string>
+    <string name="speak_to_text">টেক্সটে কথা বলুন</string>
+    <string name="keyboard">কীবোর্ড</string>
+    <string name="enter_text_here">এখানে টেক্সট লিখুন…</string>
+    <string name="your_channel_will_show_here">আপনার চ্যানেল এখানে দেখাবে</string>
+    <string name="can_t_find_channel_please_connect_to_tv">চ্যানেল খুঁজে পাচ্ছি না, দয়া করে টিভিতে সংযোগ করুন</string>
+    <string name="error_try_again">ত্রুটি! অনুগ্রহ করে আবার চেষ্টা করুন</string>
+    <string name="wifi_not_connected">ওয়াইফাই সংযুক্ত নেই!</string>
+    <string name="toast_input_socket_is_null">ত্রুটি: ইনপুট সকেট শূন্য!</string>
+    <string name="remote_swipe">সরাতে সোয়াইপ করুন নির্বাচন করতে ট্যাপ করুন</string>
+
+</resources>

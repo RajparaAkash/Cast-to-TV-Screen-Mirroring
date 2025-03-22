@@ -1,0 +1,145 @@
+<resources>
+    <string name="app_name">Cast to TV</string>
+
+    <string name="intro_title_1">Screen Mirroring</string>
+    <string name="intro_title_2">Remote Universal</string>
+    <string name="intro_title_3">Cast to TV</string>
+    <string name="intro_title_4">Web Browser Cast</string>
+    <string name="intro_des_1">Cast a small phone screen to big TV screen in high quality and real-time Speed</string>
+    <string name="intro_des_2">Control your TV using mobile phone with WiFi connection</string>
+    <string name="intro_des_3">Cast to TV and enjoy the best experience of watching videos and movies</string>
+    <string name="intro_des_4">If allows you to watch on your TV videos from your favourite websites.</string>
+
+
+    <string name="audio">Audio</string>
+    <string name="connect_device">Connect Device</string>
+    <string name="connect_to_device">Connect To Device</string>
+    <string name="thank_you_for_using_this_app">Thank You For Using This App!!!</string>
+    <string name="you_want_to_exit">Are you sure, You want to exit this app ?</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="image">Image</string>
+    <string name="skip">Skip</string>
+    <string name="next">Next</string>
+    <string name="get_start">Get’s Start</string>
+    <string name="language">Language</string>
+    <string name="save">Save</string>
+    <string name="cast_to_tv">Cast to TV</string>
+    <string name="no_device_connection">No Device Connection</string>
+    <string name="tap_to_connect">Tap to connect</string>
+    <string name="tap_to_disconnect">Tap to Disconnect</string>
+    <string name="chromecast">Chromecast</string>
+    <string name="cast_media">Cast Media</string>
+    <string name="video">Video</string>
+    <string name="cast_web">Cast Web</string>
+    <string name="drive">Drive</string>
+    <string name="youtube">YouTube</string>
+    <string name="browser">Browser</string>
+    <string name="permission">Permission</string>
+    <string name="for_this_application">For this application to work, you must allow the required permissions.</string>
+    <string name="image_from_external_storage">Image from external storage must be read with permission for casting purpose.</string>
+    <string name="audio_from_external_storage">Audio from external storage must be read with permission for casting purpose.</string>
+    <string name="video_from_external_storage">Video from external storage must be read with permission for casting purpose.</string>
+    <string name="allow_permissions">Allow Permissions</string>
+    <string name="we_value_your_feedback">We Value Your Feedback!!!</string>
+    <string name="please_take_a_moment">Please take a moment and rate this app</string>
+    <string name="select_the_connection_you_want">Select The Connection You Want</string>
+    <string name="choose_a_screencast_scene">Choose a Screencast scene</string>
+    <string name="setting">Setting</string>
+    <string name="you_will_get_unlimited">You will get unlimited access in premium version</string>
+    <string name="go_premium">Go Premium</string>
+    <string name="general">General</string>
+    <string name="vibration">Vibration</string>
+    <string name="vibrate_on_interaction">Vibrate on interaction</string>
+    <string name="languages">Languages</string>
+    <string name="more">More</string>
+    <string name="rate_us">Rate us</string>
+    <string name="please_let_us_know_about_your_experience_using_the_app">Please let us know about your experience using the app</string>
+    <string name="share">Share</string>
+    <string name="share_all_mirror_with_your_friends">Share All Mirror with your friends</string>
+    <string name="privacy_policy">Privacy Policy</string>
+    <string name="read_our_privacy_policy">Read our privacy policy</string>
+    <string name="version">Version :</string>
+    <string name="start_mirroring">Start Mirroring</string>
+    <string name="stop_mirroring">Stop Mirroring</string>
+    <string name="casting_a_small_phone_screen">Casting a small phone screen to a big TV screen in high quality and real time.</string>
+    <string name="no_item_found">No item found</string>
+    <string name="connecting">Connecting…</string>
+    <string name="quickly_cast_video_image">Quickly cast video, image and web mirroring connecting.</string>
+    <string name="disconnect_with_tv">Disconnect With TV</string>
+    <string name="device_do_you_want_to_disconnect">Device do you want to disconnect ?</string>
+    <string name="disconnect">Disconnect</string>
+    <string name="cancel">Cancel</string>
+    <string name="how_to_connect">How to connect</string>
+    <string name="how_to_connect_des_01">Your mobile and TV connect to the same Wifi and turn off VPN</string>
+    <string name="how_to_connect_des_02">Enable the wireless display function on your phone and wait for the device searching. Click to name device to connect.</string>
+    <string name="how_to_connect_des_03">Connection successful. Now you can control the via smartphone.</string>
+    <string name="i_got_it">I got it</string>
+    <string name="no_internet">No Internet</string>
+    <string name="connect_wifi">Connect Wifi</string>
+    <string name="ok">OK</string>
+    <string name="pairing_with_tv">Pairing with TV</string>
+    <string name="please_confirm_the_connection_on_your_tv">Please confirm the connection on your TV</string>
+    <string name="enter_the_code_you_see_on_tv">Enter the code you see on TV</string>
+    <string name="enter_code">Enter code</string>
+    <string name="verify">Verify</string>
+    <string name="please_wait">Please wait</string>
+    <string name="screen_mirroring">Screen Mirroring</string>
+    <string name="get_premium">Get Premium</string>
+    <string name="smart_tv">Smart TV</string>
+    <string name="mobile_screen_sharing_to_tv">Mobile screen sharing to TV</string>
+    <string name="direct_mirror">Direct Mirror</string>
+    <string name="mirror_web_browser">Mirror Web Browser</string>
+    <string name="typing_url_in_your_pc_s_web_browser">Typing URL in your PC’s web browser</string>
+    <string name="info">Info</string>
+    <string name="name">Name :</string>
+    <string name="size">Size :</string>
+    <string name="resolution">Resolution :</string>
+    <string name="path">Path :</string>
+
+    <string name="make_sure_your_phone">Make sure your phone and TV are connected\nto the same Wi-Fi network.</string>
+    <string name="the_page_you_re_looking">The page you’re looking for isn\'t found we\nsuggest you back to home</string>
+    <string name="no_internet_des">You are not connected to WiFi. To\nconnect your device, please turn on the\nWiFi network!</string>
+    <string name="cast_smartphone_screen">Cast smartphone screen to big\nTV screen stably.</string>
+    <string name="sharing_screen_don_t_need_enable_miracast">Sharing screen don’t need Enable\nMiracast</string>
+
+
+    <string name="unlock_all_pro_features">Unlock all <b><font color='#F8226C'>pro</font></b> features</string>
+
+    <string name="sm_smart_tv_des_01">Make sure that your device and TV are connected to the <b><font color='#F8226C'>same WiFi network</font></b>.</string>
+    <string name="sm_smart_tv_des_02">Click <b><font color='#F8226C'>“start mirroring”</font></b> button to connect to setting’s system.</string>
+    <string name="sm_smart_tv_des_03"><b><font color='#F8226C'>Enable the wireless display</font></b> function on your phone. Click the icon on the right corner to turn on <b><font color='#F8226C'>wireless display</font></b> to detect your TV in case you do not find your device.</string>
+
+    <string name="sm_direct_mirror_des_01">Make sure that your device and TV are connected to the <b><font color='#F8226C'>same WiFi network</font></b>.</string>
+    <string name="sm_direct_mirror_des_02">Tap <b><font color='#F8226C'>“start button”</font></b> to begin screen mirroring.</string>
+    <string name="sm_direct_mirror_des_03">If your TV shows confirmation dialog, <b><font color='#F8226C'>accept</font></b> it using physical TV remote.</string>
+
+    <string name="sm_web_browser_des_01">Make sure that your device and cast device are connected to the <b><font color='#F8226C'>same WiFi network</font></b>.</string>
+    <string name="sm_web_browser_des_02">Click <b><font color='#F8226C'>“start mirroring”</font></b> button to start screen mirroring on web browser.</string>
+    <string name="sm_web_browser_des_03">If your TV shows confirmation dialog, <b><font color='#F8226C'>accept</font></b> it using physical TV remote.</string>
+    <string name="sm_web_browser_des_04">Open browser on the other device (PC, Xbox, TV, etc.) and enter this URL:</string>
+
+
+    <string name="notification_disconnect_action">Disconnect</string>
+    <string name="notification_remote_camera_desc">Phone Camera is running.</string>
+    <string name="notification_remote_camera_title">Phone Camera</string>
+    <string name="notification_screen_sharing_desc">Connected device has been set to screen sharing.</string>
+    <string name="notification_screen_sharing_title">Screen Share</string>
+    <string name="by_purchasing">By purchasing, you agree to the Terms of Use\nand Privacy Policy</string>
+
+
+    <string name="remote_control">Remote Control</string>
+    <string name="suitable_for_all_smart_tv_remote">Suitable for All smart TV\nremote.</string>
+    <string name="remote">Remote</string>
+    <string name="channel">Channel</string>
+    <string name="speak_to_text">Speak to text</string>
+    <string name="keyboard">Keyboard</string>
+    <string name="enter_text_here">Enter text here…</string>
+    <string name="your_channel_will_show_here">Your channel will show here</string>
+    <string name="can_t_find_channel_please_connect_to_tv">Can not find channel, please connect to TV</string>
+    <string name="error_try_again">Error! Please try again</string>
+    <string name="wifi_not_connected">Wifi not connected!</string>
+    <string name="toast_input_socket_is_null">Error: input socket is null!</string>
+    <string name="remote_swipe">Swipe to move\ntap to Select</string>
+
+</resources>

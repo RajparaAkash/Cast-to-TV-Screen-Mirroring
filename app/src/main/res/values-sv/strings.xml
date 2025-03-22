@@ -1,0 +1,145 @@
+<resources>
+    <string name="app_name">Cast to TV</string>
+
+    <string name="intro_title_1">Skärmspegling</string>
+    <string name="intro_title_2">Remote Universal</string>
+    <string name="intro_title_3">Casta till TV</string>
+    <string name="intro_title_4">Webbläsarcast</string>
+    <string name="intro_des_1">Casta en liten telefonskärm till stor TV-skärm i hög kvalitet och i realtidshastighet</string>
+    <string name="intro_des_2">Styra din TV med mobiltelefon med WiFi-anslutning</string>
+    <string name="intro_des_3">Casta till TV och njut av den bästa upplevelsen av att titta på videor och filmer</string>
+    <string name="intro_des_4">Om låter dig titta på videor på din TV från dina favoritwebbplatser.</string>
+
+
+    <string name="audio">Ljud</string>
+    <string name="connect_device">Anslut enhet</string>
+    <string name="connect_to_device">Anslut till enhet</string>
+    <string name="thank_you_for_using_this_app">Tack för att du använder den här appen!!!</string>
+    <string name="you_want_to_exit">Är du säker på att du vill avsluta den här appen?</string>
+    <string name="yes">Ja</string>
+    <string name="no">Nej</string>
+    <string name="image">Bild</string>
+    <string name="skip">Hoppa över</string>
+    <string name="next">Nästa</string>
+    <string name="get_start">Kom igång</string>
+    <string name="language">Språk</string>
+    <string name="save">Spara</string>
+    <string name="cast_to_tv">Casta till TV</string>
+    <string name="no_device_connection">Ingen enhetsanslutning</string>
+    <string name="tap_to_connect">Knacka för att ansluta</string>
+    <string name="tap_to_disconnect">Knacka för att koppla från</string>
+    <string name="chromecast">Chromecast</string>
+    <string name="cast_media">Cast Media</string>
+    <string name="video">Video</string>
+    <string name="cast_web">Casta webb</string>
+    <string name="drive">Drive</string>
+    <string name="youtube">YouTube</string>
+    <string name="browser">Webbläsare</string>
+    <string name="permission">Behörighet</string>
+    <string name="for_this_application">För att det här programmet ska fungera måste du tillåta de nödvändiga behörigheterna.</string>
+    <string name="image_from_external_storage">Bild från extern lagring måste läsas med tillstånd för casting.</string>
+    <string name="audio_from_external_storage">Ljud från extern lagring måste läsas med tillstånd för casting.</string>
+    <string name="video_from_external_storage">Video från extern lagring måste läsas med tillstånd för casting.</string>
+    <string name="allow_permissions">Tillåt behörigheter</string>
+    <string name="we_value_your_feedback">Vi värdesätter din feedback!!!</string>
+    <string name="please_take_a_moment">Ta en stund och betygsätt den här appen</string>
+    <string name="select_the_connection_you_want">Välj den anslutning du vill ha</string>
+    <string name="choose_a_screencast_scene">Välj en Screencast-scen</string>
+    <string name="setting">Inställning</string>
+    <string name="you_will_get_unlimited">Du får obegränsad åtkomst i premiumversionen</string>
+    <string name="go_premium">Go Premium</string>
+    <string name="general">Allmänt</string>
+    <string name="vibration">Vibration</string>
+    <string name="vibrate_on_interaction">Vibrera vid interaktion</string>
+    <string name="languages">Språk</string>
+    <string name="more">Mer</string>
+    <string name="rate_us">Betygsätt oss</string>
+    <string name="please_let_us_know_about_your_experience_using_the_app">Berätta för oss om din upplevelse av appen</string>
+    <string name="share">Dela</string>
+    <string name="share_all_mirror_with_your_friends">Dela All Mirror med dina vänner</string>
+    <string name="privacy_policy">Sekretesspolicy</string>
+    <string name="read_our_privacy_policy">Läs vår sekretesspolicy</string>
+    <string name="version">Version :</string>
+    <string name="start_mirroring">Starta spegling</string>
+    <string name="stop_mirroring">Stoppa spegling</string>
+    <string name="casting_a_small_phone_screen">Casta en liten telefonskärm till en stor TV-skärm i hög kvalitet och i realtid.</string>
+    <string name="no_item_found">Inget objekt hittades</string>
+    <string name="connecting">Ansluter…</string>
+    <string name="quickly_cast_video_image">Ansluter snabbt video, bild och webbspegling.</string>
+    <string name="disconnect_with_tv">Koppla från TV:n</string>
+    <string name="device_do_you_want_to_disconnect">Enhet vill du koppla från?</string>
+    <string name="disconnect">Koppla från</string>
+    <string name="cancel">Avbryt</string>
+    <string name="how_to_connect">Hur man ansluter</string>
+    <string name="how_to_connect_des_01">Din mobil och TV ansluter till samma Wifi och stänger av VPN</string>
+    <string name="how_to_connect_des_02">Aktivera den trådlösa visningsfunktionen på din telefon och vänta på att enheten söker. Klicka för att namnge enheten som ska anslutas.</string>
+    <string name="how_to_connect_des_03">Anslutning lyckad. Nu kan du styra via smartphone.</string>
+    <string name="i_got_it">Jag har det</string>
+    <string name="no_internet">Inget internet</string>
+    <string name="connect_wifi">Anslut wifi</string>
+    <string name="ok">OK</string>
+    <string name="pairing_with_tv">Parkoppling med TV</string>
+    <string name="please_confirm_the_connection_on_your_tv">Bekräfta anslutningen på din TV</string>
+    <string name="enter_the_code_you_see_on_tv">Ange koden du ser på TV:n</string>
+    <string name="enter_code">Ange kod</string>
+    <string name="verify">Verifiera</string>
+    <string name="please_wait">Vänta</string>
+    <string name="screen_mirroring">Skärmspegling</string>
+    <string name="get_premium">Få Premium</string>
+    <string name="smart_tv">Smart TV</string>
+    <string name="mobile_screen_sharing_to_tv">Dela mobilskärm till TV:n</string>
+    <string name="direct_mirror">Direktspegel</string>
+    <string name="mirror_web_browser">Spegla webbläsare</string>
+    <string name="typing_url_in_your_pc_s_web_browser">Skriv in URL i datorns webbläsare</string>
+    <string name="info">Information</string>
+    <string name="name">Namn :</string>
+    <string name="size">Storlek :</string>
+    <string name="resolution">Upplösning:</string>
+    <string name="path">Sökväg:</string>
+
+    <string name="make_sure_your_phone">Se till att din telefon och TV är anslutna\ntill samma Wi-Fi-nätverk.</string>
+    <string name="the_page_you_re_looking">Sidan du letar efter hittades inte vi\nföreslår att du går tillbaka till startsidan</string>
+    <string name="no_internet_des">Du är inte ansluten till WiFi. För att\nansluta din enhet, slå på\nWiFi-nätverket!</string>
+    <string name="cast_smartphone_screen">Casta smartphoneskärm till stor\nTV-skärm stabilt.</string>
+    <string name="sharing_screen_don_t_need_enable_miracast">Dela skärm behöver inte aktivera\nMiracast</string>
+
+
+    <string name="unlock_all_pro_features">Lås upp alla proffsfunktioner</string>
+
+    <string name="sm_smart_tv_des_01">Se till att din enhet och TV är anslutna till samma WiFi-nätverk.</string>
+    <string name="sm_smart_tv_des_02">Klicka på knappen "starta spegling" för att ansluta till inställningens system.</string>
+    <string name="sm_smart_tv_des_03">Aktivera den trådlösa displayfunktionen på din telefon. Klicka på ikonen i högra hörnet för att aktivera trådlös skärm för att upptäcka din TV om du inte hittar din enhet.</string>
+
+    <string name="sm_direct_mirror_des_01">Se till att din enhet och TV är anslutna till samma WiFi-nätverk.</string>
+    <string name="sm_direct_mirror_des_02">Tryck på "startknapp" för att börja skärmspegling.</string>
+    <string name="sm_direct_mirror_des_03">Om din TV visar bekräftelsedialogruta accepterar du den med den fysiska TV-fjärrkontrollen.</string>
+
+    <string name="sm_web_browser_des_01">Se till att din enhet och cast-enhet är anslutna till samma WiFi-nätverk.</string>
+    <string name="sm_web_browser_des_02">Klicka på knappen "starta spegling" för att starta skärmspegling i webbläsaren.</string>
+    <string name="sm_web_browser_des_03">Om din TV visar bekräftelsedialogruta accepterar du den med den fysiska TV-fjärrkontrollen.</string>
+    <string name="sm_web_browser_des_04">Öppna webbläsaren på den andra enheten (PC, Xbox, TV, etc.) och ange denna URL:</string>
+
+
+    <string name="notification_disconnect_action">Disconnect</string>
+    <string name="notification_remote_camera_desc">Phone Camera is running.</string>
+    <string name="notification_remote_camera_title">Phone Camera</string>
+    <string name="notification_screen_sharing_desc">Connected device has been set to screen sharing.</string>
+    <string name="notification_screen_sharing_title">Screen Share</string>
+    <string name="by_purchasing">By purchasing, you agree to the Terms of Use\nand Privacy Policy</string>
+
+
+    <string name="remote_control">Fjärrkontroll</string>
+    <string name="suitable_for_all_smart_tv_remote">Lämplig för alla smarta TV-fjärrkontroller.</string>
+    <string name="remote">Fjärr</string>
+    <string name="channel">Kanal</string>
+    <string name="speak_to_text">Tala med text</string>
+    <string name="keyboard">Tangentbord</string>
+    <string name="enter_text_here">Skriv in text här…</string>
+    <string name="your_channel_will_show_here">Din kanal kommer att visas här</string>
+    <string name="can_t_find_channel_please_connect_to_tv">Kan inte hitta kanalen, vänligen anslut till TV:n</string>
+    <string name="error_try_again">Fel! Försök igen</string>
+    <string name="wifi_not_connected">Wifi inte anslutet!</string>
+    <string name="toast_input_socket_is_null">Fel: ingångssocket är null!</string>
+    <string name="remote_swipe">Svep för att flytta tryck till Välj</string>
+
+</resources>

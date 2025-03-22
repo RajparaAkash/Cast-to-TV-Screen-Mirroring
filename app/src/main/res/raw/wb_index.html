@@ -1,0 +1,621 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8" />
+        <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no" />
+
+        <title>Cast to TV</title>
+        <link rel="stylesheet" href="/bootstrap.css" />
+        <style>
+            html, body{
+              margin:0;
+              height:100%;
+              min-height: 100%;
+              background-color: #DADADA;
+            }
+
+            .header-background {
+              background: #DADADA;
+              height: 220px;
+              display: block;
+            }
+
+            .main-container {
+              margin: -135px auto -10px;
+              min-width: 760px;
+              width: 840px;
+              display: block;
+            }
+
+            .main-logo, .main-title {
+              cursor: pointer;
+            }
+
+
+            .main-col-right {
+              font-size: 16px;
+              font-weight: 200;
+            }
+
+            .textbox {
+              padding: 36px 20px 20px 30px;
+              text-align: justify;
+            }
+
+            .main-content {
+              padding: 45px 45px;
+              background: #FFF;
+              border-radius: 2px;
+              box-shadow: 0 1px 1px 0 rgba(0,0,0,0.06), 0 2px 5px 0 rgba(0,0,0,0.2);
+            }
+
+
+            @media (max-width:992px ) {
+              .main-container {
+                width: auto !important;
+                min-width: auto !important;
+                margin-top: -220px !important;
+              }
+
+              .main-content {
+                padding: 0px;
+              }
+
+              #qrcode-container {
+                padding-top: 40px;
+                padding-bottom: 40px;
+                margin: 0 auto;
+              }
+
+              #mirror-container-outer {
+                margin: 0 auto;
+              }
+
+              #mirror-container-outer .col-md-12{
+                padding: 0;
+              }
+
+            }
+
+            .main-title {
+              color: #000;
+              padding-top: 8px;
+              padding-left: 3px;
+              font-weight: 200;
+              font-size: 1.1em;
+
+            }
+
+            .mirror-container-inner, .mirror-fullscreen-container-inner {
+              position: relative;
+              min-height: 100px;
+              z-index: 20000;
+            }
+            .mirror-container-inner .mirror-underlay {
+              position: absolute;
+              top: 0;
+              left: 0;
+              width: 100%;
+              height: 100%;
+              min-height: 100px;
+              color: #FFF;
+              background: rgba(0, 0, 0, .8);
+              font-size: 20px;
+              font-weight: 200;
+            }
+
+            .mirror-container-inner .mirror-overlay, .mirror-fullscreen-container-inner .mirror-fullscreen-overlay {
+              position: absolute;
+              top: 0;
+              left: 0;
+              width: 100%;
+              height: 100%;
+              min-height: 100px;
+              display: none;
+              color: #FFF;
+              background: rgba(0, 0, 0, .8);
+              font-size: 20px;
+              font-weight: 200;
+            }
+
+            .qrcode {
+              padding-top: 20px;
+              padding-bottom: 20px;
+            }
+
+            .button {
+              display: inline-block;
+              cursor: pointer;
+            }
+
+            .button > img{
+              height: 35px;
+            }
+
+            .button > .img-zoom{
+              height: 30px;
+            }
+
+            .button > .img-light{
+              height: 27px;
+            }
+
+            .button > .img-wb_icon_download{
+              height: 28px;
+            }
+
+            .main-actions {
+              float: right;
+              padding-top: 4px;
+              width: 170px;
+              border-radius: 2px 2px;
+              display: none;
+            }
+
+            .lights-out-container {
+              background: #000;
+              height: 100%;
+              width: 100%;
+              z-index: 10000;
+              display: none;
+              position: absolute;
+            }
+
+            .mirror-fullscreen-container-outer {
+              min-height:100%;
+              min-width:100%;
+              height: 100%;
+              width: 100%;
+              position:absolute;
+              background: #000;
+              z-index: 30000;
+            }
+
+            .popover {
+              z-index: 40000;
+              font-size: 13px;
+              font-weight: 200;
+            }
+
+            .footer {
+              position: absolute;
+              bottom: 0;
+              width: 100%;
+              height: 30px;
+              margin-bottom: 10px;
+            }
+
+            .img-light-out {
+              margin-top: 5px;
+              margin-right: 15px;
+            }
+            .footer a {
+              color: #999;
+            }
+            .footer .footer-container {
+              text-align: center;
+              font-size: 0.7em;
+            }
+
+            .copyright {
+              color: #999;
+            }
+
+            .info-text {
+                color: #999;
+                text-align: center;
+                font-size: 0.7em;
+            }
+
+            .placeholder {
+              display: block;
+              height: 40px;
+            }
+
+            .body-container {
+              min-height:100%;
+              position:relative;
+            }
+
+            .browser-warning {
+              color: #999;
+              text-align: center;
+              font-size: 0.8em;
+            }
+
+            #qrcode-container img {
+              padding-top: 40px;
+              padding-bottom: 40px;
+            }
+
+            .alert-danger-alt {
+              border-color: #065682;
+              color: #065682;
+              font-size: 20px;
+              font-weight: 200;
+              text-align: center;
+            }
+
+            .privacy {
+              h2, h4 {
+                font-weight: 200;
+              }
+
+              p {
+                font-weight: 100;
+                font-size: 14px;
+              }
+
+              b, strong {
+                font-weight: 500;
+              }
+            }
+            </style>
+
+        <link rel="apple-touch-icon" href="/wb_logo.png" />
+        <link rel="icon" href="/wb_logo.png" />
+        <script src="/app.js"></script>
+    </head>
+    <body id="body">
+        <div class="body-container">
+            <div class="mirror-fullscreen-container-outer" style="display: none;">
+                <center>
+                    <div class="mirror-fullscreen-container-inner">
+                        <img class="mirror-fullscreen-image" src="/screen.mjpeg" width="60%" />
+                        <div class="mirror-fullscreen-overlay">Connection lost.
+                            <a tabindex="0" role="button" data-toggle="popover" data-placement="bottom" data-trigger="focus" data-content="The connection to Cast to TV is interrupted. This message is shown when you close the app before you close this window or it was not possible to establish a connection. If you didn't close the app, it might be that one of your devices lost the WiFi connection. In that case, make sure both devices are still in the WiFi network. If the problem persists, try to connect via your device's hotspot, instead of a WiFi network. Furthermore make sure you have no connection blocking plugins or addons activated for this page. Then try to reload the page and restart the app.">Why?</a>
+                        </div>
+                    </div>
+                </center>
+            </div>
+            <div class="lights-out-container">
+                <div class="button toggleLightsout" style="float: right;">
+                    <img src="/wb_icon_light_white.png" class="header-icon img-light img-light-out" />
+                </div>
+            </div>
+
+            <div class="header-background">
+            </div>
+
+            <div class="main-container">
+                <a href="/" class="main-logo">
+                    <img src="/wb_logo.png" width="30" height="30" style="margin-right: 5px; margin-top: 5px;" class="d-inline-block align-top" /><label class="main-title">Cast to TV</label>
+                </a>
+                <div class="main-actions hidden-sm-down">
+                    <div class="button" id="zoomIn">
+                        <img src="/wb_icon_zoom_in.png" class="header-icon img-zoom" title="Zoom in" />
+                    </div>
+                    <div class="button" id="zoomOut">
+                        <img src="/wb_icon_zoom_out.png" class="header-icon img-zoom" title="Zoom out"/>
+                    </div>
+                    <div class="button" id="toggleFullScreen" >
+                        <img src="/wb_icon_fit_screen_start.png" class="header-icon toggleFullscreenIcon" title="Fullscreen" />
+                    </div>
+                    <div class="button toggleLightsout" >
+                        <img src="/wb_icon_light.png" class="header-icon img-light" title="Lights out" />
+                    </div>
+                    <a class="button" id="wb_icon_download" href="/screen.jpeg" target="_blank">
+                        <img src="/wb_icon_download.png" class="header-icon img-wb_icon_download" title="Screenshot" />
+                    </a>
+                </div>
+
+                <div class="main-content">
+
+                    <noscript>
+                        <div class="alert alert-danger-alt" role="alert" style="border-radius: .15rem;">
+                            Please enable JavaScript. Otherwise Cast to TV will not work properly.
+                        </div>
+                    </noscript>
+
+                    <div class="row" id="mirror-container-outer">
+                        <div class="col-md-12" >
+                            <center>
+                                <div class="mirror-container-inner">
+                                    <img class="mirror-image" src="/screen.mjpeg" width="60%" alt="Please wait..." />
+                                    <div class="mirror-overlay">Connection lost. <a tabindex="0" role="button" data-toggle="popover" data-placement="bottom" data-trigger="focus" data-content="The connection to Cast to TV is interrupted. This message is shown when you close the app before you close this window or it was not possible to establish a connection. If you didn't close the app, it might be that one of your devices lost the WiFi connection. In that case, make sure both devices are still in the WiFi network. If the problem persists, try to connect via your device's hotspot, instead of a WiFi network. Furthermore make sure you have no connection blocking plugins or addons activated for this page. Then try to reload the page and restart the app.">Why?</a>
+                                    </div>
+                                </div>
+                            </center>
+                        </div>
+                    </div>
+
+                </div>
+
+                <center>
+                    <span class='info-text'>Press 'b' on your keyboard to show/hide screen temporarily.</span>
+                </center>
+            </div>
+
+            <div class="placeholder">&nbsp;
+            </div>
+            <footer class="footer">
+                <div class="footer-container">
+                    <br>
+                    <span class="copyright">Cast to TV © 2021</span>
+                </div>
+            </footer>
+        </div>
+        <script type="text/javascript">
+
+var sizePixel = 380;
+var orientationPortrait = null;
+var fullscreenMode = false;
+var pingCount = 0;
+var errorCount = 0;
+
+function setScreenSize() {
+  var container, overlay, screen;
+  var underlay = $(".mirror-underlay");
+  var bodyWidth = $('#body').width();
+  var bodyHeight = $('#body').height();
+  var mobile = bodyWidth < 600;
+
+  if (getFullScreenElement() != null) {
+    overlay = $(".mirror-fullscreen-overlay");
+    screen = $('.mirror-fullscreen-image');
+    container = $(".mirror-fullscreen-container-inner");
+    $('.mirror-fullscreen-container-outer').show();
+    $('.mirror-container-outer').hide();
+
+    if (orientationPortrait === false) {
+      screen.css('width', bodyWidth - 10 + "px");
+      screen.css('height', "auto");
+      container.css('lineHeight', bodyHeight + 'px');
+    } else {
+      screen.css('height', bodyHeight - 10 + "px");
+      screen.css('width', "auto");
+    }
+  } else {
+    overlay = $(".mirror-overlay");
+    screen = $(".mirror-image");
+    container = $(".mirror-container-inner");
+
+    if (mobile) {
+      $('.mirror-fullscreen-container-outer').hide();
+      $('.mirror-container-outer').show();
+      screen.css('width', bodyWidth - 2 + "px");
+      screen.css('height', "auto");
+    } else {
+      $('.mirror-fullscreen-container-outer').hide();
+      $('.mirror-container-outer').show();
+
+      if (orientationPortrait === false) {
+        screen.css('height', sizePixel + "px");
+        screen.css('width', "auto");
+      } else {
+        screen.css('width', sizePixel + "px");
+        screen.css('height', "auto");
+      }
+    }
+
+    if (orientationPortrait === false) {
+      if (screen.width() > 740) {
+        screen.css('height', "auto");
+        screen.css('width', "740px");
+      }
+    }
+  }
+
+  var width = screen.width();
+  var height = screen.height();
+
+  if (width < 50 || height < 50) {
+    container.css('width', screen.css('width'));
+    container.css('height', '400px');
+    overlay.css('lineHeight', '400px');
+    return underlay.css('lineHeight', '400px');
+  } else {
+    container.css('width', screen.css('width'));
+    container.css('height', screen.css('height'));
+    overlay.css('lineHeight', screen.height() + 'px');
+    return underlay.css('lineHeight', screen.height() + 'px');
+  }
+}
+
+function registerOrientationChangeObserver() {
+  return setInterval(function () {
+    var screen;
+
+    if (getFullScreenElement() === null) {
+      screen = $(".mirror-image");
+    } else {
+      screen = $(".mirror-fullscreen-image");
+    }
+
+    var width = screen.width();
+    var height = screen.height();
+
+    if (width < 50 || height < 50) {
+      return;
+    }
+
+    var tmpOrientationPortrait = null;
+
+    if (width > height) {
+      tmpOrientationPortrait = false;
+    } else {
+      tmpOrientationPortrait = true;
+    }
+
+    if (orientationPortrait !== false && orientationPortrait !== true || tmpOrientationPortrait !== orientationPortrait) {
+      orientationPortrait = tmpOrientationPortrait;
+      return setScreenSize();
+    }
+  }, 100);
+}
+
+function ping() {
+  return $.ajax({
+    url: '/ping',
+    crossDomain: true,
+    dataType: 'jsonp',
+    jsonpCallback: 'callback',
+    success: function success(data) {
+      $('.mirror-overlay').hide();
+      $('.mirror-fullscreen-overlay').hide();
+      errorCount = 0;
+      pingCount++;
+      return setTimeout(function () {
+        ping();
+      }, 3000);
+    },
+    error: function error() {
+      if (errorCount > 1) {
+        $('.mirror-overlay').show();
+        $('.mirror-fullscreen-overlay').show();
+      }
+
+      pingCount++;
+      errorCount++;
+
+      if (errorCount < 20) {
+        return setTimeout(function () {
+          ping();
+        }, 3000);
+      }
+    }
+  });
+}
+
+function getFullScreenElement() {
+  var fullscreenDocument = document.fullscreenElement || document.mozFullScreenElement || document.webkitFullscreenElement;
+
+  if (typeof fullscreenDocument === 'undefined') {
+    return null;
+  }
+
+  return fullscreenDocument;
+}
+
+function requestFullScreen(element) {
+  if (element.requestFullScreen) {
+    return element.requestFullScreen();
+  } else if (element.webkitRequestFullScreen) {
+    return element.webkitRequestFullScreen();
+  } else if (element.mozRequestFullScreen) {
+    return element.mozRequestFullScreen();
+  }
+}
+
+function startFullScreen() {
+  var doc = document.documentElement;
+  return requestFullScreen(doc);
+}
+
+function exitFullScreen() {
+  if (document.exitFullscreen) {
+    document.exitFullscreen();
+  } else if (document.mozCancelFullScreen) {
+    document.mozCancelFullScreen();
+  } else if (document.webkitExitFullscreen) {
+    document.webkitExitFullscreen();
+  }
+
+  $(".toggleFullscreenIcon").attr('src', '/wb_icon_fit_screen_start.png');
+  return setScreenSize();
+}
+
+function zoomIn() {
+  var screen = $(".mirror-image");
+
+  if (screen.width() < 710) {
+    sizePixel = sizePixel + 50;
+    return setScreenSize();
+  }
+}
+
+function zoomOut() {
+  var screen = $(".mirror-image");
+
+  if (screen.width() > 140) {
+    sizePixel = sizePixel - 50;
+    return setScreenSize();
+  }
+}
+
+function setFullScreenControls() {
+  if (getFullScreenElement() === null) {
+    fullscreenMode = true;
+    $(".toggleFullscreenIcon").attr('src', '/wb_icon_fit_screen_start.png');
+    setScreenSize();
+  } else {
+    fullscreenMode = false;
+    $(".toggleFullscreenIcon").attr('src', '/wb_icon_fit_screen_end.png');
+  }
+
+  return setScreenSize();
+}
+
+function toggleFullScreen() {
+  if (getFullScreenElement() === null) {
+    return startFullScreen();
+  } else {
+    return exitFullScreen();
+  }
+}
+
+function toggleLightsout() {
+  return $('.lights-out-container').toggle();
+}
+
+$(function () {
+  console.log("DOM loaded"); // bootstrap
+
+  $('body').tooltip({
+    selector: '[data-toggle="tooltip"]'
+  });
+  $('body').popover({
+    selector: '[data-toggle="popover"]'
+  });
+  $('#zoomIn').click(function () {
+    zoomIn();
+  });
+  $('#zoomOut').click(function () {
+    zoomOut();
+  });
+  $('#toggleFullScreen').click(function () {
+    toggleFullScreen();
+  });
+  $('.toggleLightsout').click(function () {
+    toggleLightsout();
+  });
+  $(window).resize(function () {
+    setScreenSize();
+  });
+  $('.mirror-image').resize(function () {
+    setScreenSize();
+  });
+  registerOrientationChangeObserver();
+  setScreenSize();
+  $('.main-container').animate({
+    'marginTop': '-220px'
+  }, 500, function () {
+    $('.main-actions').show();
+  });
+  setTimeout(function () {
+    ping();
+  }, 2000);
+  document.addEventListener("fullscreenchange", function () {
+    setFullScreenControls();
+  }, false);
+  document.addEventListener("mozfullscreenchange", function () {
+    setFullScreenControls();
+  }, false);
+  document.addEventListener("webkitfullscreenchange", function () {
+    setFullScreenControls();
+  }, false);
+  document.addEventListener('MSFullscreenChange', function () {
+    setFullScreenControls();
+  }, false);
+  $(document).keydown(function (e) {
+    if (e.code === 'KeyB' || e.key === 'b') {
+      $('.mirror-image').toggle();
+      $('.mirror-fullscreen-image').toggle();
+    }
+  });
+});
+
+        </script>
+    </body>
+</html>

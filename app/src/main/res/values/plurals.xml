@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="number_of_videos" translatable="false">
+        <item quantity="one">%d Video</item>
+        <item quantity="other">%d Videos</item>
+    </plurals>
+
+    <plurals name="number_of_image" translatable="false">
+        <item quantity="one">%d Image</item>
+        <item quantity="other">%d Images</item>
+    </plurals>
+</resources>

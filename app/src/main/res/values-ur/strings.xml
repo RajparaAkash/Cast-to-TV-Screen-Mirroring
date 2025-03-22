@@ -1,0 +1,145 @@
+<resources>
+    <string name="app_name">Cast to TV</string>
+
+    <string name="intro_title_1">اسکرین مررنگ</string>
+    <string name="intro_title_2">ریموٹ یونیورسل</string>
+    <string name="intro_title_3">TV پر کاسٹ کریں</string>
+    <string name="intro_title_4">ویب براؤزر کاسٹ</string>
+    <string name="intro_des_1">چھوٹی فون اسکرین کو بڑی ٹی وی اسکرین پر اعلی معیار اور ریئل ٹائم اسپیڈ میں کاسٹ کریں</string>
+    <string name="intro_des_2"> وائی فائی کنکشن والے موبائل فون کا استعمال کرتے ہوئے اپنے ٹی وی کو کنٹرول کریں</string>
+    <string name="intro_des_3">TV پر کاسٹ کریں اور ویڈیوز اور فلمیں دیکھنے کے بہترین تجربے سے لطف اندوز ہوں</string>
+    <string name="intro_des_4">اگر آپ کو اپنی پسندیدہ ویب سائٹس سے اپنے TV ویڈیوز پر دیکھنے کی اجازت دیتا ہے۔</string>
+
+
+    <string name="audio">آڈیو</string>
+    <string name="connect_device"> ڈیوائس کو جوڑیں</string>
+    <string name="connect_to_device">آلہ سے جڑیں</string>
+    <string name="thank_you_for_using_this_app">اس ایپ کو استعمال کرنے کے لیے آپ کا شکریہ!!!</string>
+    <string name="you_want_to_exit">کیا آپ واقعی اس ایپ سے باہر نکلنا چاہتے ہیں؟</string>
+    <string name="yes">ہاں</string>
+    <string name="no">نہیں</string>
+    <string name="image">تصویر</string>
+    <string name="skip">چھوڑیں</string>
+    <string name="next">اگلا</string>
+    <string name="get_start"> شروعات کریں</string>
+    <string name="language">زبان</string>
+    <string name="save">محفوظ کریں</string>
+    <string name="cast_to_tv">TV پر کاسٹ کریں</string>
+    <string name="no_device_connection">کوئی ڈیوائس کنکشن نہیں ہے</string>
+    <string name="tap_to_connect"> جڑنے کے لیے تھپتھپائیں</string>
+    <string name="tap_to_disconnect">منقطع کرنے کے لیے تھپتھپائیں</string>
+    <string name="chromecast">Chromecast</string>
+    <string name="cast_media"> کاسٹ میڈیا</string>
+    <string name="video">ویڈیو</string>
+    <string name="cast_web"> کاسٹ ویب</string>
+    <string name="drive">ڈرائیو</string>
+    <string name="youtube">YouTube</string>
+    <string name="browser">براؤزر</string>
+    <string name="permission">اجازت</string>
+    <string name="for_this_application">اس ایپلیکیشن کے کام کرنے کے لیے، آپ کو مطلوبہ اجازتوں کی اجازت دینی ہوگی۔</string>
+    <string name="image_from_external_storage"> خارجی سٹوریج سے تصویر کاسٹنگ کے مقصد کے لیے اجازت کے ساتھ پڑھی جانی چاہیے۔</string>
+    <string name="audio_from_external_storage"> خارجی اسٹوریج سے آڈیو کاسٹنگ کے مقصد کے لیے اجازت کے ساتھ پڑھنا ضروری ہے۔</string>
+    <string name="video_from_external_storage"> کاسٹنگ کے مقصد کے لیے بیرونی اسٹوریج سے ویڈیو کو اجازت کے ساتھ پڑھنا ضروری ہے۔</string>
+    <string name="allow_permissions"> اجازت دیں</string>
+    <string name="we_value_your_feedback">ہم آپ کے تاثرات کی قدر کرتے ہیں!!!</string>
+    <string name="please_take_a_moment">براہ کرم تھوڑا وقت نکالیں اور اس ایپ کی درجہ بندی کریں</string>
+    <string name="select_the_connection_you_want">آپ جو کنکشن چاہتے ہیں اسے منتخب کریں</string>
+    <string name="choose_a_screencast_scene">ایک اسکرین کاسٹ منظر منتخب کریں</string>
+    <string name="setting">ترتیب</string>
+    <string name="you_will_get_unlimited">آپ کو پریمیم ورژن میں لامحدود رسائی حاصل ہوگی</string>
+    <string name="go_premium">گو پریمیم</string>
+    <string name="general"> جنرل</string>
+    <string name="vibration"> کمپن</string>
+    <string name="vibrate_on_interaction"> تعامل پر وائبریٹ</string>
+    <string name="languages">زبانیں</string>
+    <string name="more">مزید</string>
+    <string name="rate_us">ہمیں درجہ بندی کریں</string>
+    <string name="please_let_us_know_about_your_experience_using_the_app">براہ کرم ہمیں ایپ استعمال کرنے کے اپنے تجربے کے بارے میں بتائیں</string>
+    <string name="share"> اشتراک</string>
+    <string name="share_all_mirror_with_your_friends">تمام عکس اپنے دوستوں کے ساتھ شیئر کریں</string>
+    <string name="privacy_policy"> رازداری کی پالیسی</string>
+    <string name="read_our_privacy_policy">ہماری رازداری کی پالیسی پڑھیں</string>
+    <string name="version"> ورژن :</string>
+    <string name="start_mirroring"> عکس بندی شروع کریں</string>
+    <string name="stop_mirroring"> عکس بند کرو</string>
+    <string name="casting_a_small_phone_screen">اعلی معیار اور حقیقی وقت میں ایک چھوٹی فون اسکرین کو بڑی ٹی وی اسکرین پر کاسٹ کرنا۔</string>
+    <string name="no_item_found">کوئی آئٹم نہیں ملا</string>
+    <string name="connecting"> جڑ رہا ہے…</string>
+    <string name="quickly_cast_video_image">ویڈیو، تصویر اور ویب مررنگ کنیکٹنگ کو جلدی سے کاسٹ کریں۔</string>
+    <string name="disconnect_with_tv">TV کے ساتھ منقطع کریں</string>
+    <string name="device_do_you_want_to_disconnect">کیا آپ آلہ منقطع کرنا چاہتے ہیں؟</string>
+    <string name="disconnect">منقطع کریں</string>
+    <string name="cancel">منسوخ کریں</string>
+    <string name="how_to_connect">کیسے جڑیں</string>
+    <string name="how_to_connect_des_01">آپ کا موبائل اور ٹی وی ایک ہی وائی فائی سے منسلک ہوتے ہیں اور VPN کو آف کرتے ہیں</string>
+    <string name="how_to_connect_des_02">اپنے فون پر وائرلیس ڈسپلے فنکشن کو فعال کریں اور آلہ کی تلاش کا انتظار کریں۔ جڑنے کے لیے آلہ کا نام دینے کے لیے کلک کریں۔</string>
+    <string name="how_to_connect_des_03">کنکشن کامیاب۔ اب آپ سمارٹ فون کے ذریعے کنٹرول کر سکتے ہیں۔</string>
+    <string name="i_got_it"> میں سمجھ گیا</string>
+    <string name="no_internet">کوئی انٹرنیٹ نہیں</string>
+    <string name="connect_wifi"> وائی فائی سے جڑیں</string>
+    <string name="ok">ٹھیک ہے</string>
+    <string name="pairing_with_tv">TV کے ساتھ جوڑا بنانا</string>
+    <string name="please_confirm_the_connection_on_your_tv">براہ کرم اپنے TV پر کنکشن کی تصدیق کریں</string>
+    <string name="enter_the_code_you_see_on_tv"> وہ کوڈ درج کریں جو آپ TV پر دیکھتے ہیں</string>
+    <string name="enter_code">کوڈ درج کریں</string>
+    <string name="verify">تصدیق کریں</string>
+    <string name="please_wait">براہ کرم انتظار کریں</string>
+    <string name="screen_mirroring">اسکرین مررنگ</string>
+    <string name="get_premium">پریمیم حاصل کریں</string>
+    <string name="smart_tv">سمارٹ ٹی وی</string>
+    <string name="mobile_screen_sharing_to_tv">ٹی وی پر موبائل اسکرین کا اشتراک</string>
+    <string name="direct_mirror"> براہ راست آئینہ</string>
+    <string name="mirror_web_browser"> آئینہ ویب براؤزر</string>
+    <string name="typing_url_in_your_pc_s_web_browser">اپنے کمپیوٹر کے ویب براؤزر میں URL ٹائپ کرنا</string>
+    <string name="info">معلومات</string>
+    <string name="name">نام :</string>
+    <string name="size">سائز :</string>
+    <string name="resolution">ریزولوشن :</string>
+    <string name="path"> راستہ :</string>
+
+    <string name="make_sure_your_phone">یقینی بنائیں کہ آپ کا فون اور TV\nایک ہی Wi-Fi نیٹ ورک سے جڑے ہوئے ہیں۔</string>
+    <string name="the_page_you_re_looking">آپ جس صفحہ کو تلاش کر رہے ہیں وہ نہیں ملا ہم\nآپ کو گھر واپس جانے کا مشورہ دیتے ہیں</string>
+    <string name="no_internet_des">آپ WiFi سے منسلک نہیں ہیں۔ اپنے آلے کو جوڑنے کے لیے، براہ کرم\nWiFi نیٹ ورک کو آن کریں!</string>
+    <string name="cast_smartphone_screen"> اسمارٹ فون اسکرین کو بڑی\nٹی وی اسکرین پر مستحکم طور پر کاسٹ کریں۔</string>
+    <string name="sharing_screen_don_t_need_enable_miracast">شیئرنگ اسکرین کو Enable\nMiracast کی ضرورت نہیں ہے</string>
+
+
+    <string name="unlock_all_pro_features">تمام پرو خصوصیات کو غیر مقفل کریں</string>
+
+    <string name="sm_smart_tv_des_01">یقینی بنائیں کہ آپ کا آلہ اور TV ایک ہی WiFi نیٹ ورک سے منسلک ہیں۔</string>
+    <string name="sm_smart_tv_des_02">سیٹنگ کے سسٹم سے منسلک ہونے کے لیے "شروع کریں عکس بندی" بٹن پر کلک کریں۔</string>
+    <string name="sm_smart_tv_des_03">اپنے فون پر وائرلیس ڈسپلے فنکشن کو فعال کریں۔ اپنے ٹی وی کا پتہ لگانے کے لیے وائرلیس ڈسپلے کو آن کرنے کے لیے دائیں کونے میں موجود آئیکن پر کلک کریں اگر آپ کو اپنا آلہ نہیں ملتا ہے۔</string>
+
+    <string name="sm_direct_mirror_des_01">یقینی بنائیں کہ آپ کا آلہ اور TV ایک ہی WiFi نیٹ ورک سے منسلک ہیں۔</string>
+    <string name="sm_direct_mirror_des_02">اسکرین کی عکس بندی شروع کرنے کے لیے "اسٹارٹ بٹن" کو تھپتھپائیں۔</string>
+    <string name="sm_direct_mirror_des_03">اگر آپ کا TV تصدیقی ڈائیلاگ دکھاتا ہے، تو اسے فزیکل TV ریموٹ کا استعمال کرتے ہوئے قبول کریں۔</string>
+
+    <string name="sm_web_browser_des_01">یقینی بنائیں کہ آپ کا آلہ اور کاسٹ ڈیوائس ایک ہی WiFi نیٹ ورک سے منسلک ہیں۔</string>
+    <string name="sm_web_browser_des_02">ویب براؤزر پر اسکرین مررنگ شروع کرنے کے لیے "شروع کریں عکس بندی" بٹن پر کلک کریں۔</string>
+    <string name="sm_web_browser_des_03">اگر آپ کا TV تصدیقی ڈائیلاگ دکھاتا ہے تو اسے فزیکل TV ریموٹ کا استعمال کرتے ہوئے قبول کریں۔</string>
+    <string name="sm_web_browser_des_04">دوسرے ڈیوائس (PC، Xbox، TV، وغیرہ) پر براؤزر کھولیں اور یہ URL درج کریں:</string>
+
+
+    <string name="notification_disconnect_action">Disconnect</string>
+    <string name="notification_remote_camera_desc">Phone Camera is running.</string>
+    <string name="notification_remote_camera_title">Phone Camera</string>
+    <string name="notification_screen_sharing_desc">Connected device has been set to screen sharing.</string>
+    <string name="notification_screen_sharing_title">Screen Share</string>
+    <string name="by_purchasing">By purchasing, you agree to the Terms of Use\nand Privacy Policy</string>
+
+
+    <string name = "remote_control">ریموٹ کنٹرول</string>
+    <string name="suitable_for_all_smart_tv_remote">تمام سمارٹ ٹی وی ریموٹ کے لیے موزوں۔</string>
+    <string name = "remote">ریموٹ</string>
+    <string name="channel">چینل</string>
+    <string name="speak_to_text">متن سے بات کریں</string>
+    <string name="keyboard">کی بورڈ</string>
+    <string name="enter_text_here">یہاں متن درج کریں…</string>
+    <string name="your_channel_will_show_here">آپ کا چینل یہاں نظر آئے گا</string>
+    <string name="can_t_find_channel_please_connect_to_tv">چینل نہیں مل رہا، براہ کرم TV سے جڑیں</string>
+    <string name="error_try_again">خرابی! براہ کرم دوبارہ کوشش کریں</string>
+    <string name="wifi_not_connected">وائی فائی منسلک نہیں ہے!</string>
+    <string name="toast_input_socket_is_null">خرابی: ان پٹ ساکٹ کالعدم ہے!</string>
+    <string name="remote_swipe">منتخب کرنے کے لیے ٹیپ کو منتقل کرنے کے لیے سوائپ کریں</string>
+
+</resources>

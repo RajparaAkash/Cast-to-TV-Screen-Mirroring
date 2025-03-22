@@ -1,0 +1,145 @@
+<resources>
+    <string name="app_name">Cast to TV</string>
+
+    <string name="intro_title_1"> Madubin allo</string>
+    <string name="intro_title_2">Babban Duniya</string>
+    <string name="intro_title_3"> Yi wa TV</string>
+    <string name="intro_title_4"> Cast Mai Binciken Yanar Gizo</string>
+    <string name="intro_des_1"> Jafa ƙaramin allon waya zuwa babban allon TV a cikin inganci mai inganci da saurin gaske</string>
+    <string name="intro_des_2"> Sarrafa TV ɗin ku ta amfani da wayar hannu tare da haɗin WiFi</string>
+    <string name="intro_des_3">Yiwa zuwa TV kuma ku more mafi kyawun ƙwarewar kallon bidiyo da fina-finai </string>
+    <string name="intro_des_4">Idan ya baka damar kallon bidiyon TV daga gidajen yanar gizon da kuka fi so.</string>
+
+
+    <string name="audio">Audio</string>
+    <string name="connect_device">Haɗa na\'ura</string>
+    <string name="connect_to_device">Haɗa zuwa Na\'ura</string>
+    <string name="thank_you_for_using_this_app">Na gode Don Amfani da Wannan App ɗin!!!</string>
+    <string name="you_want_to_exit">Ka tabbata, kana son fita daga wannan app?</string>
+    <string name="yes"> Ee</string>
+    <string name="no">A\'a</string>
+    <string name="image">Hoto</string>
+    <string name="skip"> Tsallake </string>
+    <string name="next">Na gaba</string>
+    <string name="get_start">Fara</string>
+    <string name="language">Harshe</string>
+    <string name="save">Ajiye</string>
+    <string name="cast_to_tv">Yiwa zuwa TV</string>
+    <string name="no_device_connection">Babu Haɗin Na\'ura</string>
+    <string name="tap_to_connect">Taɓa don haɗawa</string>
+    <string name="tap_to_disconnect">Taɓa don Cire haɗin gwiwa</string>
+    <string name="chromecast">Chromecast</string>
+    <string name="cast_media">Kafofin watsa labarai na Cast</string>
+    <string name="video">Bidiyo</string>
+    <string name="cast_web">Cast Yanar Gizo</string>
+    <string name="drive">Drive</string>
+    <string name="youtube">YouTube</string>
+    <string name="browser">Mai bincike </string>
+    <string name="permission">Izinin</string>
+    <string name="for_this_application">Domin wannan aikace-aikacen ya yi aiki, dole ne ku ba da izinin izinin da ake buƙata.</string>
+    <string name="image_from_external_storage">Dole ne a karanta hoto daga ma\'ajin waje tare da izini don yin simintin.</string>
+    <string name="audio_from_external_storage">Dole ne a karanta odiyo daga ma\'ajiya ta waje tare da izinin yin aikin.</string>
+    <string name="video_from_external_storage">Dole ne a karanta bidiyo daga ma\'ajiya ta waje tare da izinin yin aikin.</string>
+    <string name="allow_permissions">Ba da izini </string>
+    <string name="we_value_your_feedback">Muna Jin Dadin Ra\'ayinku!!!</string>
+    <string name="please_take_a_moment">Da fatan za a ɗan ɗan ɗanɗana ɗan lokaci kuma kuyi rating wannan app</string>
+    <string name="select_the_connection_you_want">Zaba Haɗin da kuke So</string>
+    <string name="choose_a_screencast_scene">Zaɓi wurin Screencast</string>
+    <string name="setting"> Saiti</string>
+    <string name="you_will_get_unlimited">Za ku sami damar shiga mara iyaka a cikin sigar ƙira </string>
+    <string name="go_premium">Go Premium</string>
+    <string name="general"> Gaba ɗaya </string>
+    <string name="vibration"> girgiza</string>
+    <string name="vibrate_on_interaction"> girgiza akan hulda</string>
+    <string name="languages"> Harsuna</string>
+    <string name="more">Ƙari</string>
+    <string name="rate_us"> Raba mu </string>
+    <string name="please_let_us_know_about_your_experience_using_the_app">Da fatan za a sanar da mu game da gogewar ku ta amfani da app</string>
+    <string name="share">Share</string>
+    <string name="share_all_mirror_with_your_friends">Raba duk madubi tare da abokanka</string>
+    <string name="privacy_policy">Manufar Kerewa</string>
+    <string name="read_our_privacy_policy">Karanta manufofin sirrinmu</string>
+    <string name="version">Sigar :</string>
+    <string name="start_mirroring">Fara Mirroring</string>
+    <string name="stop_mirroring">Dakatar da madubi </string>
+    <string name="casting_a_small_phone_screen">Fitar da ƙaramin allon waya zuwa babban allon TV a cikin inganci da kuma ainihin lokaci.</string>
+    <string name="no_item_found">Babu wani abu da aka samu</string>
+    <string name="connecting">Haɗa…</string>
+    <string name="quickly_cast_video_image"> Saurin jefa bidiyo, hoto da haɗin haɗin yanar gizo.</string>
+    <string name="disconnect_with_tv"> Cire haɗin da TV</string>
+    <string name="device_do_you_want_to_disconnect">Kuna son cire haɗin na\'urar?</string>
+    <string name="disconnect"> Cire haɗin </string>
+    <string name="cancel">Soke</string>
+    <string name="how_to_connect">Yadda ake hadawa</string>
+    <string name="how_to_connect_des_01"> Wayar hannu da TV ɗinku suna haɗa Wifi iri ɗaya kuma ku kashe VPN </string>
+    <string name="how_to_connect_des_02"> Kunna aikin nuni mara waya a wayarka kuma jira neman na\'urar. Danna don suna na\'urar don haɗawa.</string>
+    <string name="how_to_connect_des_03">Haɗin ya yi nasara. Yanzu zaku iya sarrafa ta ta wayar hannu.</string>
+    <string name="i_got_it">Na samu </string>
+    <string name="no_internet">Babu Intanet</string>
+    <string name="connect_wifi">Haɗa Wifi</string>
+    <string name="ok">OK</string>
+    <string name="pairing_with_tv">Hade tare da TV</string>
+    <string name="please_confirm_the_connection_on_your_tv">Da fatan za a tabbatar da haɗin kan TV ɗin ku </string>
+    <string name="enter_the_code_you_see_on_tv">Shigar da lambar da kuke gani akan TV</string>
+    <string name="enter_code">Shigar da lamba </string>
+    <string name="verify">Tabbatar</string>
+    <string name="please_wait">Da fatan za a jira</string>
+    <string name="screen_mirroring"> Madubin allo</string>
+    <string name="get_premium">Samu Premium</string>
+    <string name="smart_tv">Smart TV</string>
+    <string name="mobile_screen_sharing_to_tv"> Raba allon wayar hannu zuwa TV</string>
+    <string name="direct_mirror">Madubi Kai tsaye</string>
+    <string name="mirror_web_browser">Mai duba Mai binciken Yanar Gizo</string>
+    <string name="typing_url_in_your_pc_s_web_browser">Buga URL a gidan yanar gizon ku na PC</string>
+    <string name="info">Bayani</string>
+    <string name="name">Sunan :</string>
+    <string name="size">Girman :</string>
+    <string name="resolution">Resolution:</string>
+    <string name="path">Hanya:</string>
+
+    <string name="make_sure_your_phone">Tabbatar cewa an haɗa wayarka da TV zuwa cibiyar sadarwar Wi-Fi iri ɗaya.</string>
+    <string name="the_page_you_re_looking">Ba a samo shafin da kuke nema muna ba ku shawarar komawa gida ba</string>
+    <string name="no_internet_des">Ba a haɗa ku da WiFi ba. Don haɗa na\'urarka, da fatan za a kunna hanyar sadarwar WiFi!</string>
+    <string name="cast_smartphone_screen">Sanya allon wayowin komai da ruwan zuwa babban allo\nTV.</string>
+    <string name="sharing_screen_don_t_need_enable_miracast">Allon rabawa baya buƙatar Kunna\nMiracast</string>
+
+
+    <string name="unlock_all_pro_features">Buɗe duk fasalulluka </string>
+
+    <string name="sm_smart_tv_des_01">Tabbatar cewa na\'urarka da TV ɗinka suna haɗe zuwa cibiyar sadarwar WiFi iri ɗaya.</string>
+    <string name="sm_smart_tv_des_02"> Danna "fara madubi" don haɗi zuwa tsarin saiti.</string>
+    <string name="sm_smart_tv_des_03"> Kunna aikin nuni mara waya a wayarka. Danna alamar da ke kusurwar dama don kunna nuni mara waya don gano TV ɗin ku idan ba ku sami na\'urarku ba.</string>
+
+    <string name="sm_direct_mirror_des_01">Tabbatar cewa na\'urarku da TV ɗinku suna haɗe zuwa cibiyar sadarwar WiFi iri ɗaya.</string>
+    <string name="sm_direct_mirror_des_02">Taɓa "maɓallin farawa" don fara madubin allo.</string>
+    <string name="sm_direct_mirror_des_03">Idan TV ɗin ku yana nuna maganganun tabbatarwa, karɓe ta ta amfani da nesa na TV ta zahiri.</string>
+
+    <string name="sm_web_browser_des_01">Tabbatar cewa na\'urarku da na\'urar simintin ku suna haɗe zuwa hanyar sadarwar WiFi iri ɗaya.</string>
+    <string name="sm_web_browser_des_02"> Danna "fara madubi" maballin don fara madubin allo akan burauzar gidan yanar gizo.</string>
+    <string name="sm_web_browser_des_03">Idan TV ɗin ku yana nuna maganganun tabbatarwa, karɓe ta ta amfani da nesa na TV ta zahiri.</string>
+    <string name="sm_web_browser_des_04">Bude mai lilo a wata na\'urar (PC, Xbox, TV, da sauransu) sannan a shigar da wannan URL:</string>
+
+
+    <string name="notification_disconnect_action">Disconnect</string>
+    <string name="notification_remote_camera_desc">Phone Camera is running.</string>
+    <string name="notification_remote_camera_title">Phone Camera</string>
+    <string name="notification_screen_sharing_desc">Connected device has been set to screen sharing.</string>
+    <string name="notification_screen_sharing_title">Screen Share</string>
+    <string name="by_purchasing">By purchasing, you agree to the Terms of Use\nand Privacy Policy</string>
+
+
+    <string name="remote_control">Ikon nesa </string>
+    <string name= "suitable_for_all_smart_tv_remote" > Ya dace da All TV mai nisa.</string>
+    <string name="remote"> nesa</string>
+    <string name="channel">Channel</string>
+    <string name= "speak_to_text"> Yi magana da rubutu </string>
+    <string name="keyboard">Allon madannai</string>
+    <string name="enter_text_here">Shigar da rubutu anan…</string>
+    <string name="your_channel_will_show_here">Tashar ku za ta nuna a nan</string>
+    <string name="can_t_find_channel_please_connect_to_tv">Ba za a iya samun tashar ba, da fatan za a haɗa zuwa TV</string>
+    <string name="error_try_again">Kuskure! Da fatan za a sake gwadawa</string>
+    <string name="wifi_not_connected">Wifi ba a haɗa!</string>
+    <string name= "toast_input_socket_is_null">Kuskure: shigar soket ba shi da amfani!</string>
+    <string name= "remote_swipe" > Dokewa don matsar da matsawa zuwa Zaɓi</string>
+
+</resources>

@@ -1,0 +1,145 @@
+<resources>
+    <string name="app_name">Cast to TV</string>
+
+    <string name="intro_title_1">การมิเรอร์หน้าจอ</string>
+    <string name="intro_title_2">รีโมทสากล</string>
+    <string name="intro_title_3">แคสต์ไปที่ทีวี</string>
+    <string name="intro_title_4">แคสต์เว็บเบราว์เซอร์</string>
+    <string name="intro_des_1">แคสต์หน้าจอโทรศัพท์ขนาดเล็กไปที่หน้าจอทีวีขนาดใหญ่ด้วยคุณภาพสูงและความเร็วแบบเรียลไทม์</string>
+    <string name="intro_des_2">ควบคุมทีวีของคุณโดยใช้โทรศัพท์มือถือที่มีการเชื่อมต่อ WiFi</string>
+    <string name="intro_des_3">แคสต์ไปที่ทีวีและเพลิดเพลินกับประสบการณ์ที่ดีที่สุดในการรับชมวิดีโอและภาพยนตร์</string>
+    <string name="intro_des_4">ช่วยให้คุณรับชมวิดีโอจากเว็บไซต์โปรดของคุณบนทีวีได้</string>
+
+
+    <string name="audio">เสียง</string>
+    <string name="connect_device">เชื่อมต่ออุปกรณ์</string>
+    <string name="connect_to_device">เชื่อมต่อกับอุปกรณ์</string>
+    <string name="thank_you_for_using_this_app">ขอบคุณที่ใช้แอปนี้!!!</string>
+    <string name="you_want_to_exit">คุณแน่ใจหรือไม่ คุณต้องการออกจากแอปนี้ ?</string>
+    <string name="yes">ใช่</string>
+    <string name="no">ไม่</string>
+    <string name="image">รูปภาพ</string>
+    <string name="skip">ข้าม</string>
+    <string name="next">ถัดไป</string>
+    <string name="get_start">เริ่มต้นเลย</string>
+    <string name="language">ภาษา</string>
+    <string name="save">บันทึก</string>
+    <string name="cast_to_tv">แคสต์ไปที่ทีวี</string>
+    <string name="no_device_connection">ไม่มีการเชื่อมต่ออุปกรณ์</string>
+    <string name="tap_to_connect">แตะเพื่อเชื่อมต่อ</string>
+    <string name="tap_to_disconnect">แตะเพื่อตัดการเชื่อมต่อ</string>
+    <string name="chromecast">Chromecast</string>
+    <string name="cast_media">Cast Media</string>
+    <string name="video">Video</string>
+    <string name="cast_web">Cast Web</string>
+    <string name="drive">Drive</string>
+    <string name="youtube">YouTube</string>
+    <string name="browser">Browser</string>
+    <string name="permission">Permission</string>
+    <string name="for_this_application">เพื่อให้แอปพลิเคชันนี้ทำงานได้ คุณต้องอนุญาตสิทธิ์ที่จำเป็น</string>
+    <string name="image_from_external_storage">รูปภาพจากที่จัดเก็บข้อมูลภายนอกต้องได้รับการอ่านโดยได้รับอนุญาตเพื่อวัตถุประสงค์ในการแคสต์</string>
+    <string name="audio_from_external_storage">เสียงจากที่จัดเก็บข้อมูลภายนอกต้องได้รับการอ่านโดยได้รับอนุญาตเพื่อวัตถุประสงค์ในการแคสต์</string>
+    <string name="video_from_external_storage">วิดีโอจากที่จัดเก็บข้อมูลภายนอกต้องได้รับการอ่านโดยได้รับอนุญาตเพื่อวัตถุประสงค์ในการแคสต์</string>
+    <string name="allow_permissions">อนุญาตสิทธิ์</string>
+    <string name="we_value_your_feedback">เราให้ความสำคัญกับคำติชมของคุณ!!!</string>
+    <string name="please_take_a_moment">โปรดใช้เวลาสักครู่เพื่อให้คะแนนแอปนี้</string>
+    <string name="select_the_connection_you_want">เลือกการเชื่อมต่อที่คุณต้องการ</string>
+    <string name="choose_a_screencast_scene">เลือกฉาก Screencast</string>
+    <string name="setting">การตั้งค่า</string>
+    <string name="you_will_get_unlimited">คุณจะได้รับการเข้าถึงไม่จำกัดในเวอร์ชันพรีเมียม</string>
+    <string name="go_premium">ใช้พรีเมียม</string>
+    <string name="general">ทั่วไป</string>
+    <string name="vibration">การสั่นสะเทือน</string>
+    <string name="vibrate_on_interaction">สั่นเมื่อ การโต้ตอบ</string>
+    <string name="languages">ภาษา</string>
+    <string name="more">เพิ่มเติม</string>
+    <string name="rate_us">ให้คะแนนเรา</string>
+    <string name="please_let_us_know_about_your_experience_using_the_app">โปรดแจ้งให้เราทราบเกี่ยวกับประสบการณ์การใช้แอปของคุณ</string>
+    <string name="share">แชร์</string>
+    <string name="share_all_mirror_with_your_friends">แชร์ All Mirror กับเพื่อนของคุณ</string>
+    <string name="privacy_policy">นโยบายความเป็นส่วนตัว</string>
+    <string name="read_our_privacy_policy">อ่านนโยบายความเป็นส่วนตัวของเรา</string>
+    <string name="version">เวอร์ชัน :</string>
+    <string name="start_mirroring">Start Mirroring</string>
+    <string name="stop_mirroring">Stop Mirroring</string>
+    <string name="casting_a_small_phone_screen">การแคสต์หน้าจอโทรศัพท์ขนาดเล็กไปยังหน้าจอทีวีขนาดใหญ่ด้วยคุณภาพสูงแบบเรียลไทม์</string>
+    <string name="no_item_found">ไม่พบรายการ</string>
+    <string name="connecting">กำลังเชื่อมต่อ…</string>
+    <string name="quickly_cast_video_image">แคสต์วิดีโอ รูปภาพ และเว็บมิเรอร์ได้อย่างรวดเร็วโดยเชื่อมต่อ</string>
+    <string name="disconnect_with_tv">ตัดการเชื่อมต่อกับทีวี</string>
+    <string name="device_do_you_want_to_disconnect">คุณต้องการตัดการเชื่อมต่อกับอุปกรณ์ใด</string>
+    <string name="disconnect">ตัดการเชื่อมต่อกับ</string>
+    <string name="cancel">ยกเลิก</string>
+    <string name="how_to_connect">วิธีการเชื่อมต่อ</string>
+    <string name="how_to_connect_des_01">โทรศัพท์มือถือและทีวีของคุณเชื่อมต่อกับ Wi-Fi เดียวกันและปิด VPN</string>
+    <string name="how_to_connect_des_02">เปิดใช้งานฟังก์ชันการแสดงผลแบบไร้สายบนโทรศัพท์ของคุณและรอจนกว่าอุปกรณ์จะค้นหา คลิกเพื่อตั้งชื่ออุปกรณ์ที่จะเชื่อมต่อ</string>
+    <string name="how_to_connect_des_03">การเชื่อมต่อสำเร็จ ตอนนี้คุณสามารถควบคุมผ่านสมาร์ทโฟนได้</string>
+    <string name="i_got_it">เข้าใจแล้ว</string>
+    <string name="no_internet">ไม่มีอินเทอร์เน็ต</string>
+    <string name="connect_wifi">เชื่อมต่อ Wi-Fi</string>
+    <string name="ok">ตกลง</string>
+    <string name="pairing_with_tv">จับคู่กับทีวี</string>
+    <string name="please_confirm_the_connection_on_your_tv">กรุณายืนยันการเชื่อมต่อบนทีวี</string>
+    <string name="enter_the_code_you_see_on_tv">ใส่รหัสที่คุณเห็นบนทีวี</string>
+    <string name="enter_code">ใส่รหัส</string>
+    <string name="verify">ยืนยัน</string>
+    <string name="please_wait">กรุณารอ</string>
+    <string name="screen_mirroring">การมิเรอร์หน้าจอ</string>
+    <string name="get_premium">รับพรีเมียม</string>
+    <string name="smart_tv">สมาร์ททีวี</string>
+    <string name="mobile_screen_sharing_to_tv">การแชร์หน้าจอมือถือไปยังทีวี</string>
+    <string name="direct_mirror">Direct Mirror</string>
+    <string name="mirror_web_browser">Mirror Web Browser</string>
+    <string name="typing_url_in_your_pc_s_web_browser">การพิมพ์ URL ในเว็บเบราว์เซอร์ของพีซี</string>
+    <string name="info">ข้อมูล</string>
+    <string name="name">ชื่อ :</string>
+    <string name="size">ขนาด :</string>
+    <string name="resolution">ความละเอียด :</string>
+    <string name="path">เส้นทาง :</string>
+
+    <string name="make_sure_your_phone">ตรวจสอบให้แน่ใจว่าโทรศัพท์และทีวีของคุณเชื่อมต่อกับเครือข่าย Wi-Fi เดียวกัน</string>
+    <string name="the_page_you_re_looking">ไม่พบหน้าที่คุณกำลังค้นหา เราขอแนะนำให้คุณกลับไปที่หน้าแรก</string>
+    <string name="no_internet_des">คุณไม่ได้เชื่อมต่อกับ Wi-Fi หากต้องการเชื่อมต่ออุปกรณ์ของคุณ โปรดเปิดเครือข่าย Wi-Fi!</string>
+    <string name="cast_smartphone_screen">ส่งหน้าจอสมาร์ทโฟนไปยังหน้าจอทีวีขนาดใหญ่ได้อย่างเสถียร</string>
+    <string name="sharing_screen_don_t_need_enable_miracast">ไม่จำเป็นต้องเปิดใช้งาน\nMiracast เพื่อแชร์หน้าจอ</string>
+
+
+    <string name="unlock_all_pro_features">ปลดล็อคฟีเจอร์ทั้งหมดของโปร</string>
+
+    <string name="sm_smart_tv_des_01">ตรวจสอบให้แน่ใจว่าอุปกรณ์และทีวีของคุณเชื่อมต่อกับเครือข่าย WiFi เดียวกัน</string>
+    <string name="sm_smart_tv_des_02">คลิกปุ่ม “เริ่มมิเรอร์” เพื่อเชื่อมต่อกับระบบการตั้งค่า</string>
+    <string name="sm_smart_tv_des_03">เปิดใช้งานฟังก์ชันการแสดงผลแบบไร้สายบนโทรศัพท์ของคุณ คลิกไอคอนที่มุมขวาเพื่อเปิดการแสดงผลแบบไร้สายเพื่อตรวจจับทีวีของคุณในกรณีที่คุณไม่พบอุปกรณ์ของคุณ</string>
+
+    <string name="sm_direct_mirror_des_01">ตรวจสอบให้แน่ใจว่าอุปกรณ์และทีวีของคุณเชื่อมต่อกับเครือข่าย WiFi เดียวกัน</string>
+    <string name="sm_direct_mirror_des_02">แตะ "ปุ่มเริ่ม" เพื่อเริ่มมิเรอร์หน้าจอ</string>
+    <string name="sm_direct_mirror_des_03">หากทีวีของคุณแสดงกล่องโต้ตอบยืนยัน ให้ยอมรับโดยใช้รีโมททีวีจริง</string>
+
+    <string name="sm_web_browser_des_01">ตรวจสอบให้แน่ใจว่าอุปกรณ์และอุปกรณ์แคสต์ของคุณเชื่อมต่อกับเครือข่าย WiFi เดียวกัน</string>
+    <string name="sm_web_browser_des_02">คลิกปุ่ม "เริ่มมิเรอร์" เพื่อเริ่มมิเรอร์หน้าจอบนเว็บเบราว์เซอร์</string>
+    <string name="sm_web_browser_des_03">หากทีวีของคุณแสดงกล่องโต้ตอบยืนยัน ให้ยอมรับโดยใช้รีโมททีวีจริง รีโมททีวี</string>
+    <string name="sm_web_browser_des_04">เปิดเบราว์เซอร์บนอุปกรณ์อื่น (พีซี, Xbox, ทีวี ฯลฯ) และป้อน URL นี้:</string>
+
+
+    <string name="notification_disconnect_action">Disconnect</string>
+    <string name="notification_remote_camera_desc">Phone Camera is running.</string>
+    <string name="notification_remote_camera_title">Phone Camera</string>
+    <string name="notification_screen_sharing_desc">Connected device has been set to screen sharing.</string>
+    <string name="notification_screen_sharing_title">Screen Share</string>
+    <string name="by_purchasing">By purchasing, you agree to the Terms of Use\nand Privacy Policy</string>
+
+
+    <string name="remote_control">รีโมตคอนโทรล</string>
+    <string name="suitable_for_all_smart_tv_remote">เหมาะสำหรับรีโมตสมาร์ททีวีทุกรุ่น</string>
+    <string name="remote">รีโมต</string>
+    <string name="channel">ช่อง</string>
+    <string name="speak_to_text">พูดเป็นข้อความ</string>
+    <string name="keyboard">คีย์บอร์ด</string>
+    <string name="enter_text_here">ป้อนข้อความที่นี่…</string>
+    <string name="your_channel_will_show_here">ช่องของคุณจะแสดงที่นี่</string>
+    <string name="can_t_find_channel_please_connect_to_tv">ไม่พบช่อง โปรดเชื่อมต่อกับทีวี</string>
+    <string name="error_try_again">เกิดข้อผิดพลาด! โปรดลองอีกครั้ง</string>
+    <string name="wifi_not_connected">ไม่ได้เชื่อมต่อ Wifi!</string>
+    <string name="toast_input_socket_is_null">ข้อผิดพลาด: ซ็อกเก็ตอินพุตเป็นค่าว่าง!</string>
+    <string name="remote_swipe">ปัดเพื่อย้ายแตะเพื่อเลือก</string>
+
+</resources>

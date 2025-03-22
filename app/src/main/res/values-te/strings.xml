@@ -1,0 +1,145 @@
+<resources>
+    <string name="app_name">Cast to TV</string>
+
+    <string name="intro_title_1">స్క్రీన్ మిర్రరింగ్</string>
+    <string name="intro_title_2">రిమోట్ యూనివర్సల్</string>
+    <string name="intro_title_3">టీవీకి ప్రసారం చేయండి</string>
+    <string name="intro_title_4">వెబ్ బ్రౌజర్ ప్రసారం</string>
+    <string name="intro_des_1">చిన్న ఫోన్ స్క్రీన్‌ను పెద్ద టీవీ స్క్రీన్‌కి అధిక నాణ్యత మరియు నిజ-సమయ వేగంతో ప్రసారం చేయండి</string>
+    <string name="intro_des_2">WiFi కనెక్షన్‌తో మొబైల్ ఫోన్‌ని ఉపయోగించి మీ టీవీని నియంత్రించండి</string>
+    <string name="intro_des_3">టీవీకి ప్రసారం చేయండి మరియు వీడియోలు మరియు చలనచిత్రాలను చూసే ఉత్తమ అనుభవాన్ని ఆస్వాదించండి</string>
+    <string name="intro_des_4">మీకు ఇష్టమైన వెబ్‌సైట్‌ల నుండి మీ టీవీ వీడియోలను చూడటానికి మిమ్మల్ని అనుమతిస్తే.</string>
+
+
+    <string name="audio">ఆడియో</string>
+    <string name="connect_device">పరికరాన్ని కనెక్ట్ చేయండి</string>
+    <string name="connect_to_device">పరికరానికి కనెక్ట్ చేయండి</string>
+    <string name="thank_you_for_using_this_app">ఈ యాప్‌ని ఉపయోగించినందుకు ధన్యవాదాలు!!!</string>
+    <string name="you_want_to_exit">మీరు ఖచ్చితంగా ఈ యాప్ నుండి నిష్క్రమించాలనుకుంటున్నారా ?</string>
+    <string name="yes">అవును</string>
+    <string name="no">కాదు</string>
+    <string name="image">చిత్రం</string>
+    <string name="skip">దాటవేయి</string>
+    <string name="next">తదుపరి</string>
+    <string name="get_start">ప్రారంభించండి</string>
+    <string name="language">భాష</string>
+    <string name="save">సేవ్</string>
+    <string name="cast_to_tv">టీవీకి ప్రసారం చేయండి</string>
+    <string name="no_device_connection">పరికర కనెక్షన్ లేదు</string>
+    <string name="tap_to_connect">కనెక్ట్ చేయడానికి నొక్కండి</string>
+    <string name="tap_to_disconnect">డిస్‌కనెక్ట్ చేయడానికి నొక్కండి</string>
+    <string name="chromecast">Chromecast</string>
+    <string name="cast_media">Cast Media</string>
+    <string name="video">వీడియో</string>
+    <string name="cast_web">Cast Web</string>
+    <string name="drive">డ్రైవ్</string>
+    <string name="youtube">YouTube</string>
+    <string name="browser">బ్రౌజర్</string>
+    <string name="permission">అనుమతి</string>
+    <string name="for_this_application">ఈ అప్లికేషన్ పని చేయడానికి, మీరు తప్పనిసరిగా అవసరమైన అనుమతులను అనుమతించాలి.</string>
+    <string name="image_from_external_storage">బాహ్య నిల్వ నుండి చిత్రాన్ని కాస్టింగ్ ప్రయోజనం కోసం తప్పనిసరిగా అనుమతితో చదవాలి.</string>
+    <string name="audio_from_external_storage">కాస్టింగ్ ప్రయోజనం కోసం బాహ్య నిల్వ నుండి ఆడియో తప్పనిసరిగా అనుమతితో చదవబడాలి.</string>
+    <string name="video_from_external_storage">కాస్టింగ్ ప్రయోజనం కోసం బాహ్య నిల్వ నుండి వీడియోని తప్పనిసరిగా అనుమతితో చదవాలి.</string>
+    <string name="allow_permissions">అనుమతులను అనుమతించు</string>
+    <string name="we_value_your_feedback">మేము మీ అభిప్రాయానికి విలువనిస్తాము!!!</string>
+    <string name="please_take_a_moment">దయచేసి ఈ యాప్‌ను రేట్ చేయండి</string>
+    <string name="select_the_connection_you_want">మీకు కావలసిన కనెక్షన్‌ని ఎంచుకోండి</string>
+    <string name="choose_a_screencast_scene">స్క్రీన్‌కాస్ట్ దృశ్యాన్ని ఎంచుకోండి</string>
+    <string name="setting">సెట్టింగ్</string>
+    <string name="you_will_get_unlimited">మీరు ప్రీమియం వెర్షన్‌లో అపరిమిత ప్రాప్యతను పొందుతారు</string>
+    <string name="go_premium">గో ప్రీమియం</string>
+    <string name="general">జనరల్</string>
+    <string name="vibration">వైబ్రేషన్</string>
+    <string name="vibrate_on_interaction">పరస్పర చర్యపై వైబ్రేట్ చేయండి</string>
+    <string name="languages">భాషలు</string>
+    <string name="more">మరిన్ని</string>
+    <string name="rate_us">మమ్మల్ని రేట్ చేయండి</string>
+    <string name="please_let_us_know_about_your_experience_using_the_app">దయచేసి అనువర్తనాన్ని ఉపయోగించి మీ అనుభవం గురించి మాకు తెలియజేయండి</string>
+    <string name="share">భాగస్వామ్యం</string>
+    <string name="share_all_mirror_with_your_friends">అన్ని మిర్రర్‌లను మీ స్నేహితులతో పంచుకోండి</string>
+    <string name="privacy_policy">గోప్యతా విధానం</string>
+    <string name="read_our_privacy_policy">మా గోప్యతా విధానాన్ని చదవండి</string>
+    <string name="version">వెర్షన్ :</string>
+    <string name="start_mirroring">మిర్రరింగ్ ప్రారంభించు</string>
+    <string name="stop_mirroring">మిర్రరింగ్ ఆపు</string>
+    <string name="casting_a_small_phone_screen">చిన్న ఫోన్ స్క్రీన్‌ను పెద్ద టీవీ స్క్రీన్‌కి అధిక నాణ్యత మరియు నిజ సమయంలో ప్రసారం చేయడం.</string>
+    <string name="no_item_found">ఏ అంశం కనుగొనబడలేదు</string>
+    <string name="connecting">కనెక్ట్ అవుతోంది…</string>
+    <string name="quickly_cast_video_image">వీడియో, ఇమేజ్ మరియు వెబ్ మిర్రరింగ్ కనెక్ట్ చేయడాన్ని త్వరగా ప్రసారం చేయండి.</string>
+    <string name="disconnect_with_tv">TVతో డిస్‌కనెక్ట్ చేయండి</string>
+    <string name="device_do_you_want_to_disconnect">పరికరాన్ని మీరు డిస్‌కనెక్ట్ చేయాలనుకుంటున్నారా?</string>
+    <string name="disconnect">డిస్‌కనెక్ట్</string>
+    <string name="cancel">రద్దు చేయి</string>
+    <string name="how_to_connect">ఎలా కనెక్ట్ చేయాలి</string>
+    <string name="how_to_connect_des_01">మీ మొబైల్ మరియు టీవీ ఒకే Wifiకి కనెక్ట్ చేసి VPNని ఆఫ్ చేయండి</string>
+    <string name="how_to_connect_des_02">మీ ఫోన్‌లో వైర్‌లెస్ డిస్‌ప్లే ఫంక్షన్‌ను ప్రారంభించండి మరియు పరికర శోధన కోసం వేచి ఉండండి. కనెక్ట్ చేయడానికి పరికరానికి పేరు పెట్టడానికి క్లిక్ చేయండి.</string>
+    <string name="how_to_connect_des_03">కనెక్షన్ విజయవంతమైంది. ఇప్పుడు మీరు స్మార్ట్‌ఫోన్ ద్వారా నియంత్రించవచ్చు.</string>
+    <string name="i_got_it">నాకు అర్థమైంది</string>
+    <string name="no_internet">ఇంటర్నెట్ లేదు</string>
+    <string name="connect_wifi">Wifiని కనెక్ట్ చేయండి</string>
+    <string name="ok">సరే</string>
+    <string name="pairing_with_tv">టీవీతో జత చేయడం</string>
+    <string name="please_confirm_the_connection_on_your_tv">దయచేసి మీ టీవీలో కనెక్షన్‌ని నిర్ధారించండి</string>
+    <string name="enter_the_code_you_see_on_tv">టీవీలో మీరు చూసే కోడ్‌ని నమోదు చేయండి</string>
+    <string name="enter_code">కోడ్‌ని నమోదు చేయండి</string>
+    <string name="verify">ధృవీకరించు</string>
+    <string name="please_wait">దయచేసి వేచి ఉండండి</string>
+    <string name="screen_mirroring">స్క్రీన్ మిర్రరింగ్</string>
+    <string name="get_premium">ప్రీమియం పొందండి</string>
+    <string name="smart_tv">స్మార్ట్ టీవీ</string>
+    <string name="mobile_screen_sharing_to_tv">TVకి మొబైల్ స్క్రీన్ భాగస్వామ్యం</string>
+    <string name="direct_mirror">డైరెక్ట్ మిర్రర్</string>
+    <string name="mirror_web_browser">మిర్రర్ వెబ్ బ్రౌజర్</string>
+    <string name="typing_url_in_your_pc_s_web_browser">మీ PC వెబ్ బ్రౌజర్‌లో URLని టైప్ చేయడం</string>
+    <string name="info">సమాచారం</string>
+    <string name="name">పేరు :</string>
+    <string name="size">పరిమాణం :</string>
+    <string name="resolution">రిజల్యూషన్ :</string>
+    <string name="path">మార్గం :</string>
+
+    <string name="make_sure_your_phone">మీ ఫోన్ మరియు టీవీ\nఒకే Wi-Fi నెట్‌వర్క్‌కి కనెక్ట్ అయ్యాయని నిర్ధారించుకోండి.</string>
+    <string name="the_page_you_re_looking">మీరు వెతుకుతున్న పేజీ కనుగొనబడలేదు\nమేము మిమ్మల్ని ఇంటికి తిరిగి వెళ్లమని సూచిస్తున్నాము</string>
+    <string name="no_internet_des">మీరు WiFiకి కనెక్ట్ చేయబడలేదు. మీ పరికరాన్ని\nకనెక్ట్ చేయడానికి, దయచేసి\nWiFi నెట్‌వర్క్‌ను ఆన్ చేయండి!</string>
+    <string name="cast_smartphone_screen">స్మార్ట్‌ఫోన్ స్క్రీన్‌ని పెద్ద\nటీవీ స్క్రీన్‌కి స్థిరంగా ప్రసారం చేయండి.</string>
+    <string name="sharing_screen_don_t_need_enable_miracast">భాగస్వామ్య స్క్రీన్ మిరాకాస్ట్‌ని ప్రారంభించాల్సిన అవసరం లేదు</string>
+
+
+    <string name="unlock_all_pro_features">అన్ని అనుకూల లక్షణాలను అన్‌లాక్ చేయండి</string>
+
+    <string name="sm_smart_tv_des_01">మీ పరికరం మరియు టీవీ ఒకే WiFi నెట్‌వర్క్‌కి కనెక్ట్ చేయబడిందని నిర్ధారించుకోండి.</string>
+    <string name="sm_smart_tv_des_02">సెట్టింగ్ సిస్టమ్‌కి కనెక్ట్ చేయడానికి “స్టార్ట్ మిర్రరింగ్” బటన్‌ను క్లిక్ చేయండి.</string>
+    <string name="sm_smart_tv_des_03">మీ ఫోన్‌లో వైర్‌లెస్ డిస్‌ప్లే ఫంక్షన్‌ను ప్రారంభించండి. మీరు మీ పరికరాన్ని కనుగొనలేకపోతే మీ టీవీని గుర్తించడానికి వైర్‌లెస్ డిస్‌ప్లేను ఆన్ చేయడానికి కుడి మూలలో ఉన్న చిహ్నాన్ని క్లిక్ చేయండి.</string>
+
+    <string name="sm_direct_mirror_des_01">మీ పరికరం మరియు టీవీ ఒకే WiFi నెట్‌వర్క్‌కి కనెక్ట్ చేయబడిందని నిర్ధారించుకోండి.</string>
+    <string name="sm_direct_mirror_des_02">స్క్రీన్ మిర్రరింగ్ ప్రారంభించడానికి “ప్రారంభ బటన్” నొక్కండి.</string>
+    <string name="sm_direct_mirror_des_03">మీ టీవీ నిర్ధారణ డైలాగ్‌ని చూపిస్తే, భౌతిక టీవీ రిమోట్‌ని ఉపయోగించి దాన్ని అంగీకరించండి.</string>
+
+    <string name="sm_web_browser_des_01">మీ పరికరం మరియు ప్రసార పరికరం ఒకే WiFi నెట్‌వర్క్‌కి కనెక్ట్ చేయబడిందని నిర్ధారించుకోండి.</string>
+    <string name="sm_web_browser_des_02">వెబ్ బ్రౌజర్‌లో స్క్రీన్ మిర్రరింగ్ ప్రారంభించడానికి “స్టార్ట్ మిర్రరింగ్” బటన్‌ను క్లిక్ చేయండి.</string>
+    <string name="sm_web_browser_des_03">మీ టీవీ నిర్ధారణ డైలాగ్‌ని చూపిస్తే, భౌతిక టీవీ రిమోట్‌ని ఉపయోగించి దాన్ని అంగీకరించండి.</string>
+    <string name="sm_web_browser_des_04">ఇతర పరికరంలో (PC, Xbox, TV, మొదలైనవి) బ్రౌజర్‌ని తెరిచి, ఈ URLని నమోదు చేయండి:</string>
+
+
+    <string name="notification_disconnect_action">Disconnect</string>
+    <string name="notification_remote_camera_desc">Phone Camera is running.</string>
+    <string name="notification_remote_camera_title">Phone Camera</string>
+    <string name="notification_screen_sharing_desc">Connected device has been set to screen sharing.</string>
+    <string name="notification_screen_sharing_title">Screen Share</string>
+    <string name="by_purchasing">By purchasing, you agree to the Terms of Use\nand Privacy Policy</string>
+
+
+    <string name="remote_control">రిమోట్ కంట్రోల్</string>
+    <string name="suitable_for_all_smart_tv_remote">అన్ని స్మార్ట్ టీవీ రిమోట్‌లకు అనుకూలం.</string>
+    <string name="remote">రిమోట్</string>
+    <string name="channel">ఛానల్</string>
+    <string name="speak_to_text">టెక్స్ట్‌తో మాట్లాడండి</string>
+    <string name="keyboard">కీబోర్డ్</string>
+    <string name="enter_text_here">ఇక్కడ టెక్స్ట్ ఎంటర్ చేయండి…</string>
+    <string name="your_channel_will_show_here">మీ ఛానెల్ ఇక్కడ చూపబడుతుంది</string>
+    <string name="can_t_find_channel_please_connect_to_tv">ఛానెల్‌ను కనుగొనలేకపోయాము, దయచేసి టీవీకి కనెక్ట్ చేయండి</string>
+    <string name="error_try_again">లోపం! దయచేసి మళ్ళీ ప్రయత్నించండి</string>
+    <string name="wifi_not_connected">వైఫై కనెక్ట్ కాలేదు!</string>
+    <string name="toast_input_socket_is_null">లోపం: ఇన్‌పుట్ సాకెట్ శూన్యం!</string>
+    <string name="remote_swipe">తరలించడానికి స్వైప్ చేయండి ఎంచుకోండి నొక్కండి</string>
+
+</resources>

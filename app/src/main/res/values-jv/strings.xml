@@ -1,0 +1,145 @@
+<resources>
+    <string name="app_name">Cast to TV</string>
+
+    <string name="intro_title_1">Layar Mirroring</string>
+    <string name="intro_title_2">Remote Universal Kab</string>
+    <string name="intro_title_3">Cast menyang TV</string>
+    <string name="intro_title_4">Web Browser Cast</string>
+    <string name="intro_des_1">Cetak layar telpon cilik menyang layar TV amba kanthi kualitas dhuwur lan kacepetan wektu nyata</string>
+    <string name="intro_des_2">Kontrol TV nganggo ponsel sing nganggo sambungan WiFi</string>
+    <string name="intro_des_3">Cast menyang TV lan nikmati pengalaman paling apik kanggo nonton video lan film</string>
+    <string name="intro_des_4">Yen ngidini sampeyan nonton video TV saka situs web favorit.</string>
+
+
+    <string name="audio">Audio</string>
+    <string name="connect_device">Sambungake Piranti</string>
+    <string name="connect_to_device">Sambungake menyang Piranti</string>
+    <string name="thank_you_for_using_this_app">Matur nuwun Wis Nggunakake Aplikasi Iki!!!</string>
+    <string name="you_want_to_exit">Apa sampeyan yakin, sampeyan pengin metu saka aplikasi iki?</string>
+    <string name="yes">Ya</string>
+    <string name="no">Ora</string>
+    <string name="image">Gambar</string>
+    <string name="skip">Skip</string>
+    <string name="next">Sabanjure</string>
+    <string name="get_start">Miwiti</string>
+    <string name="language">Basa</string>
+    <string name="save">Simpen</string>
+    <string name="cast_to_tv">Cast to TV</string>
+    <string name="no_device_connection">Ora Ana Sambungan Piranti</string>
+    <string name="tap_to_connect">Tutul kanggo nyambung</string>
+    <string name="tap_to_disconnect">Tutul kanggo Putus sambungan</string>
+    <string name="chromecast">Chromecast</string>
+    <string name="cast_media">Media Cast</string>
+    <string name="video">Video</string>
+    <string name="cast_web">Cast Web</string>
+    <string name="drive">Drive</string>
+    <string name="youtube">YouTube</string>
+    <string name="browser">Browser</string>
+    <string name="permission">Izin</string>
+    <string name="for_this_application">Supaya aplikasi iki bisa digunakake, sampeyan kudu ngidini idin sing dibutuhake.</string>
+    <string name="image_from_external_storage">Gambar saka panyimpenan eksternal kudu diwaca kanthi ijin kanggo tujuan casting.</string>
+    <string name="audio_from_external_storage">Audio saka panyimpenan eksternal kudu diwaca kanthi ijin kanggo tujuan casting.</string>
+    <string name="video_from_external_storage">Video saka panyimpenan eksternal kudu diwaca kanthi ijin kanggo tujuan casting.</string>
+    <string name="allow_permissions">Izinkan Izin</string>
+    <string name="we_value_your_feedback">We Value Feedback Panjenengan!!!</string>
+    <string name="please_take_a_moment">Tulung sedhela lan menehi rating aplikasi iki</string>
+    <string name="select_the_connection_you_want">Pilih Sambungan sing Dipengini</string>
+    <string name="choose_a_screencast_scene">Pilih adegan Screencast</string>
+    <string name="setting">Setelan</string>
+    <string name="you_will_get_unlimited">Sampeyan bakal entuk akses tanpa watesan ing versi premium</string>
+    <string name="go_premium">Go Premium</string>
+    <string name="general">Umum</string>
+    <string name="vibration">Getaran</string>
+    <string name="vibrate_on_interaction">Kedher ing interaksi</string>
+    <string name="languages">Basa</string>
+    <string name="more">Liyane</string>
+    <string name="rate_us">Rate kita</string>
+    <string name="please_let_us_know_about_your_experience_using_the_app">Mangga kabari pengalaman sampeyan nggunakake aplikasi</string>
+    <string name="share">Share</string>
+    <string name="share_all_mirror_with_your_friends">Enggo bareng Kabeh Mirror karo kanca-kanca</string>
+    <string name="privacy_policy">Kebijakan Privasi</string>
+    <string name="read_our_privacy_policy">Waca kabijakan privasi kita</string>
+    <string name="version">Versi:</string>
+    <string name="start_mirroring">Mulai Mirroring</string>
+    <string name="stop_mirroring">Stop Mirroring</string>
+    <string name="casting_a_small_phone_screen">Mengirim layar telpon cilik menyang layar TV gedhe kanthi kualitas dhuwur lan wektu nyata.</string>
+    <string name="no_item_found">Ora ana barang sing ditemokake</string>
+    <string name="connecting">Nyambung...</string>
+    <string name="quickly_cast_video_image">Cepet ngirim video, gambar, lan sambungan kaca web.</string>
+    <string name="disconnect_with_tv">Putus sambungan karo TV</string>
+    <string name="device_do_you_want_to_disconnect">Piranti sampeyan pengin medhot sambungan?</string>
+    <string name="disconnect">Putus sambungan</string>
+    <string name="cancel">Batal</string>
+    <string name="how_to_connect">Cara nyambung</string>
+    <string name="how_to_connect_des_01">Seluler lan TV sampeyan nyambung menyang Wifi sing padha lan mateni VPN</string>
+    <string name="how_to_connect_des_02">Aktifake fungsi tampilan nirkabel ing telpon lan ngenteni piranti nggoleki. Klik kanggo jeneng piranti kanggo nyambung.</string>
+    <string name="how_to_connect_des_03">Sambungan sukses. Saiki sampeyan bisa ngontrol liwat smartphone.</string>
+    <string name="i_got_it">Aku entuk</string>
+    <string name="no_internet">Ora ana Internet</string>
+    <string name="connect_wifi">Sambung Wifi</string>
+    <string name="ok">OK</string>
+    <string name="pairing_with_tv">Pasangan karo TV</string>
+    <string name="please_confirm_the_connection_on_your_tv">Mangga konfirmasi sambungan ing TV sampeyan</string>
+    <string name="enter_the_code_you_see_on_tv">Ketik kode sing sampeyan deleng ing TV</string>
+    <string name="enter_code">Ketik kode</string>
+    <string name="verify">Verifikasi</string>
+    <string name="please_wait">Tunggu</string>
+    <string name="screen_mirroring">Screen Mirroring</string>
+    <string name="get_premium">Entuk Premium</string>
+    <string name="smart_tv">Smart TV</string>
+    <string name="mobile_screen_sharing_to_tv">Nuduhake layar seluler menyang TV</string>
+    <string name="direct_mirror">Direct Mirror</string>
+    <string name="mirror_web_browser">Mirror Web Browser</string>
+    <string name="typing_url_in_your_pc_s_web_browser">Ketik URL ing browser web PC</string>
+    <string name="info">Info</string>
+    <string name="name">Jeneng :</string>
+    <string name="size">Ukuran:</string>
+    <string name="resolution">Resolusi :</string>
+    <string name="path">Path :</string>
+
+    <string name="make_sure_your_phone">Pasthekake telpon lan TV sampeyan wis disambungake menyang jaringan Wi-Fi sing padha.</string>
+    <string name="the_page_you_re_looking">Kaca sing sampeyan goleki ora ditemokake, kita nyaranake sampeyan bali menyang omah</string>
+    <string name="no_internet_des">Sampeyan ora nyambung menyang WiFi. Kanggo\nnyambungake piranti sampeyan, bukak\njaringan WiFi!</string>
+    <string name="cast_smartphone_screen">Cast layar smartphone menyang amba\nlayar TV kanthi stabil.</string>
+    <string name="sharing_screen_don_t_need_enable_miracast">Skrin enggo bareng ora perlu Aktifake\nMiracast</string>
+
+
+    <string name="unlock_all_pro_features">Mbukak kunci kabeh fitur pro</string>
+
+    <string name="sm_smart_tv_des_01">Pesthekake piranti lan TV sampeyan wis nyambung menyang jaringan WiFi sing padha.</string>
+    <string name="sm_smart_tv_des_02">Klik tombol "mulai mirroring" kanggo nyambung menyang sistem setelan.</string>
+    <string name="sm_smart_tv_des_03">Aktifake fungsi tampilan nirkabel ing telpon. Klik lambang ing pojok tengen kanggo nguripake tampilan nirkabel kanggo ndeteksi TV yen sampeyan ora nemokake piranti sampeyan.</string>
+
+    <string name="sm_direct_mirror_des_01">Pesthekake piranti lan TV sampeyan wis nyambung menyang jaringan WiFi sing padha.</string>
+    <string name="sm_direct_mirror_des_02">Tutul “tombol wiwitan” kanggo miwiti pangilonan layar.</string>
+    <string name="sm_direct_mirror_des_03">Yen TV sampeyan nuduhake dialog konfirmasi, tampa nganggo remot TV fisik.</string>
+
+    <string name="sm_web_browser_des_01">Pesthekake yen piranti lan piranti cast disambungake menyang jaringan WiFi sing padha.</string>
+    <string name="sm_web_browser_des_02">Klik tombol “miwiti pangilonan” kanggo miwiti pangilonan layar ing browser web.</string>
+    <string name="sm_web_browser_des_03">Yen TV sampeyan nuduhake dialog konfirmasi, tampa nganggo remot TV fisik.</string>
+    <string name="sm_web_browser_des_04">Bukak browser ing piranti liyane (PC, Xbox, TV, lsp.) banjur ketik URL iki:</string>
+
+
+    <string name="notification_disconnect_action">Disconnect</string>
+    <string name="notification_remote_camera_desc">Phone Camera is running.</string>
+    <string name="notification_remote_camera_title">Phone Camera</string>
+    <string name="notification_screen_sharing_desc">Connected device has been set to screen sharing.</string>
+    <string name="notification_screen_sharing_title">Screen Share</string>
+    <string name="by_purchasing">By purchasing, you agree to the Terms of Use\nand Privacy Policy</string>
+
+
+    <string name="remote_control">Remote Control</string>
+    <string name="suitable_for_all_smart_tv_remote">Cocok kanggo Kabeh remote TV pinter.</string>
+    <string name="remote">Remote</string>
+    <string name="channel">Channel</string>
+    <string name="speak_to_text">Ngomong nganggo teks</string>
+    <string name="keyboard">Keyboard</string>
+    <string name="enter_text_here">Ketik teks ing kene…</string>
+    <string name="your_channel_will_show_here">Saluran sampeyan bakal ditampilake ing kene</string>
+    <string name="can_t_find_channel_please_connect_to_tv">Ora bisa nemokake saluran, mangga sambungake menyang TV</string>
+    <string name="error_try_again">Kesalahan! Coba maneh</string>
+    <string name="wifi_not_connected" >Wifi ora nyambung!</string>
+    <string name="toast_input_socket_is_null">Kesalahan: soket input nol!</string>
+    <string name="remote_swipe">Gesek kanggo mindhah tutul kanggo Pilih</string>
+
+</resources>

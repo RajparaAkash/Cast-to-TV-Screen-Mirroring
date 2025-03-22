@@ -1,0 +1,145 @@
+<resources>
+    <string name="app_name">Cast to TV</string>
+
+    <string name="intro_title_1">Ekran Yansıtma</string>
+    <string name="intro_title_2">Uzaktan Evrensel</string>
+    <string name="intro_title_3">TV\'ye Yayınla</string>
+    <string name="intro_title_4">Web Tarayıcısı Yayını</string>
+    <string name="intro_des_1">Küçük bir telefon ekranını yüksek kalitede ve gerçek zamanlı Hızda büyük TV ekranına yayınla</string>
+    <string name="intro_des_2">WiFi bağlantısıyla cep telefonunuzu kullanarak TV\'nizi kontrol edin</string>
+    <string name="intro_des_3">TV\'ye yayınla ve video ve film izlemenin en iyi deneyiminin tadını çıkar</string>
+    <string name="intro_des_4">En sevdiğiniz web sitelerinden TV\'nizde video izlemenize olanak tanır.</string>
+
+
+    <string name="audio">Ses</string>
+    <string name="connect_device">Cihazı Bağla</string>
+    <string name="connect_to_device">Cihaza Bağlan</string>
+    <string name="thank_you_for_using_this_app">Bu Uygulamayı Kullandığınız İçin Teşekkür Ederiz!!!</string>
+    <string name="you_want_to_exit">Bu uygulamadan çıkmak istediğinizden emin misiniz?</string>
+    <string name="yes">Evet</string>
+    <string name="no">Hayır</string>
+    <string name="image">Görüntü</string>
+    <string name="skip">Atla</string>
+    <string name="next">Sonraki</string>
+    <string name="get_start">Başlayalım</string>
+    <string name="language">Dil</string>
+    <string name="save">Kaydet</string>
+    <string name="cast_to_tv">Yayınla TV\'ye</string>
+    <string name="no_device_connection">Cihaz Bağlantısı Yok</string>
+    <string name="tap_to_connect">Bağlanmak için dokunun</string>
+    <string name="tap_to_disconnect">Bağlantıyı Kesmek için dokunun</string>
+    <string name="chromecast">Chromecast</string>
+    <string name="cast_media">Medya Yayınla</string>
+    <string name="video">Video</string>
+    <string name="cast_web">Web Yayınla</string>
+    <string name="drive">Sürücü</string>
+    <string name="youtube">YouTube</string>
+    <string name="browser">Tarayıcı</string>
+    <string name="permission">İzin</string>
+    <string name="for_this_application">Bu uygulamanın çalışması için gerekli izinleri vermeniz gerekir.</string>
+    <string name="image_from_external_storage">Harici depolamadan gelen görüntü, yayınlama amacıyla izinle okunmalıdır.</string>
+    <string name="audio_from_external_storage">Harici depolamadan gelen ses, yayınlama amacıyla izinle okunmalıdır.</string>
+    <string name="video_from_external_storage">Harici depolamadan gelen video, yayınlama amacıyla izinle okunmalıdır.</string>
+    <string name="allow_permissions">İzinlere İzin Ver</string>
+    <string name="we_value_your_feedback">Geri Bildirimlerinize Değer Veriyoruz!!!</string>
+    <string name="please_take_a_moment">Lütfen bir dakikanızı ayırın ve bu uygulamayı derecelendirin</string>
+    <string name="select_the_connection_you_want">İstediğiniz Bağlantıyı Seçin</string>
+    <string name="choose_a_screencast_scene">Bir Ekran Görüntüsü sahnesi seçin</string>
+    <string name="setting">Ayar</string>
+    <string name="you_will_get_unlimited">Premium sürümde sınırsız erişim elde edeceksiniz</string>
+    <string name="go_premium">Premium\'a Geçin</string>
+    <string name="general">Genel</string>
+    <string name="vibration">Titreşim</string>
+    <string name="vibrate_on_interaction">Etkileşimde titret</string>
+    <string name="languages">Diller</string>
+    <string name="more">Daha Fazlası</string>
+    <string name="rate_us">Bizi derecelendirin</string>
+    <string name="please_let_us_know_about_your_experience_using_the_app">Lütfen uygulamayı kullanma deneyiminizi bize bildirin</string>
+    <string name="share">Paylaş</string>
+    <string name="share_all_mirror_with_your_friends">Tüm Mirror\'ı arkadaşlarınızla paylaşın</string>
+    <string name="privacy_policy">Gizlilik Politikası</string>
+    <string name="read_our_privacy_policy">Gizlilik politikamızı okuyun</string>
+    <string name="version">Sürüm :</string>
+    <string name="start_mirroring">Yansıtmayı Başlat</string>
+    <string name="stop_mirroring">Yansıtmayı Durdur</string>
+    <string name="casting_a_small_phone_screen">Küçük bir telefon ekranını yüksek kalitede ve gerçek zamanlı olarak büyük bir TV ekranına yansıtma.</string>
+    <string name="no_item_found">Hiçbir öğe bulunamadı</string>
+    <string name="connecting">Bağlanıyor…</string>
+    <string name="quickly_cast_video_image">Hızlıca video, görüntü ve web yansıtmayı bağlayın.</string>
+    <string name="disconnect_with_tv">Bağlantıyı Kes TV</string>
+    <string name="device_do_you_want_to_disconnect">Bağlantısını kesmek istediğiniz cihaz nedir?</string>
+    <string name="disconnect">Bağlantıyı kes</string>
+    <string name="cancel">İptal</string>
+    <string name="how_to_connect">Nasıl bağlanır</string>
+    <string name="how_to_connect_des_01">Mobil cihazınız ve televizyonunuz aynı Wifi\'a bağlanıyor ve VPN\'i kapatıyor</string>
+    <string name="how_to_connect_des_02">Telefonunuzda kablosuz görüntüleme işlevini etkinleştirin ve cihazın aramasını bekleyin. Bağlanmak için cihazı adlandırmak için tıklayın.</string>
+    <string name="how_to_connect_des_03">Bağlantı başarılı. Artık akıllı telefonunuz üzerinden kontrol edebilirsiniz.</string>
+    <string name="i_got_it">Anladım</string>
+    <string name="no_internet">İnternet Yok</string>
+    <string name="connect_wifi">Wifi\'ye Bağlan</string>
+    <string name="ok">Tamam</string>
+    <string name="pairing_with_tv">TV ile Eşleştiriliyor</string>
+    <string name="please_confirm_the_connection_on_your_tv">Lütfen TV\'nizdeki bağlantıyı doğrulayın</string>
+    <string name="enter_the_code_you_see_on_tv">TV\'de gördüğünüz kodu girin</string>
+    <string name="enter_code">Kodu girin</string>
+    <string name="verify">Doğrula</string>
+    <string name="please_wait">Lütfen bekleyin</string>
+    <string name="screen_mirroring">Ekran Yansıtma</string>
+    <string name="get_premium">Premium Alın</string>
+    <string name="smart_tv">Akıllı TV</string>
+    <string name="mobile_screen_sharing_to_tv">Mobil ekran paylaşımı TV\'ye</string>
+    <string name="direct_mirror">Doğrudan Yansıtma</string>
+    <string name="mirror_web_browser">Web Tarayıcısını Yansıtma</string>
+    <string name="typing_url_in_your_pc_s_web_browser">URL\'yi bilgisayarınızın web tarayıcısına yazma</string>
+    <string name="info">Bilgi</string>
+    <string name="name">Ad :</string>
+    <string name="size">Boyut :</string>
+    <string name="resolution">Çözünürlük :</string>
+    <string name="path">Yol :</string>
+
+    <string name="make_sure_your_phone">Telefonunuzun ve televizyonunuzun aynı Wi-Fi ağına bağlı olduğundan emin olun.</string>
+    <string name="the_page_you_re_looking">Aradığınız sayfa bulunamadı, ana sayfaya dönmenizi öneririz</string>
+    <string name="no_internet_des">Wi-Fi\'ye bağlı değilsiniz. Cihazınızı bağlamak için lütfen Wi-Fi ağını açın!</string>
+    <string name="cast_smartphone_screen">Akıllı telefon ekranını büyük TV ekranına dengeli bir şekilde yansıtın.</string>
+    <string name="sharing_screen_don_t_need_enable_miracast">Ekran paylaşımı için Miracast\'ı Etkinleştirmeniz gerekmez</string>
+
+
+    <string name="unlock_all_pro_features">Tüm pro özelliklerinin kilidini açın</string>
+
+    <string name="sm_smart_tv_des_01">Cihazınızın ve TV\'nizin aynı WiFi ağına bağlı olduğundan emin olun.</string>
+    <string name="sm_smart_tv_des_02">Ayar sistemine bağlanmak için "yansıtmayı başlat" düğmesine tıklayın.</string>
+    <string name="sm_smart_tv_des_03">Telefonunuzda kablosuz görüntüleme işlevini etkinleştirin. Cihazınızı bulamamanız durumunda televizyonunuzu algılamak için kablosuz ekranı açmak üzere sağ köşedeki simgeye tıklayın.</string>
+
+    <string name="sm_direct_mirror_des_01">Cihazınızın ve televizyonunuzun aynı WiFi ağına bağlı olduğundan emin olun.</string>
+    <string name="sm_direct_mirror_des_02">Ekran yansıtmayı başlatmak için "başlat düğmesine" dokunun.</string>
+    <string name="sm_direct_mirror_des_03">Televizyonunuz onay iletişim kutusunu gösterirse, fiziksel TV uzaktan kumandasını kullanarak kabul edin.</string>
+
+    <string name="sm_web_browser_des_01">Cihazınızın ve yayın cihazınızın aynı WiFi ağına bağlı olduğundan emin olun.</string>
+    <string name="sm_web_browser_des_02">Web tarayıcısında ekran yansıtmayı başlatmak için "yansıtmayı başlat" düğmesine tıklayın.</string>
+    <string name="sm_web_browser_des_03">TV\'niz onay iletişim kutusunu gösterirse, fiziksel TV uzaktan kumandasını kullanarak kabul edin.</string>
+    <string name="sm_web_browser_des_04">Diğer cihazda (PC, Xbox, TV, vb.) tarayıcıyı açın ve şu URL\'yi girin:</string>
+
+
+    <string name="notification_disconnect_action">Disconnect</string>
+    <string name="notification_remote_camera_desc">Phone Camera is running.</string>
+    <string name="notification_remote_camera_title">Phone Camera</string>
+    <string name="notification_screen_sharing_desc">Connected device has been set to screen sharing.</string>
+    <string name="notification_screen_sharing_title">Screen Share</string>
+    <string name="by_purchasing">By purchasing, you agree to the Terms of Use\nand Privacy Policy</string>
+
+
+    <string name="remote_control">Uzaktan Kumanda</string>
+    <string name="suitable_for_all_smart_tv_remote">Tüm akıllı TV uzaktan kumandaları için uygundur.</string>
+    <string name="remote">Uzaktan Kumanda</string>
+    <string name="channel">Kanal</string>
+    <string name="speak_to_text">Metne konuş</string>
+    <string name="keyboard">Klavye</string>
+    <string name="enter_text_here">Buraya metin girin…</string>
+    <string name="your_channel_will_show_here">Kanalınız burada gösterilecek</string>
+    <string name="can_t_find_channel_please_connect_to_tv">Kanal bulunamadı, lütfen TV\'ye bağlanın</string>
+    <string name="error_try_again">Hata! Lütfen tekrar deneyin</string>
+    <string name="wifi_not_connected">Wifi bağlı değil!</string>
+    <string name="toast_input_socket_is_null">Hata: giriş soketi boş!</string>
+    <string name="remote_swipe">Dokunma hareketini seçmek için kaydırın</string>
+
+</resources>

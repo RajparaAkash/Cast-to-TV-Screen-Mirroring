@@ -1,0 +1,145 @@
+<resources>
+    <string name="app_name">Cast to TV</string>
+
+    <string name="intro_title_1">Screen Mirroring</string>
+    <string name="intro_title_2">Remote Universal</string>
+    <string name="intro_title_3">Translation to TV</string>
+    <string name="intro_title_4">Web Browser Cast</string>
+    <string name="intro_des_1">Транслируйте небольшой экран телефона на большой экран телевизора в высоком качестве и в режиме реального времени</string>
+    <string name="intro_des_2">Управляйте телевизором с помощью мобильного телефона с подключением по WiFi</string>
+    <string name="intro_des_3">Транслируйте на телевизор и наслаждайтесь лучшими впечатлениями от просмотра видео и фильмов</string>
+    <string name="intro_des_4">Позволяет смотреть на телевизоре видео с любимых веб-сайтов.</string>
+
+
+    <string name="audio">Аудио</string>
+    <string name="connect_device">Подключить устройство</string>
+    <string name="connect_to_device">Подключиться к устройству</string>
+    <string name="thank_you_for_using_this_app">Спасибо за использование этого приложения!!!</string>
+    <string name="you_want_to_exit">Вы уверены, что хотите выйти из этого приложения?</string>
+    <string name="yes">Да</string>
+    <string name="no">Нет</string>
+    <string name="image">Изображение</string>
+    <string name="skip">Пропустить</string>
+    <string name="next">Далее</string>
+    <string name="get_start">Начать</string>
+    <string name="language">Язык</string>
+    <string name="save">Сохранить</string>
+    <string name="cast_to_tv">Трансляция на ТВ</string>
+    <string name="no_device_connection">Нет подключения к устройству</string>
+    <string name="tap_to_connect">Нажмите для подключения</string>
+    <string name="tap_to_disconnect">Нажмите для отключения</string>
+    <string name="chromecast">Chromecast</string>
+    <string name="cast_media">Трансляция мультимедиа</string>
+    <string name="video">Видео</string>
+    <string name="cast_web">Трансляция в Интернет</string>
+    <string name="drive">Диск</string>
+    <string name="youtube">YouTube</string>
+    <string name="browser">Браузер</string>
+    <string name="permission">Разрешение</string>
+    <string name="for_this_application">Чтобы это приложение работало, необходимо предоставить необходимые разрешения.</string>
+    <string name="image_from_external_storage">Изображение с внешнего хранилища должно быть прочитано с разрешения для трансляции.</string>
+    <string name="audio_from_external_storage">Аудио с внешнего хранилища должно быть прочитано с разрешения для трансляции.</string>
+    <string name="video_from_external_storage">Видео с внешнего хранилища должно быть прочитано с разрешения для трансляции.</string>
+    <string name="allow_permissions">Разрешить разрешения</string>
+    <string name="we_value_your_feedback">Мы ценим ваши отзывы!!!</string>
+    <string name="please_take_a_moment">Пожалуйста, уделите минутку и оцените это приложение</string>
+    <string name="select_the_connection_you_want">Выберите соединение, которое вы хотите Хотите</string>
+    <string name="choose_a_screencast_scene">Выберите сцену скринкаста</string>
+    <string name="setting">Настройка</string>
+    <string name="you_will_get_unlimited">Вы получите неограниченный доступ в премиум-версии</string>
+    <string name="go_premium">Перейти на премиум-версию</string>
+    <string name="general">Общие</string>
+    <string name="vibration">Вибрация</string>
+    <string name="vibrate_on_interaction">Вибрация при взаимодействии</string>
+    <string name="languages">Языки</string>
+    <string name="more">Еще</string>
+    <string name="rate_us">Оцените нас</string>
+    <string name="please_let_us_know_about_your_experience_using_the_app">Пожалуйста, расскажите нам о своем опыте использования приложения</string>
+    <string name="share">Поделиться</string>
+    <string name="share_all_mirror_with_your_friends">Поделиться All Mirror с друзьями</string>
+    <string name="privacy_policy">Политика конфиденциальности</string>
+    <string name="read_our_privacy_policy">Ознакомьтесь с нашей политикой конфиденциальности</string>
+    <string name="version">Версия:</string>
+    <string name="start_mirroring">Начать зеркалирование</string>
+    <string name="stop_mirroring">Остановить зеркалирование</string>
+    <string name="casting_a_small_phone_screen">Трансляция маленького экрана телефона на большой экран телевизора в высоком качестве и в реальном времени.</string>
+    <string name="no_item_found">Элемент не найден</string>
+    <string name="connecting">Подключение…</string>
+    <string name="quickly_cast_video_image">Быстро Подключение трансляции видео, изображений и веб-зеркалирования.</string>
+    <string name="disconnect_with_tv">Отключиться от ТВ</string>
+    <string name="device_do_you_want_to_disconnect">Устройство, которое вы хотите отключить?</string>
+    <string name="disconnect">Отключиться</string>
+    <string name="cancel">Отмена</string>
+    <string name="how_to_connect">Как подключиться</string>
+    <string name="how_to_connect_des_01">Ваш мобильный телефон и телевизор подключаются к одному и тому же Wi-Fi и отключают VPN</string>
+    <string name="how_to_connect_des_02">Включите функцию беспроводного дисплея на вашем телефоне и дождитесь поиска устройства. Нажмите, чтобы назвать устройство для подключения.</string>
+    <string name="how_to_connect_des_03">Подключение успешно установлено. Теперь вы можете управлять через смартфон.</string>
+    <string name="i_got_it">Понял</string>
+    <string name="no_internet">Нет Интернета</string>
+    <string name="connect_wifi">Подключить Wi-Fi</string>
+    <string name="ok">ОК</string>
+    <string name="pairing_with_tv">Сопряжение с телевизором</string>
+    <string name="please_confirm_the_connection_on_your_tv">Подтвердите подключение на вашем телевизоре</string>
+    <string name="enter_the_code_you_see_on_tv">Введите код, который вы видите на телевизоре</string>
+    <string name="enter_code">Введите код</string>
+    <string name="verify">Подтвердить</string>
+    <string name="please_wait">Пожалуйста, подождите</string>
+    <string name="screen_mirroring">Экран Mirroring</string>
+    <string name="get_premium">Получить Premium</string>
+    <string name="smart_tv">Smart TV</string>
+    <string name="mobile_screen_sharing_to_tv">Обмен мобильным экраном с телевизором</string>
+    <string name="direct_mirror">Прямое Mirror</string>
+    <string name="mirror_web_browser">Зеркало веб-браузера</string>
+    <string name="typing_url_in_your_pc_s_web_browser">Ввод URL в веб-браузере вашего ПК</string>
+    <string name="info">Информация</string>
+    <string name="name">Имя:</string>
+    <string name="size">Размер:</string>
+    <string name="resolution">Разрешение:</string>
+    <string name="path">Путь:</string>
+
+    <string name="make_sure_your_phone">Убедитесь, что ваш телефон и телевизор подключены\nк одной сети Wi-Fi.</string>
+    <string name="the_page_you_re_looking">Страница, которую вы ищете,\nне найдена,\nпредлагаем вам вернуться на главную страницу</string>
+    <string name="no_internet_des">Вы не подключены к WiFi. Чтобы\nподключить устройство, включите\nсеть WiFi!</string>
+    <string name="cast_smartphone_screen">Стабильная трансляция экрана смартфона на большой\nэкран телевизора.</string>
+    <string name="sharing_screen_don_t_need_enable_miracast">Для совместного использования экрана не требуется включение\nMiracast</string>
+
+
+    <string name="unlock_all_pro_features">Разблокируйте все профессиональные функции</string>
+
+    <string name="sm_smart_tv_des_01">Убедитесь, что ваше устройство и телевизор подключены к одной и той же сети WiFi.</string>
+    <string name="sm_smart_tv_des_02">Нажмите кнопку «Начать зеркалирование», чтобы подключиться к системе настроек.</string>
+    <string name="sm_smart_tv_des_03">Включите функцию беспроводного дисплея на вашем телефоне. Нажмите на значок в правом углу, чтобы включить беспроводной дисплей для обнаружения телевизора, если вы не можете найти свое устройство.</string>
+
+    <string name="sm_direct_mirror_des_01">Убедитесь, что ваше устройство и телевизор подключены к одной сети WiFi.</string>
+    <string name="sm_direct_mirror_des_02">Нажмите кнопку «Пуск», чтобы начать трансляцию экрана.</string>
+    <string name="sm_direct_mirror_des_03">Если на вашем телевизоре отображается диалоговое окно подтверждения, примите его с помощью физического пульта дистанционного управления телевизора.</string>
+
+    <string name="sm_web_browser_des_01">Убедитесь, что ваше устройство и трансляционное устройство подключены к одной сети WiFi.</string>
+    <string name="sm_web_browser_des_02">Нажмите кнопку «Начать трансляцию», чтобы начать трансляцию экрана в веб-браузере.</string>
+    <string name="sm_web_browser_des_03">Если на вашем телевизоре отображается диалоговое окно подтверждения, примите его с помощью физического пульта дистанционного управления телевизора.</string>
+    <string name="sm_web_browser_des_04">Откройте браузер на другом устройстве (ПК, Xbox, телевизор и т. д.) и введите этот URL:</string>
+
+
+    <string name="notification_disconnect_action">Disconnect</string>
+    <string name="notification_remote_camera_desc">Phone Camera is running.</string>
+    <string name="notification_remote_camera_title">Phone Camera</string>
+    <string name="notification_screen_sharing_desc">Connected device has been set to screen sharing.</string>
+    <string name="notification_screen_sharing_title">Screen Share</string>
+    <string name="by_purchasing">By purchasing, you agree to the Terms of Use\nand Privacy Policy</string>
+
+
+    <string name="remote_control">Пульт дистанционного управления</string>
+    <string name="suitable_for_all_smart_tv_remote">Подходит для всех пультов дистанционного управления Smart TV.</string>
+    <string name="remote">Пульт дистанционного управления</string>
+    <string name="channel">Канал</string>
+    <string name="speak_to_text">Проговаривание текста</string>
+    <string name="keyboard">Клавиатура</string>
+    <string name="enter_text_here">Введите текст здесь…</string>
+    <string name="your_channel_will_show_here">Ваш канал будет отображаться здесь</string>
+    <string name="can_t_find_channel_please_connect_to_tv">Не удается найти канал, подключитесь к телевизору</string>
+    <string name="error_try_again">Ошибка! Попробуйте еще раз</string>
+    <string name="wifi_not_connected">Wi-Fi не подключен!</string>
+    <string name="toast_input_socket_is_null">Ошибка: входной сокет нулевой!</string>
+    <string name="remote_swipe">Проведите пальцем, чтобы переместить, нажмите, чтобы выбрать</string>
+
+</resources>

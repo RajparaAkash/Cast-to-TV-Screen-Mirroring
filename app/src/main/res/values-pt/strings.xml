@@ -1,0 +1,144 @@
+<resources>
+    <string name="app_name">Cast to TV</string>
+
+    <string name="intro_title_1">Espelhamento do ecrã</string>
+    <string name="intro_title_2">Remoto Universal</string>
+    <string name="intro_title_3">Transmitir para TV</string>
+    <string name="intro_title_4">Transmissão do navegador Web</string>
+    <string name="intro_des_1">Transmita um pequeno ecrã de telefone para um grande ecrã de TV em alta qualidade e velocidade em tempo real</string>
+    <string name="intro_des_2">Controle a sua TV utilizando um telemóvel com ligação WiFi</string>
+    <string name="intro_des_3">Transmita para a TV e desfrute da melhor experiência de ver vídeos e filmes</string>
+    <string name="intro_des_4">Permite ver na sua TV vídeos dos seus sites favoritos.</string>
+
+
+    <string name="audio">Áudio</string>
+    <string name="connect_device">Ligar dispositivo</string>
+    <string name="connect_to_device">Ligar ao dispositivo</string>
+    <string name="thank_you_for_using_this_app">Obrigado por utilizar esta aplicação!!!</string>
+    <string name="you_want_to_exit">Tem a certeza, pretende sair desta aplicação?</string>
+    <string name="yes">Sim</string>
+    <string name="no">Não</string>
+    <string name="image">Imagem</string>
+    <string name="skip">Ignorar</string>
+    <string name="next">Seguinte</string>
+    <string name="get_start">Vamos começar</string>
+    <string name="language">Idioma</string>
+    <string name="save">Guardar</string>
+    <string name="cast_to_tv">Transmitir para TV</string>
+    <string name="no_device_connection">Sem ligação de dispositivo</string>
+    <string name="tap_to_connect">Tocar para ligar</string>
+    <string name="tap_to_disconnect">Tocar para desligar</string>
+    <string name="chromecast">Chromecast</string>
+    <string name="cast_media">Transmitir media</string>
+    <string name="video">Vídeo</string>
+    <string name="cast_web">Transmitir Web</string>
+    <string name="drive">Conduzir</string>
+    <string name="youtube">YouTube</string>
+    <string name="browser">Navegador</string>
+    <string name="permission">Permissão</string>
+    <string name="for_this_application">Para que esta aplicação funcione, deve conceder as permissões necessárias.</string>
+    <string name="image_from_external_storage">A imagem do armazenamento externo deve ser lida com permissão para fins de transmissão.</string>
+    <string name="audio_from_external_storage">O áudio do armazenamento externo deve ser lido com permissão para fins de transmissão.</string>
+    <string name="video_from_external_storage">O vídeo do armazenamento externo deve ser lido com permissão para fins de transmissão.</string>
+    <string name="allow_permissions">Permitir permissões</string>
+    <string name="we_value_your_feedback">Valorizamos o seu feedback!!!</string>
+    <string name="please_take_a_moment">Reserve um momento e avalie esta aplicação</string>
+    <string name="select_the_connection_you_want">Selecione a ligação pretendida</string>
+    <string name="choose_a_screencast_scene">Escolha uma cena de Screencast</string>
+    <string name="setting">Configuração</string>
+    <string name="you_will_get_unlimited">Terá acesso ilimitado na versão premium</string>
+    <string name="go_premium">Ser Premium</string>
+    <string name="general">Geral</string>
+    <string name="vibration">Vibração</string>
+    <string name="vibrate_on_interaction">Vibrar na interação</string>
+    <string name="languages">Idiomas</string>
+    <string name="more">Mais</string>
+    <string name="rate_us">Avalie-nos</string>
+    <string name="please_let_us_know_about_your_experience_using_the_app">Conte-nos a sua experiência ao utilizar a aplicação</string>
+    <string name="share">Partilhar</string>
+    <string name="share_all_mirror_with_your_friends">Partilhe o All Mirror com os seus amigos</string>
+    <string name="privacy_policy">Política de Privacidade</string>
+    <string name="read_our_privacy_policy">Leia a nossa política de privacidade</string>
+    <string name="version">Versão:</string>
+    <string name="start_mirroring">Iniciar espelhamento</string>
+    <string name="stop_mirroring">Parar espelhamento</string>
+    <string name="casting_a_small_phone_screen">Transmitir um pequeno ecrã de telefone para um grande ecrã de TV em alta qualidade e em tempo real.</string>
+    <string name="no_item_found">Nenhum item encontrado</string>
+    <string name="connecting">A ligar…</string>
+    <string name="quickly_cast_video_image">Transmita rapidamente vídeo, imagem e espelhamento da web, conectando-se.</string>
+    <string name="disconnect_with_tv">Desligar da TV</string>
+    <string name="device_do_you_want_to_disconnect">Dispositivo que pretende desligar?</string>
+    <string name="disconnect">Desligar</string>
+    <string name="cancel">Cancelar</string>
+    <string name="how_to_connect">Como ligar</string>
+    <string name="how_to_connect_des_01">O seu telemóvel e TV ligam-se ao mesmo Wifi e desativam a VPN</string>
+    <string name="how_to_connect_des_02">Ative a função de visualização sem fios no seu telefone e aguarde a pesquisa do dispositivo. Clique para nomear o dispositivo a ligar.</string>
+    <string name="how_to_connect_des_03">Ligação bem-sucedida. Agora já pode controlar via smartphone.</string>
+    <string name="i_got_it">Percebido</string>
+    <string name="no_internet">Sem Internet</string>
+    <string name="connect_wifi">Ligar Wi-Fi</string>
+    <string name="ok">OK</string>
+    <string name="pairing_with_tv">Emparelhamento com TV</string>
+    <string name="please_confirm_the_connection_on_your_tv">Confirme a ligação na sua TV</string>
+    <string name="enter_the_code_you_see_on_tv">Introduza o código que vê na TV</string>
+    <string name="enter_code">Introduza o código</string>
+    <string name="verify">Verificar</string>
+    <string name="please_wait">Aguarde</string>
+    <string name="screen_mirroring">Espelhamento do ecrã</string>
+    <string name="get_premium">Obter Premium</string>
+    <string name="smart_tv">SmartTV</string>
+    <string name="mobile_screen_sharing_to_tv">Partilha de ecrã móvel para TV</string>
+    <string name="direct_mirror">Espelhamento directo</string>
+    <string name="mirror_web_browser">Navegador Web Espelho</string>
+    <string name="typing_url_in_your_pc_s_web_browser">Introduzir URL no browser do seu PC</string>
+    <string name="info">Informações</string>
+    <string name="name">Nome:</string>
+    <string name="size">Tamanho:</string>
+    <string name="resolution">Resolução:</string>
+    <string name="path">Caminho:</string>
+
+    <string name="make_sure_your_phone">Certifique-se de que o seu telefone e a sua TV estão ligados\à mesma rede Wi-Fi.</string>
+    <string name="the_page_you_re_looking">A página que procura não foi encontrada,\sugerimos que volte para casa</string>
+    <string name="no_internet_des">Não está ligado ao WiFi. Para\nligar o seu dispositivo, ligue a\nrede Wi-Fi!</string>
+    <string name="cast_smartphone_screen">Transmite o ecrã do smartphone para um ecrã grande\nda TV de forma estável.</string>
+    <string name="sharing_screen_don_t_need_enable_miracast">A partilha de ecrã não necessita de ser ativada\nMiracast</string>
+
+
+    <string name="unlock_all_pro_features">Desbloquear todas as funcionalidades profissionais</string>
+
+    <string name="sm_smart_tv_des_01">Certifique-se de que o seu dispositivo e a sua TV estão ligados à mesma rede Wi-Fi.</string>
+    <string name="sm_smart_tv_des_02">Clique no botão “iniciar espelhamento” para se ligar ao sistema de configuração.</string>
+    <string name="sm_smart_tv_des_03">Ative a função de visualização sem fios no seu telefone. Clique no ícone no canto direito para ativar o ecrã sem fios e detetar a sua TV caso não encontre o seu dispositivo.</string>
+
+    <string name="sm_direct_mirror_des_01">Certifique-se de que o seu dispositivo e o seu televisor estão ligados à mesma rede Wi-Fi.</string>
+    <string name="sm_direct_mirror_des_02">Toque no “botão Iniciar” para iniciar o espelhamento do ecrã.</string>
+    <string name="sm_direct_mirror_des_03">Se o seu televisor apresentar uma caixa de diálogo de confirmação, aceite-o utilizando o telecomando físico do televisor.</string>
+
+    <string name="sm_web_browser_des_01">Certifique-se de que o seu dispositivo e o dispositivo de transmissão estão ligados à mesma rede Wi-Fi.</string>
+    <string name="sm_web_browser_des_02">Clique no botão “iniciar espelhamento” para iniciar o espelhamento do ecrã no navegador Web.</string>
+    <string name="sm_web_browser_des_03">Se o seu televisor apresentar uma caixa de diálogo de confirmação, aceite-a utilizando o telecomando físico do televisor.</string>
+    <string name="sm_web_browser_des_04">Abra o browser no outro dispositivo (PC, Xbox, TV, etc.) e digite este URL:</string>
+
+
+    <string name="notification_disconnect_action">Disconnect</string>
+    <string name="notification_remote_camera_desc">Phone Camera is running.</string>
+    <string name="notification_remote_camera_title">Phone Camera</string>
+    <string name="notification_screen_sharing_desc">Connected device has been set to screen sharing.</string>
+    <string name="notification_screen_sharing_title">Screen Share</string>
+    <string name="by_purchasing">By purchasing, you agree to the Terms of Use\nand Privacy Policy</string>
+
+    <string name="remote_control">Controlo Remoto</string>
+    <string name="suitable_for_all_smart_tv_remote">Adequado para todos os telecomandos de smart TV.</string>
+    <string name="remote">Remoto</string>
+    <string name="channel">Canal</string>
+    <string name="speak_to_text">Falar com texto</string>
+    <string name="keyboard">Teclado</string>
+    <string name="enter_text_here">Introduza o texto aqui…</string>
+    <string name="your_channel_will_show_here">O seu canal será apresentado aqui</string>
+    <string name="can_t_find_channel_please_connect_to_tv">Não é possível encontrar o canal, ligar à TV</string>
+    <string name="error_try_again">Erro! Por favor, tente novamente</string>
+    <string name="wifi_not_connected">Wifi não ligado!</string>
+    <string name="toast_input_socket_is_null">Erro: o socket de entrada é nulo!</string>
+    <string name="remote_swipe">Deslize para mover o toque para selecionar</string>
+
+</resources>

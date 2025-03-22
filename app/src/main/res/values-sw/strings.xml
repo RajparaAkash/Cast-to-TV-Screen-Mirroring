@@ -1,0 +1,145 @@
+<resources>
+    <string name="app_name">Cast to TV</string>
+
+    <string name="intro_title_1">Kuakisi kwa Skrini</string>
+    <string name="intro_title_2">Umbali wa Mbali</string>
+    <string name="intro_title_3">Tuma kwenye TV</string>
+    <string name="intro_title_4">Tuma Kivinjari cha Wavuti</string>
+    <string name="intro_des_1">Tuma skrini ndogo ya simu kwenye skrini kubwa ya TV katika ubora wa juu na Kasi ya wakati halisi</string>
+    <string name="intro_des_2">Dhibiti TV yako kwa kutumia simu ya mkononi yenye muunganisho wa WiFi</string>
+    <string name="intro_des_3">Tuma kwenye TV na ufurahie hali bora ya kutazama video na filamu</string>
+    <string name="intro_des_4">Ikikuruhusu kutazama kwenye video zako za runinga kutoka kwa tovuti unazozipenda.</string>
+
+
+    <string name="audio">Sauti</string>
+    <string name="connect_device">Unganisha Kifaa</string>
+    <string name="connect_to_device">Unganisha Kwa Kifaa</string>
+    <string name="thank_you_for_using_this_app">Asante Kwa Kutumia Programu Hii!!!</string>
+    <string name="you_want_to_exit">Je, una uhakika, ungependa kuondoka kwenye programu hii?</string>
+    <string name="yes">Ndiyo</string>
+    <string name="no">Hapana</string>
+    <string name="image">Picha</string>
+    <string name="skip">Ruka</string>
+    <string name="next">Inayofuata</string>
+    <string name="get_start">Anza</string>
+    <string name="language">Lugha</string>
+    <string name="save">Hifadhi</string>
+    <string name="cast_to_tv">Tuma kwenye TV</string>
+    <string name="no_device_connection">Hakuna Muunganisho wa Kifaa</string>
+    <string name="tap_to_connect">Gusa ili kuunganisha</string>
+    <string name="tap_to_disconnect">Gusa ili Kutenganisha</string>
+    <string name="chromecast">Chromecast</string>
+    <string name="cast_media">Midia ya Kutuma</string>
+    <string name="video">Video</string>
+    <string name="cast_web">Tuma Wavuti</string>
+    <string name="drive">Hifadhi</string>
+    <string name="youtube">YouTube</string>
+    <string name="browser">Kivinjari</string>
+    <string name="permission">Ruhusa</string>
+    <string name="for_this_application">Ili programu hii ifanye kazi, lazima uruhusu ruhusa zinazohitajika.</string>
+    <string name="image_from_external_storage">Picha kutoka hifadhi ya nje lazima isomwe kwa ruhusa kwa madhumuni ya kutuma.</string>
+    <string name="audio_from_external_storage">Sauti kutoka hifadhi ya nje lazima isomwe kwa ruhusa kwa madhumuni ya kutuma.</string>
+    <string name="video_from_external_storage">Video kutoka hifadhi ya nje lazima isomwe kwa ruhusa kwa madhumuni ya kutuma.</string>
+    <string name="allow_permissions">Ruhusu Ruhusa</string>
+    <string name="we_value_your_feedback">Tunathamini Maoni Yako!!!</string>
+    <string name="please_take_a_moment">Tafadhali chukua muda na ukadirie programu hii</string>
+    <string name="select_the_connection_you_want">Chagua Muunganisho Unaotaka</string>
+    <string name="choose_a_screencast_scene">Chagua onyesho la Skrini</string>
+    <string name="setting">Mipangilio</string>
+    <string name="you_will_get_unlimited">Utapata ufikiaji usio na kikomo katika toleo la malipo</string>
+    <string name="go_premium">Nenda kwenye Premium</string>
+    <string name="general">Jumla</string>
+    <string name="vibration">Mtetemo</string>
+    <string name="vibrate_on_interaction">Tetema unapoingiliana</string>
+    <string name="languages">Lugha</string>
+    <string name="more">Zaidi</string>
+    <string name="rate_us">Tukadirie</string>
+    <string name="please_let_us_know_about_your_experience_using_the_app">Tafadhali tujulishe kuhusu matumizi yako ya programu</string>
+    <string name="share">Shiriki</string>
+    <string name="share_all_mirror_with_your_friends">Shiriki Mirror Yote na marafiki zako</string>
+    <string name="privacy_policy">Sera ya Faragha</string>
+    <string name="read_our_privacy_policy">Soma sera yetu ya faragha</string>
+    <string name="version">Toleo :</string>
+    <string name="start_mirroring">Anza Kuakisi</string>
+    <string name="stop_mirroring">Acha Kuakisi</string>
+    <string name="casting_a_small_phone_screen">Inatuma skrini ndogo ya simu kwenye skrini kubwa ya TV katika ubora wa juu na wakati halisi.</string>
+    <string name="no_item_found">Hakuna kipengee kilichopatikana</string>
+    <string name="connecting">Inaunganisha…</string>
+    <string name="quickly_cast_video_image">Tuma video, picha na kiunganishi cha wavuti kwa haraka.</string>
+    <string name="disconnect_with_tv" msgid="64933333545434343">"Ondoa kwa Televisheni"</string>
+    <string name="device_do_you_want_to_disconnect">Je, ungependa kutenganisha kifaa kwenye kifaa?</string>
+    <string name="disconnect">Ondoa</string>
+    <string name="cancel">Ghairi</string>
+    <string name="how_to_connect">Jinsi ya kuunganisha</string>
+    <string name="how_to_connect_des_01">Kifaa chako cha mkononi na TV huunganisha kwenye Wifi sawa na kuzima VPN</string>
+    <string name="how_to_connect_des_02">Washa kipengele cha kuonyesha bila waya kwenye simu yako na usubiri utafutaji wa kifaa. Bofya ili kutaja kifaa ili kuunganisha.</string>
+    <string name="how_to_connect_des_03">Muunganisho umefaulu. Sasa unaweza kudhibiti kupitia smartphone.</string>
+    <string name="i_got_it">Nimeipata</string>
+    <string name="no_internet">Hakuna Mtandao</string>
+    <string name="connect_wifi">Unganisha Wifi</string>
+    <string name="ok">Sawa</string>
+    <string name="pairing_with_tv">Inaoanisha na TV</string>
+    <string name="please_confirm_the_connection_on_your_tv">Tafadhali thibitisha muunganisho kwenye TV yako</string>
+    <string name="enter_the_code_you_see_on_tv">Weka msimbo unaouona kwenye TV</string>
+    <string name="enter_code">Weka msimbo</string>
+    <string name="verify">Thibitisha</string>
+    <string name="please_wait">Tafadhali subiri</string>
+    <string name="screen_mirroring">Uakisi wa Skrini</string>
+    <string name="get_premium">Jipatie Premium</string>
+    <string name="smart_tv">TV Mahiri</string>
+    <string name="mobile_screen_sharing_to_tv">Kushiriki skrini ya rununu kwenye TV</string>
+    <string name="direct_mirror">Kioo cha moja kwa moja</string>
+    <string name="mirror_web_browser">Kioo Kivinjari cha Wavuti</string>
+    <string name="typing_url_in_your_pc_s_web_browser">Kuandika URL kwenye kivinjari cha wavuti cha Kompyuta yako</string>
+    <string name="info">Maelezo</string>
+    <string name="name">Jina :</string>
+    <string name="size">Ukubwa :</string>
+    <string name="resolution">Azimio :</string>
+    <string name="path">Njia :</string>
+
+    <string name="make_sure_your_phone">Hakikisha kuwa simu na TV yako zimeunganishwa\kwenye mtandao sawa wa Wi-Fi.</string>
+    <string name="the_page_you_re_looking">Ukurasa unaotafuta haupatikani\tunapendekeza urudi nyumbani</string>
+    <string name="no_internet_des">Hujaunganishwa kwenye WiFi. Ili\nkuunganisha kifaa chako, tafadhali washa\nmtandao wa WiFi!</string>
+    <string name="cast_smartphone_screen">Tuma skrini ya simu mahiri kwa skrini kubwa\nTV kwa uthabiti.</string>
+    <string name="sharing_screen_don_t_need_enable_miracast">Kushiriki skrini hakuhitaji Wezesha\nMiracast</string>
+
+
+    <string name="unlock_all_pro_features">Fungua vipengele vyote vya kitaaluma</string>
+
+    <string name="sm_smart_tv_des_01">Hakikisha kuwa kifaa chako na TV zimeunganishwa kwenye mtandao sawa wa WiFi.</string>
+    <string name="sm_smart_tv_des_02">Bofya kitufe cha "anza kuakisi" ili kuunganisha kwenye mfumo wa mipangilio.</string>
+    <string name="sm_smart_tv_des_03">Washa utendakazi wa kuonyesha pasiwaya kwenye simu yako. Bofya aikoni iliyo kwenye kona ya kulia ili kuwasha onyesho lisilotumia waya ili kutambua TV yako iwapo hutapata kifaa chako.</string>
+
+    <string name="sm_direct_mirror_des_01">Hakikisha kuwa kifaa chako na TV zimeunganishwa kwenye mtandao sawa wa WiFi.</string>
+    <string name="sm_direct_mirror_des_02">Gonga "kitufe cha kuanza" ili kuanza kuakisi skrini.</string>
+    <string name="sm_direct_mirror_des_03">Ikiwa kidirisha cha uthibitishaji cha Runinga yako, kikubali ukitumia kidhibiti cha mbali cha TV.</string>
+
+    <string name="sm_web_browser_des_01">Hakikisha kuwa kifaa chako na kifaa cha kutuma vimeunganishwa kwenye mtandao sawa wa WiFi.</string>
+    <string name="sm_web_browser_des_02">Bofya kitufe cha "anza kuakisi" ili kuanza kuakisi skrini kwenye kivinjari.</string>
+    <string name="sm_web_browser_des_03">Iwapo kidirisha cha uthibitishaji cha Runinga yako, kikubali ukitumia kidhibiti cha mbali cha TV.</string>
+    <string name="sm_web_browser_des_04">Fungua kivinjari kwenye kifaa kingine (PC, Xbox, TV, n.k.) na uweke URL hii:</string>
+
+
+    <string name="notification_disconnect_action">Disconnect</string>
+    <string name="notification_remote_camera_desc">Phone Camera is running.</string>
+    <string name="notification_remote_camera_title">Phone Camera</string>
+    <string name="notification_screen_sharing_desc">Connected device has been set to screen sharing.</string>
+    <string name="notification_screen_sharing_title">Screen Share</string>
+    <string name="by_purchasing">By purchasing, you agree to the Terms of Use\nand Privacy Policy</string>
+
+
+    <string name="remote_control">Kidhibiti cha Mbali</string>
+    <string name="suitable_for_all_smart_tv_remote">Inafaa kwa kidhibiti cha mbali cha Televisheni mahiri.</string>
+    <string name="remote">Mbali</string>
+    <string name="channel">Kituo</string>
+    <string name="speak_to_text">Ona na maandishi</string>
+    <string name="keyboard">Kibodi</string>
+    <string name="enter_text_here">Ingiza maandishi hapa…</string>
+    <string name="your_channel_will_show_here">Kituo chako kitaonekana hapa</string>
+    <string name="can_t_find_channel_please_connect_to_tv">Imeshindwa kupata kituo, tafadhali unganisha kwenye TV</string>
+    <string name="error_try_again">Hitilafu! Tafadhali jaribu tena</string>
+    <string name="wifi_not_connected">Wifi haijaunganishwa!</string>
+    <string name="toast_input_socket_is_null">Hitilafu: soketi ya kuingiza ni batili!</string>
+    <string name="remote_swipe">"Telezesha kidole ili usogeze bomba hadi kwenye Chagua".</string>
+
+</resources>

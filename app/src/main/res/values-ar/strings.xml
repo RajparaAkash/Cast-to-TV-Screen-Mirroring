@@ -1,0 +1,145 @@
+<resources>
+    <string name="app_name">Cast to TV</string>
+
+    <string name="intro_title_1">انعكاس الشاشة</string>
+    <string name="intro_title_2">جهاز تحكم عن بعد عالمي</string>
+    <string name="intro_title_3">إرسال إلى التلفزيون</string>
+    <string name="intro_title_4">إرسال من متصفح الويب</string>
+    <string name="intro_des_1">إرسال شاشة هاتف صغير إلى شاشة تلفزيون كبيرة بجودة عالية وسرعة في الوقت الفعلي</string>
+    <string name="intro_des_2">تحكم في التلفزيون باستخدام الهاتف المحمول مع اتصال WiFi</string>
+    <string name="intro_des_3">إرسال إلى التلفزيون واستمتع بأفضل تجربة لمشاهدة مقاطع الفيديو والأفلام</string>
+    <string name="intro_des_4">يتيح لك مشاهدة مقاطع الفيديو على التلفزيون من مواقع الويب المفضلة لديك.</string>
+
+
+    <string name="audio">الصوت</string>
+    <string name="connect_device">توصيل الجهاز</string>
+    <string name="connect_to_device">توصيل الجهاز</string>
+    <string name="thank_you_for_using_this_app">شكرًا لك على استخدام هذا التطبيق!!!</string>
+    <string name="you_want_to_exit">هل أنت متأكد، هل تريد الخروج من هذا التطبيق؟</string>
+    <string name="yes">نعم</string>
+    <string name="no">لا</string>
+    <string name="image">الصورة</string>
+    <string name="skip">تخطي</string>
+    <string name="next">التالي</string>
+    <string name="get_start">ابدأ</string>
+    <string name="language">اللغة</string>
+    <string name="save">حفظ</string>
+    <string name="cast_to_tv">إرسال إلى التلفزيون</string>
+    <string name="no_device_connection">لا يوجد اتصال بالجهاز</string>
+    <string name="tap_to_connect">انقر للاتصال</string>
+    <string name="tap_to_disconnect">انقر لقطع الاتصال</string>
+    <string name="chromecast">Chromecast</string>
+    <string name="cast_media">إرسال الوسائط</string>
+    <string name="video">فيديو</string>
+    <string name="cast_web">إرسال الويب</string>
+    <string name="drive">محرك الأقراص</string>
+    <string name="youtube">YouTube</string>
+    <string name="browser">المتصفح</string>
+    <string name="permission">الإذن</string>
+    <string name="for_this_application">لكي يعمل هذا التطبيق، يجب عليك السماح بالأذونات المطلوبة.</string>
+    <string name="image_from_external_storage">يجب قراءة الصورة من وحدة تخزين خارجية بإذن لغرض البث.</string>
+    <string name="audio_from_external_storage">يجب قراءة الصوت من وحدة تخزين خارجية بإذن لغرض البث.</string>
+    <string name="video_from_external_storage">يجب قراءة الفيديو من وحدة تخزين خارجية بإذن لغرض البث.</string>
+    <string name="allow_permissions">السماح بالأذونات</string>
+    <string name="we_value_your_feedback">نقدر ملاحظاتك!!!</string>
+    <string name="please_take_a_moment">يرجى تخصيص لحظة وتقييم هذا التطبيق</string>
+    <string name="select_the_connection_you_want">حدد الاتصال الذي تريده</string>
+    <string name="choose_a_screencast_scene">اختر مشهدًا من لقطات الشاشة</string>
+    <string name="setting">الإعداد</string>
+    <string name="you_will_get_unlimited">ستحصل على وصول غير محدود في الإصدار المميز</string>
+    <string name="go_premium">انتقل إلى الإصدار المميز</string>
+    <string name="general">عام</string>
+    <string name="vibration">الاهتزاز</string>
+    <string name="vibrate_on_interaction">الاهتزاز عند التفاعل</string>
+    <string name="languages">اللغات</string>
+    <string name="more">المزيد</string>
+    <string name="rate_us">قيمنا</string>
+    <string name="please_let_us_know_about_your_experience_using_the_app">يرجى إخبارنا بتجربتك في استخدام التطبيق</string>
+    <string name="share">مشاركة</string>
+    <string name="share_all_mirror_with_your_friends">مشاركة جميع المرايا مع أصدقائك</string>
+    <string name="privacy_policy">سياسة الخصوصية</string>
+    <string name="read_our_privacy_policy">اقرأ سياسة الخصوصية الخاصة بنا</string>
+    <string name="version">الإصدار:</string>
+    <string name="start_mirroring">بدء الانعكاس</string>
+    <string name="stop_mirroring">إيقاف الانعكاس</string>
+    <string name="casting_a_small_phone_screen">بث شاشة هاتف صغير إلى شاشة تلفزيون كبيرة بجودة عالية وفي الوقت الفعلي.</string>
+    <string name="no_item_found">لم يتم العثور على أي عنصر</string>
+    <string name="connecting">جارٍ الاتصال...</string>
+    <string name="quickly_cast_video_image">إرسال الفيديو والصور وعكس الويب بسرعة.</string>
+    <string name="disconnect_with_tv">قطع الاتصال بالتلفزيون</string>
+    <string name="device_do_you_want_to_disconnect">هل تريد قطع الاتصال بالجهاز؟</string>
+    <string name="disconnect">قطع الاتصال</string>
+    <string name="cancel">إلغاء</string>
+    <string name="how_to_connect">كيفية الاتصال</string>
+    <string name="how_to_connect_des_01">يتم توصيل هاتفك المحمول والتلفزيون بنفس شبكة Wi-Fi وإيقاف تشغيل VPN</string>
+    <string name="how_to_connect_des_02">قم بتمكين وظيفة العرض اللاسلكي على هاتفك وانتظر حتى يقوم الجهاز بالبحث. انقر لتسمية الجهاز للاتصال به.</string>
+    <string name="how_to_connect_des_03">تم الاتصال بنجاح. الآن يمكنك التحكم عبر الهاتف الذكي.</string>
+    <string name="i_got_it">لقد حصلت عليه</string>
+    <string name="no_internet">لا يوجد إنترنت</string>
+    <string name="connect_wifi">الاتصال بشبكة Wi-Fi</string>
+    <string name="ok">موافق</string>
+    <string name="pairing_with_tv">الاقتران بالتلفزيون</string>
+    <string name="please_confirm_the_connection_on_your_tv">يرجى تأكيد الاتصال بالتلفزيون الخاص بك</string>
+    <string name="enter_the_code_you_see_on_tv">أدخل الرمز الذي تراه على التلفزيون</string>
+    <string name="enter_code">أدخل الرمز</string>
+    <string name="verify">التحقق</string>
+    <string name="please_wait">يرجى الانتظار</string>
+    <string name="screen_mirroring">انعكاس الشاشة</string>
+    <string name="get_premium">احصل Premium</string>
+    <string name="smart_tv">تلفزيون ذكي</string>
+    <string name="mobile_screen_sharing_to_tv">مشاركة شاشة الهاتف المحمول مع التلفزيون</string>
+    <string name="direct_mirror">الانعكاس المباشر</string>
+    <string name="mirror_web_browser">متصفح الويب الانعكاسي</string>
+    <string name="typing_url_in_your_pc_s_web_browser">كتابة عنوان URL في متصفح الويب الخاص بجهاز الكمبيوتر الخاص بك</string>
+    <string name="info">المعلومات</string>
+    <string name="name">الاسم:</string>
+    <string name="size">الحجم:</string>
+    <string name="resolution">الدقة:</string>
+    <string name="path">المسار:</string>
+
+    <string name="make_sure_your_phone">تأكد من توصيل هاتفك والتلفزيون بنفس شبكة Wi-Fi.</string>
+    <string name="the_page_you_re_looking">لم يتم العثور على الصفحة التي تبحث عنها، نقترح عليك العودة إلى الصفحة الرئيسية</string>
+    <string name="no_internet_des">أنت غير متصل بشبكة WiFi. لتوصيل جهازك، يرجى تشغيل شبكة WiFi!</string>
+    <string name="cast_smartphone_screen">قم بإرسال شاشة الهاتف الذكي إلى شاشة التلفزيون الكبيرة بشكل ثابت.</string>
+    <string name="sharing_screen_don_t_need_enable_miracast">لا تحتاج مشاركة الشاشة إلى تمكين Miracast</string>
+
+
+    <string name="unlock_all_pro_features">إلغاء قفل جميع الميزات الاحترافية</string>
+
+    <string name="sm_smart_tv_des_01">تأكد من أن جهازك والتلفزيون متصلان بنفس شبكة WiFi.</string>
+    <string name="sm_smart_tv_des_02">انقر فوق الزر "بدء النسخ المتطابق" للاتصال بنظام الإعدادات.</string>
+    <string name="sm_smart_tv_des_03">قم بتمكين وظيفة العرض اللاسلكي على هاتفك. انقر على الرمز الموجود في الزاوية اليمنى لتشغيل العرض اللاسلكي لاكتشاف التلفزيون في حالة عدم العثور على جهازك.</string>
+
+    <string name="sm_direct_mirror_des_01">تأكد من أن جهازك والتلفزيون متصلان بنفس شبكة WiFi.</string>
+    <string name="sm_direct_mirror_des_02">انقر على "زر البدء" لبدء عكس الشاشة.</string>
+    <string name="sm_direct_mirror_des_03">إذا كان التلفزيون يعرض مربع حوار تأكيد، فقم بقبوله باستخدام جهاز التحكم عن بعد الفعلي للتلفزيون.</string>
+
+    <string name="sm_web_browser_des_01">تأكد من أن جهازك وجهاز البث متصلان بنفس شبكة WiFi.</string>
+    <string name="sm_web_browser_des_02">انقر فوق الزر "بدء النسخ المتطابق" لبدء النسخ المتطابق للشاشة على متصفح الويب.</string>
+    <string name="sm_web_browser_des_03">إذا كان جهاز التلفزيون الخاص بك يعرض مربع حوار تأكيد، فقم بقبوله باستخدام جهاز التحكم عن بعد الفعلي للتلفزيون.</string>
+    <string name="sm_web_browser_des_04">افتح المتصفح على الجهاز الآخر (الكمبيوتر الشخصي، أو Xbox، أو التلفزيون، وما إلى ذلك) وأدخل عنوان URL التالي:</string>
+
+
+    <string name="notification_disconnect_action">Disconnect</string>
+    <string name="notification_remote_camera_desc">Phone Camera is running.</string>
+    <string name="notification_remote_camera_title">Phone Camera</string>
+    <string name="notification_screen_sharing_desc">Connected device has been set to screen sharing.</string>
+    <string name="notification_screen_sharing_title">Screen Share</string>
+    <string name="by_purchasing">By purchasing, you agree to the Terms of Use\nand Privacy Policy</string>
+
+
+    <string name="remote_control">جهاز التحكم عن بعد</string>
+    <string name="suitable_for_all_smart_tv_remote">مناسب لجميع أجهزة التحكم عن بعد الخاصة بالتلفزيون الذكي.</string>
+    <string name="remote">جهاز التحكم عن بعد</string>
+    <string name="channel">القناة</string>
+    <string name="speak_to_text">التحدث إلى النص</string>
+    <string name="keyboard">لوحة المفاتيح</string>
+    <string name="enter_text_here">أدخل النص هنا…</string>
+    <string name="your_channel_will_show_here">ستظهر قناتك هنا</string>
+    <string name="can_t_find_channel_please_connect_to_tv">لا يمكن العثور على القناة، يرجى الاتصال بالتلفزيون</string>
+    <string name="error_try_again">خطأ! يرجى المحاولة مرة أخرى</string>
+    <string name="wifi_not_connected">لم يتم توصيل شبكة Wi-Fi!</string>
+    <string name="toast_input_socket_is_null">خطأ: مقبس الإدخال فارغ!</string>
+    <string name="remote_swipe">مرر سريعًا لتحريك النقر إلى "تحديد"</string>
+
+</resources>

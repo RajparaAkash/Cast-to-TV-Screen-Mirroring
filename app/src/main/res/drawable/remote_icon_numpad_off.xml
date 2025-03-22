@@ -1,0 +1,27 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="24dp"
+    android:height="24dp"
+    android:viewportWidth="24"
+    android:viewportHeight="24">
+    <path
+        android:fillColor="@color/remote_icon_tint"
+        android:pathData="M4.708,7.417C6.204,7.417 7.417,6.204 7.417,4.708C7.417,3.213 6.204,2 4.708,2C3.213,2 2,3.213 2,4.708C2,6.204 3.213,7.417 4.708,7.417Z" />
+    <path
+        android:fillColor="@color/remote_icon_tint"
+        android:pathData="M11.999,2C10.503,2 9.291,3.213 9.291,4.708C9.291,6.204 10.503,7.417 11.999,7.417C13.494,7.417 14.708,6.204 14.708,4.708C14.708,3.213 13.494,2 11.999,2Z" />
+    <path
+        android:fillColor="@color/remote_icon_tint"
+        android:pathData="M19.292,2C17.798,2 16.584,3.213 16.584,4.708C16.584,6.204 17.798,7.417 19.292,7.417C20.787,7.417 22.001,6.204 22.001,4.708C22.001,3.213 20.787,2 19.292,2Z" />
+    <path
+        android:fillColor="@color/remote_icon_tint"
+        android:pathData="M4.708,14.708C6.204,14.708 7.417,13.496 7.417,12C7.417,10.504 6.204,9.292 4.708,9.292C3.213,9.292 2,10.504 2,12C2,13.496 3.213,14.708 4.708,14.708Z" />
+    <path
+        android:fillColor="@color/remote_icon_tint"
+        android:pathData="M11.999,9.292C10.503,9.292 9.291,10.504 9.291,12C9.291,13.496 10.503,14.708 11.999,14.708C13.494,14.708 14.708,13.496 14.708,12C14.708,10.504 13.494,9.292 11.999,9.292Z" />
+    <path
+        android:fillColor="@color/remote_icon_tint"
+        android:pathData="M19.292,9.292C17.798,9.292 16.584,10.504 16.584,12C16.584,13.496 17.798,14.708 19.292,14.708C20.787,14.708 22.001,13.496 22.001,12C22.001,10.504 20.787,9.292 19.292,9.292Z" />
+    <path
+        android:fillColor="@color/remote_icon_tint"
+        android:pathData="M11.999,16.583C10.503,16.583 9.291,17.796 9.291,19.292C9.291,20.787 10.503,22 11.999,22C13.494,22 14.708,20.787 14.708,19.292C14.708,17.796 13.494,16.583 11.999,16.583Z" />
+</vector>

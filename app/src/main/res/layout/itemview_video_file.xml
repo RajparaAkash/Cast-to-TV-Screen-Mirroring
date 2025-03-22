@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.casttotv.screenmirroring.chromecast.smart.tv.View.SquareRelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_margin="@dimen/_4sdp">
+
+    <com.google.android.material.imageview.ShapeableImageView
+        android:id="@+id/videoThumbnailImg"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="#F3F3F3"
+        android:scaleType="centerCrop"
+        app:shapeAppearanceOverlay="@style/RoundedCorner5dp" />
+
+    <TextView
+        android:id="@+id/videoDurationTxt"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginEnd="@dimen/_3sdp"
+        android:layout_marginBottom="@dimen/_3sdp"
+        android:background="@drawable/bg_video_duration"
+        android:fontFamily="@font/inter_regular"
+        android:includeFontPadding="false"
+        android:maxLines="1"
+        android:paddingHorizontal="@dimen/_6sdp"
+        android:paddingVertical="@dimen/_2sdp"
+        android:textColor="@color/white"
+        android:textSize="@dimen/_9ssp" />
+
+</com.casttotv.screenmirroring.chromecast.smart.tv.View.SquareRelativeLayout>

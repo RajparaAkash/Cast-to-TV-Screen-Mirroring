@@ -1,0 +1,145 @@
+<resources>
+    <string name="app_name">Cast to TV</string>
+
+    <string name="intro_title_1">Mise en miroir de l\'écran</string>
+    <string name="intro_title_2">Télécommande universelle</string>
+    <string name="intro_title_3">Diffuser sur TV</string>
+    <string name="intro_title_4">Diffuser via navigateur Web</string>
+    <string name="intro_des_1">Diffuser un petit écran de téléphone sur un grand écran de télévision en haute qualité et en temps réel</string>
+    <string name="intro_des_2">Contrôler votre téléviseur à l\'aide d\'un téléphone portable avec une connexion Wi-Fi</string>
+    <string name="intro_des_3">Diffuser sur TV et profiter de la meilleure expérience de visionnage de vidéos et de films</string>
+    <string name="intro_des_4">Il vous permet de regarder sur votre téléviseur des vidéos de vos sites Web préférés.</string>
+
+
+    <string name="audio">Audio</string>
+    <string name="connect_device">Connecter l\'appareil</string>
+    <string name="connect_to_device">Se connecter à l\'appareil</string>
+    <string name="thank_you_for_using_this_app">Merci d\'avoir utilisé cette application !!!</string>
+    <string name="you_want_to_exit">Êtes-vous sûr de vouloir quitter cette application ?</string>
+    <string name="yes">Oui</string>
+    <string name="no">Non</string>
+    <string name="image">Image</string>
+    <string name="skip">Passer</string>
+    <string name="next">Suivant</string>
+    <string name="get_start">Commencer</string>
+    <string name="language">Langue</string>
+    <string name="save">Enregistrer</string>
+    <string name="cast_to_tv">Diffuser sur la télévision</string>
+    <string name="no_device_connection">Aucun appareil Connexion</string>
+    <string name="tap_to_connect">Appuyez pour vous connecter</string>
+    <string name="tap_to_disconnect">Appuyez pour vous déconnecter</string>
+    <string name="chromecast">Chromecast</string>
+    <string name="cast_media">Diffuser un média</string>
+    <string name="video">Vidéo</string>
+    <string name="cast_web">Diffuser le Web</string>
+    <string name="drive">Drive</string>
+    <string name="youtube">YouTube</string>
+    <string name="browser">Navigateur</string>
+    <string name="permission">Autorisation</string>
+    <string name="for_this_application">Pour que cette application fonctionne, vous devez autoriser les autorisations requises.</string>
+    <string name="image_from_external_storage">L\'image du stockage externe doit être lue avec autorisation à des fins de diffusion.</string>
+    <string name="audio_from_external_storage">L\'audio du stockage externe doit être lu avec autorisation à des fins de diffusion.</string>
+    <string name="video_from_external_storage">La vidéo du stockage externe doit être lue avec autorisation à des fins de diffusion.</string>
+    <string name="allow_permissions">Autoriser les autorisations</string>
+    <string name="we_value_your_feedback">Vos commentaires nous intéressent !!!</string>
+    <string name="please_take_a_moment">Veuillez prendre un moment pour évaluer cette application</string>
+    <string name="select_the_connection_you_want">Sélectionnez la connexion que vous souhaitez</string>
+    <string name="choose_a_screencast_scene">Choisissez un screencast scène</string>
+    <string name="setting">Paramètres</string>
+    <string name="you_will_get_unlimited">Vous aurez un accès illimité dans la version premium</string>
+    <string name="go_premium">Passer à Premium</string>
+    <string name="general">Général</string>
+    <string name="vibration">Vibration</string>
+    <string name="vibrate_on_interaction">Vibrer lors de l\'interaction</string>
+    <string name="languages">Langues</string>
+    <string name="more">Plus</string>
+    <string name="rate_us">Évaluez-nous</string>
+    <string name="please_let_us_know_about_your_experience_using_the_app">Veuillez nous faire part de votre expérience d\'utilisation de l\'application</string>
+    <string name="share">Partager</string>
+    <string name="share_all_mirror_with_your_friends">Partager All Mirror avec vos amis</string>
+    <string name="privacy_policy">Politique de confidentialité</string>
+    <string name="read_our_privacy_policy">Lisez notre politique de confidentialité</string>
+    <string name="version">Version :</string>
+    <string name="start_mirroring">Démarrer la mise en miroir</string>
+    <string name="stop_mirroring">Arrêter la mise en miroir</string>
+    <string name="casting_a_small_phone_screen">Diffusion d\'un petit écran de téléphone sur un grand écran de télévision en haute qualité et en temps réel.</string>
+    <string name="no_item_found">Aucun élément trouvé</string>
+    <string name="connecting">Connexion…</string>
+    <string name="quickly_cast_video_image">Diffusez rapidement des vidéos, des images et des mises en miroir Web en vous connectant.</string>
+    <string name="disconnect_with_tv">Déconnecter du téléviseur</string>
+    <string name="device_do_you_want_to_disconnect">De quel appareil souhaitez-vous vous déconnecter ?</string>
+    <string name="disconnect">Déconnecter</string>
+    <string name="cancel">Annuler</string>
+    <string name="how_to_connect">Comment se connecter</string>
+    <string name="how_to_connect_des_01">Votre mobile et votre téléviseur se connectent au même réseau Wi-Fi et désactivez le VPN</string>
+    <string name="how_to_connect_des_02">Activez la fonction d\'affichage sans fil sur votre téléphone et attendez que l\'appareil effectue la recherche. Cliquez pour nommer l\'appareil auquel se connecter.</string>
+    <string name="how_to_connect_des_03">Connexion réussie. Vous pouvez désormais contrôler le via votre smartphone.</string>
+    <string name="i_got_it">Je l\'ai compris</string>
+    <string name="no_internet">Pas d\'Internet</string>
+    <string name="connect_wifi">Connecter le Wi-Fi</string>
+    <string name="ok">OK</string>
+    <string name="pairing_with_tv">Couplage avec le téléviseur</string>
+    <string name="please_confirm_the_connection_on_your_tv">Veuillez confirmer la connexion sur votre téléviseur</string>
+    <string name="enter_the_code_you_see_on_tv">Entrez le code que vous voyez sur le téléviseur</string>
+    <string name="enter_code">Entrez le code</string>
+    <string name="verify">Vérifier</string>
+    <string name="please_wait">Veuillez patienter</string>
+    <string name="screen_mirroring">Mise en miroir de l\'écran</string>
+    <string name="get_premium">Obtenir Premium</string>
+    <string name="smart_tv">Smart TV</string>
+    <string name="mobile_screen_sharing_to_tv">Partage d\'écran mobile sur TV</string>
+    <string name="direct_mirror">Direct Mirror</string>
+    <string name="mirror_web_browser">Miroir Web Browser</string>
+    <string name="typing_url_in_your_pc_s_web_browser">Saisie de l\'URL dans le navigateur Web de votre PC</string>
+    <string name="info">Infos</string>
+    <string name="name">Nom :</string>
+    <string name="size">Taille :</string>
+    <string name="resolution">Résolution :</string>
+    <string name="path">Chemin :</string>
+
+    <string name="make_sure_your_phone">Assurez-vous que votre téléphone et votre téléviseur sont connectés\nau même réseau Wi-Fi.</string>
+    <string name="the_page_you_re_looking">La page que vous recherchez est introuvable, nous vous suggérons de revenir à l\'accueil</string>
+    <string name="no_internet_des">Vous n\'êtes pas connecté au Wi-Fi. Pour\nconnecter votre appareil, veuillez activer le\nréseau Wi-Fi !</string>
+    <string name="cast_smartphone_screen">Diffuser l\'écran du smartphone sur un grand\nécran de télévision de manière stable.</string>
+    <string name="sharing_screen_don_t_need_enable_miracast">Le partage d\'écran n\'a pas besoin d\'activer\nMiracast</string>
+
+
+    <string name="unlock_all_pro_features">Débloquez toutes les fonctionnalités pro</string>
+
+    <string name="sm_smart_tv_des_01">Assurez-vous que votre appareil et votre téléviseur sont connectés au même réseau Wi-Fi.</string>
+    <string name="sm_smart_tv_des_02">Cliquez sur le bouton « Démarrer la mise en miroir » pour vous connecter au système de paramètres.</string>
+    <string name="sm_smart_tv_des_03">Activez la fonction d\'affichage sans fil sur votre téléphone. Cliquez sur l\'icône dans le coin droit pour activer l\'affichage sans fil afin de détecter votre téléviseur au cas où vous ne trouveriez pas votre appareil.</string>
+
+    <string name="sm_direct_mirror_des_01">Assurez-vous que votre appareil et votre téléviseur sont connectés au même réseau Wi-Fi.</string>
+    <string name="sm_direct_mirror_des_02">Appuyez sur le bouton « Démarrer » pour lancer la mise en miroir de l\'écran.</string>
+    <string name="sm_direct_mirror_des_03">Si votre téléviseur affiche une boîte de dialogue de confirmation, acceptez-la à l\'aide de la télécommande physique du téléviseur.</string>
+
+    <string name="sm_web_browser_des_01">Assurez-vous que votre appareil et votre appareil de diffusion sont connectés au même réseau Wi-Fi.</string>
+    <string name="sm_web_browser_des_02">Cliquez sur le bouton « Démarrer la mise en miroir » pour lancer la mise en miroir de l\'écran sur le navigateur Web.</string>
+    <string name="sm_web_browser_des_03">Si votre téléviseur affiche une boîte de dialogue de confirmation, acceptez-la à l\'aide de la télécommande physique du téléviseur.</string>
+    <string name="sm_web_browser_des_04">Ouvrez le navigateur sur le autre appareil (PC, Xbox, TV, etc.) et entrez cette URL :</string>
+
+
+    <string name="notification_disconnect_action">Disconnect</string>
+    <string name="notification_remote_camera_desc">Phone Camera is running.</string>
+    <string name="notification_remote_camera_title">Phone Camera</string>
+    <string name="notification_screen_sharing_desc">Connected device has been set to screen sharing.</string>
+    <string name="notification_screen_sharing_title">Screen Share</string>
+    <string name="by_purchasing">By purchasing, you agree to the Terms of Use\nand Privacy Policy</string>
+
+
+    <string name="remote_control">Télécommande</string>
+    <string name="suitable_for_all_smart_tv_remote">Convient à toutes les télécommandes de téléviseurs intelligents.</string>
+    <string name="remote">Télécommande</string>
+    <string name="channel">Chaîne</string>
+    <string name="speak_to_text">Parlez au texte</string>
+    <string name="keyboard">Clavier</string>
+    <string name="enter_text_here">Entrez le texte ici…</string>
+    <string name="your_channel_will_show_here">Votre chaîne s\'affichera ici</string>
+    <string name="can_t_find_channel_please_connect_to_tv">Impossible de trouver la chaîne, veuillez vous connecter au téléviseur</string>
+    <string name="error_try_again">Erreur! Veuillez réessayer</string>
+    <string name="wifi_not_connected">Wi-Fi non connecté!</string>
+    <string name="toast_input_socket_is_null">Erreur: le socket d\'entrée est nul!</string>
+    <string name="remote_swipe">Faites glisser pour déplacer le tap vers Sélectionner</string>
+
+</resources>

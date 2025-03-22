@@ -1,0 +1,145 @@
+<resources>
+    <string name="app_name">Cast to TV</string>
+
+    <string name="intro_title_1">ஸ்கிரீன் மிரரிங்</string>
+    <string name="intro_title_2">ரிமோட் யுனிவர்சல்</string>
+    <string name="intro_title_3">டிவிக்கு அனுப்பு</string>
+    <string name="intro_title_4">இணைய உலாவி Cast</string>
+    <string name="intro_des_1">உயர் தரம் மற்றும் நிகழ்நேர வேகத்தில் சிறிய ஃபோன் திரையை பெரிய டிவி திரைக்கு அனுப்பவும்</string>
+    <string name="intro_des_2">வைஃபை இணைப்புடன் மொபைல் ஃபோனைப் பயன்படுத்தி உங்கள் டிவியைக் கட்டுப்படுத்தவும்</string>
+    <string name="intro_des_3">டிவிக்கு அனுப்புங்கள் மற்றும் வீடியோக்கள் மற்றும் திரைப்படங்களைப் பார்க்கும் சிறந்த அனுபவத்தை அனுபவிக்கவும்</string>
+    <string name="intro_des_4">உங்கள் டிவி வீடியோக்களை உங்களுக்கு பிடித்த இணையதளங்களில் இருந்து பார்க்க அனுமதித்தால்.</string>
+
+
+    <string name="audio">ஆடியோ</string>
+    <string name="connect_device">சாதனத்தை இணைக்கவும்</string>
+    <string name="connect_to_device">சாதனத்துடன் இணைக்கவும்</string>
+    <string name="thank_you_for_using_this_app">இந்த பயன்பாட்டைப் பயன்படுத்தியதற்கு நன்றி!!!</string>
+    <string name="you_want_to_exit">நிச்சயமாக, இந்தப் பயன்பாட்டிலிருந்து வெளியேற விரும்புகிறீர்களா?</string>
+    <string name="yes">ஆம்</string>
+    <string name="no">இல்லை</string>
+    <string name="image">படம்</string>
+    <string name="skip">தவிர்</string>
+    <string name="next">அடுத்து</string>
+    <string name="get_start">தொடங்கு</string>
+    <string name="language">மொழி</string>
+    <string name="save">சேமி</string>
+    <string name="cast_to_tv">டிவிக்கு அனுப்பு</string>
+    <string name="no_device_connection">சாதன இணைப்பு இல்லை</string>
+    <string name="tap_to_connect">இணைக்க தட்டவும்</string>
+    <string name="tap_to_disconnect">துண்டிக்க தட்டவும்</string>
+    <string name="chromecast">Chromecast</string>
+    <string name="cast_media">Cast Media</string>
+    <string name="video">வீடியோ</string>
+    <string name="cast_web">Cast Web</string>
+    <string name="drive">இயக்கி</string>
+    <string name="youtube">YouTube</string>
+    <string name="browser">உலாவி</string>
+    <string name="permission">அனுமதி</string>
+    <string name="for_this_application">இந்தப் பயன்பாடு செயல்பட, தேவையான அனுமதிகளை நீங்கள் அனுமதிக்க வேண்டும்.</string>
+    <string name="image_from_external_storage">வெளிப்புற சேமிப்பகத்திலிருந்து படத்தை அனுப்பும் நோக்கத்திற்காக அனுமதியுடன் படிக்க வேண்டும்.</string>
+    <string name="audio_from_external_storage">வெளிப்புற சேமிப்பகத்திலிருந்து ஆடியோவை அனுப்பும் நோக்கத்திற்காக அனுமதியுடன் படிக்க வேண்டும்.</string>
+    <string name="video_from_external_storage">வெளிப்புற சேமிப்பகத்திலிருந்து வீடியோவை அனுப்பும் நோக்கத்திற்காக அனுமதியுடன் படிக்க வேண்டும்.</string>
+    <string name="allow_permissions">அனுமதிகளை அனுமதி</string>
+    <string name="we_value_your_feedback">உங்கள் கருத்தை நாங்கள் மதிக்கிறோம்!!!</string>
+    <string name="please_take_a_moment">தயவுசெய்து சிறிது நேரம் ஒதுக்கி இந்த பயன்பாட்டை மதிப்பிடவும்</string>
+    <string name="select_the_connection_you_want">நீங்கள் விரும்பும் இணைப்பைத் தேர்ந்தெடுக்கவும்</string>
+    <string name="choose_a_screencast_scene">ஸ்கிரீன்காஸ்ட் காட்சியைத் தேர்வுசெய்க</string>
+    <string name="setting">அமைப்பு</string>
+    <string name="you_will_get_unlimited">பிரீமியம் பதிப்பில் வரம்பற்ற அணுகலைப் பெறுவீர்கள்</string>
+    <string name="go_premium">Go Premium</string>
+    <string name="general">பொது</string>
+    <string name="vibration">அதிர்வு</string>
+    <string name="vibrate_on_interaction">இன்டராக்ஷனில் அதிர்வுறும்</string>
+    <string name="languages">மொழிகள்</string>
+    <string name="more">மேலும்</string>
+    <string name="rate_us">எங்களை மதிப்பிடு</string>
+    <string name="please_let_us_know_about_your_experience_using_the_app">தயவுசெய்து பயன்பாட்டைப் பயன்படுத்திய உங்கள் அனுபவத்தைப் பற்றி எங்களுக்குத் தெரிவிக்கவும்</string>
+    <string name="share">பகிர்</string>
+    <string name="share_all_mirror_with_your_friends">உங்கள் நண்பர்களுடன் அனைத்து மிரர்களையும் பகிரவும்</string>
+    <string name="privacy_policy">தனியுரிமைக் கொள்கை</string>
+    <string name="read_our_privacy_policy">எங்கள் தனியுரிமைக் கொள்கையைப் படிக்கவும்</string>
+    <string name="version">பதிப்பு :</string>
+    <string name="start_mirroring">பிரதிபலிப்பைத் தொடங்கு</string>
+    <string name="stop_mirroring">பிரதிபலிப்பதை நிறுத்து</string>
+    <string name="casting_a_small_phone_screen">சிறிய ஃபோன் திரையை பெரிய டிவி திரையில் உயர் தரத்திலும் நிகழ்நேரத்திலும் அனுப்புதல்.</string>
+    <string name="no_item_found">உருப்படி எதுவும் கிடைக்கவில்லை</string>
+    <string name="connecting">இணைக்கிறது…</string>
+    <string name="quickly_cast_video_image">வீடியோ, படம் மற்றும் இணைய பிரதிபலிப்பு இணைப்புகளை விரைவாக அனுப்பவும்.</string>
+    <string name="disconnect_with_tv">டிவி மூலம் துண்டிக்கவும்</string>
+    <string name="device_do_you_want_to_disconnect">சாதனத்தைத் துண்டிக்க விரும்புகிறீர்களா?</string>
+    <string name="disconnect">துண்டிக்கவும்</string>
+    <string name="cancel">ரத்துசெய்</string>
+    <string name="how_to_connect">எப்படி இணைப்பது</string>
+    <string name="how_to_connect_des_01">உங்கள் மொபைலும் டிவியும் ஒரே வைஃபையுடன் இணைத்து VPNஐ ஆஃப் செய்யவும்</string>
+    <string name="how_to_connect_des_02">உங்கள் மொபைலில் வயர்லெஸ் காட்சி செயல்பாட்டை இயக்கி, சாதனம் தேடும் வரை காத்திருக்கவும். இணைக்க சாதனத்திற்கு பெயரிட கிளிக் செய்யவும்.</string>
+    <string name="how_to_connect_des_03">இணைப்பு வெற்றிகரமாக உள்ளது. இப்போது நீங்கள் ஸ்மார்ட்போன் மூலம் கட்டுப்படுத்தலாம்.</string>
+    <string name="i_got_it">எனக்கு கிடைத்தது</string>
+    <string name="no_internet">இணையம் இல்லை</string>
+    <string name="connect_wifi">வைஃபையை இணைக்கவும்</string>
+    <string name="ok">சரி</string>
+    <string name="pairing_with_tv">டிவியுடன் இணைத்தல்</string>
+    <string name="please_confirm_the_connection_on_your_tv">உங்கள் டிவியில் இணைப்பை உறுதிப்படுத்தவும்</string>
+    <string name="enter_the_code_you_see_on_tv">டிவியில் நீங்கள் பார்க்கும் குறியீட்டை உள்ளிடவும்</string>
+    <string name="enter_code">குறியீட்டை உள்ளிடவும்</string>
+    <string name="verify">சரிபார்</string>
+    <string name="please_wait">தயவுசெய்து காத்திருக்கவும்</string>
+    <string name="screen_mirroring">ஸ்கிரீன் மிரரிங்</string>
+    <string name="get_premium">பிரீமியம் பெறுக</string>
+    <string name="smart_tv">ஸ்மார்ட் டிவி</string>
+    <string name="mobile_screen_sharing_to_tv">மொபைல் திரை டிவிக்கு பகிர்தல்</string>
+    <string name="direct_mirror">நேரடி கண்ணாடி</string>
+    <string name="mirror_web_browser">மிரர் இணைய உலாவி</string>
+    <string name="typing_url_in_your_pc_s_web_browser">உங்கள் கணினியின் இணைய உலாவியில் URL ஐ தட்டச்சு செய்தல்</string>
+    <string name="info">தகவல்</string>
+    <string name="name">பெயர் :</string>
+    <string name="size">அளவு :</string>
+    <string name="resolution">தீர்மானம் :</string>
+    <string name="path">பாதை :</string>
+
+    <string name="make_sure_your_phone">உங்கள் ஃபோனும் டிவியும் ஒரே வைஃபை நெட்வொர்க்குடன் இணைக்கப்பட்டுள்ளதா என்பதை உறுதிப்படுத்தவும்.</string>
+    <string name="the_page_you_re_looking">நீங்கள் தேடும் பக்கம் கிடைக்கவில்லை\'உங்களை வீட்டிற்குத் திரும்பப் பரிந்துரைக்கிறோம்</string>
+    <string name="no_internet_des">நீங்கள் WiFi உடன் இணைக்கப்படவில்லை. உங்கள் சாதனத்தை இணைக்க,\nவைஃபை நெட்வொர்க்கை இயக்கவும்!</string>
+    <string name="cast_smartphone_screen">ஸ்மார்ட்ஃபோன் திரையை பெரிய\nடிவி திரையில் நிலையானதாக மாற்றவும்.</string>
+    <string name="sharing_screen_don_t_need_enable_miracast">பகிர்வு திரை தேவையில்லை Miracast ஐ இயக்கு</string>
+
+
+    <string name="unlock_all_pro_features">அனைத்து சார்பு அம்சங்களையும் திறக்கவும்</string>
+
+    <string name="sm_smart_tv_des_01">உங்கள் சாதனமும் டிவியும் ஒரே வைஃபை நெட்வொர்க்குடன் இணைக்கப்பட்டுள்ளதா என்பதை உறுதிப்படுத்தவும்.</string>
+    <string name="sm_smart_tv_des_02">அமைப்பின் சிஸ்டத்துடன் இணைக்க “ஸ்டார்ட் மிரரிங்” பொத்தானைக் கிளிக் செய்யவும்.</string>
+    <string name="sm_smart_tv_des_03">உங்கள் மொபைலில் வயர்லெஸ் காட்சி செயல்பாட்டை இயக்கவும். உங்கள் சாதனத்தைக் கண்டுபிடிக்கவில்லை என்றால் உங்கள் டிவியைக் கண்டறிய வயர்லெஸ் டிஸ்ப்ளேவை இயக்க வலது மூலையில் உள்ள ஐகானைக் கிளிக் செய்யவும்.</string>
+
+    <string name="sm_direct_mirror_des_01">உங்கள் சாதனமும் டிவியும் ஒரே வைஃபை நெட்வொர்க்குடன் இணைக்கப்பட்டுள்ளதா என்பதை உறுதிப்படுத்தவும்.</string>
+    <string name="sm_direct_mirror_des_02">திரை பிரதிபலிப்பைத் தொடங்க “தொடங்கு பொத்தானை” தட்டவும்.</string>
+    <string name="sm_direct_mirror_des_03">உங்கள் டிவி உறுதிப்படுத்தல் உரையாடலைக் காட்டினால், இயற்பியல் டிவி ரிமோட்டைப் பயன்படுத்தி அதை ஏற்கவும்.</string>
+
+    <string name="sm_web_browser_des_01">உங்கள் சாதனமும் காஸ்ட் சாதனமும் ஒரே வைஃபை நெட்வொர்க்குடன் இணைக்கப்பட்டுள்ளதா என்பதை உறுதிப்படுத்தவும்.</string>
+    <string name="sm_web_browser_des_02">இணைய உலாவியில் ஸ்கிரீன் மிரரிங் தொடங்க “ஸ்டார்ட் மிரரிங்” பட்டனை கிளிக் செய்யவும்.</string>
+    <string name="sm_web_browser_des_03">உங்கள் டிவி உறுதிப்படுத்தல் உரையாடலைக் காட்டினால், இயற்பியல் டிவி ரிமோட்டைப் பயன்படுத்தி அதை ஏற்கவும்.</string>
+    <string name="sm_web_browser_des_04">மற்ற சாதனத்தில் உலாவியைத் திறந்து (PC, Xbox, TV, முதலியன) இந்த URL ஐ உள்ளிடவும்:</string>
+
+
+    <string name="notification_disconnect_action">Disconnect</string>
+    <string name="notification_remote_camera_desc">Phone Camera is running.</string>
+    <string name="notification_remote_camera_title">Phone Camera</string>
+    <string name="notification_screen_sharing_desc">Connected device has been set to screen sharing.</string>
+    <string name="notification_screen_sharing_title">Screen Share</string>
+    <string name="by_purchasing">By purchasing, you agree to the Terms of Use\nand Privacy Policy</string>
+
+
+    <string name="remote_control">ரிமோட் கண்ட்ரோல்</string>
+    <string name="suitable_for_all_smart_tv_remote">அனைத்து ஸ்மார்ட் டிவி ரிமோட்டிற்கும் ஏற்றது.</string>
+    <string name="remote">ரிமோட்</string>
+    <string name="channel">சேனல்</string>
+    <string name="speak_to_text">உரையுடன் பேசு</string>
+    <string name="keyboard">விசைப்பலகை</string>
+    <string name="enter_text_here">உங்கள் சேனல் இங்கே காண்பிக்கப்படும்</string>
+    <string name="your_channel_will_show_here">உங்கள் சேனல் இங்கே காண்பிக்கப்படும்</string>
+    <string name="can_t_find_channel_please_connect_to_tv">சேனலைக் கண்டுபிடிக்க முடியவில்லை, தயவுசெய்து டிவியுடன் இணைக்கவும்</string>
+    <string name="error_try_again">பிழை! மீண்டும் முயற்சிக்கவும்</string>
+    <string name="wifi_not_connected">வைஃபை இணைக்கப்படவில்லை!</string>
+    <string name="toast_input_socket_is_null">பிழை: உள்ளீட்டு சாக்கெட் பூஜ்யமாக உள்ளது!</string>
+    <string name="remote_swipe">நகர்த்த ஸ்வைப் செய்யவும் தேர்ந்தெடு என்பதைத் தட்டவும்</string>
+
+</resources>

@@ -1,0 +1,145 @@
+<resources>
+    <string name="app_name">Cast to TV</string>
+
+    <string name="intro_title_1">スクリーンミラーリング</string>
+    <string name="intro_title_2">ユニバーサルリモート</string>
+    <string name="intro_title_3">テレビにキャスト</string>
+    <string name="intro_title_4">ウェブブラウザキャスト</string>
+    <string name="intro_des_1">小さな電話画面を高画質かつリアルタイムのスピードで大きなテレビ画面にキャスト</string>
+    <string name="intro_des_2">WiFi接続で携帯電話を使用してテレビをコントロール</string>
+    <string name="intro_des_3">テレビにキャストして、最高のビデオや映画鑑賞体験をお楽しみください</string>
+    <string name="intro_des_4">お気に入りのウェブサイトのビデオをテレビで視聴できます。</string>
+
+
+    <string name="audio">オーディオ</string>
+    <string name="connect_device">デバイスを接続</string>
+    <string name="connect_to_device">デバイスに接続</string>
+    <string name="thank_you_for_using_this_app">このアプリをご利用いただきありがとうございます!!!</string>
+    <string name="you_want_to_exit">このアプリを終了してもよろしいですか?</string>
+    <string name="yes">はい</string>
+    <string name="no">いいえ</string>
+    <string name="image">画像</string>
+    <string name="skip">スキップ</string>
+    <string name="next">次へ</string>
+    <string name="get_start">開始</string>
+    <string name="language">言語</string>
+    <string name="save">保存</string>
+    <string name="cast_to_tv">テレビにキャスト</string>
+    <string name="no_device_connection">デバイスなし接続</string>
+    <string name="tap_to_connect">タップして接続</string>
+    <string name="tap_to_disconnect">タップして切断</string>
+    <string name="chromecast">Chromecast</string>
+    <string name="cast_media">キャストメディア</string>
+    <string name="video">ビデオ</string>
+    <string name="cast_web">キャストウェブ</string>
+    <string name="drive">ドライブ</string>
+    <string name="youtube">ユーチューブ</string>
+    <string name="browser">ブラウザ</string>
+    <string name="permission">権限</string>
+    <string name="for_this_application">このアプリケーションが動作するには、必要な権限を許可する必要があります。</string>
+    <string name="image_from_external_storage">キャスト目的で外部ストレージからの画像を読み取るには、権限が必要です。</string>
+    <string name="audio_from_external_storage">キャスト目的で外部ストレージからオーディオを読み取るには、権限が必要です。</string>
+    <string name="video_from_external_storage">キャスト目的で外部ストレージからビデオを読み取るには、権限が必要です。</string>
+    <string name="allow_permissions">権限を許可</string>
+    <string name="we_value_your_feedback">フィードバックをお待ちしております!!!</string>
+    <string name="please_take_a_moment">少しお時間をいただき、このアプリを評価してください</string>
+    <string name="select_the_connection_you_want">必要な接続を選択してください</string>
+    <string name="choose_a_screencast_scene">スクリーンキャストシーン</string>
+    <string name="setting">設定</string>
+    <string name="you_will_get_unlimited">プレミアムバージョンでは無制限にアクセスできます</string>
+    <string name="go_premium">プレミアムへ</string>
+    <string name="general">一般</string>
+    <string name="vibration">バイブレーション</string>
+    <string name="vibrate_on_interaction">インタラクション時にバイブレーション</string>
+    <string name="languages">言語</string>
+    <string name="more">その他</string>
+    <string name="rate_us">評価</string>
+    <string name="please_let_us_know_about_your_experience_using_the_app">アプリの使用感をお知らせください</string>
+    <string name="share">共有</string>
+    <string name="share_all_mirror_with_your_friends">All Mirror を友達と共有</string>
+    <string name="privacy_policy">プライバシー ポリシー</string>
+    <string name="read_our_privacy_policy">プライバシー ポリシーをお読みください</string>
+    <string name="version">バージョン:</string>
+    <string name="start_mirroring">ミラーリングを開始</string>
+    <string name="stop_mirroring">ミラーリングを停止</string>
+    <string name="casting_a_small_phone_screen">小さな電話画面を高画質かつリアルタイムで大きなテレビ画面にキャストします。</string>
+    <string name="no_item_found">アイテムが見つかりません</string>
+    <string name="connecting">接続中…</string>
+    <string name="quickly_cast_video_image">ビデオ、画像、Web ミラーリングをすばやくキャストして接続します。</string>
+    <string name="disconnect_with_tv">テレビとの接続を切断</string>
+    <string name="device_do_you_want_to_disconnect">デバイスを切断しますか?</string>
+    <string name="disconnect">切断</string>
+    <string name="cancel">キャンセル</string>
+    <string name="how_to_connect">接続方法</string>
+    <string name="how_to_connect_des_01">モバイルとテレビを同じ Wi-Fi に接続し、VPN をオフにします</string>
+    <string name="how_to_connect_des_02">お使いの携帯電話でワイヤレス ディスプレイ機能を有効にし、デバイスの検索を待ちます。接続するデバイスをクリックして指定します。</string>
+    <string name="how_to_connect_des_03">接続に成功しました。これでスマートフォンから制御できます。</string>
+    <string name="i_got_it">接続しました</string>
+    <string name="no_internet">インターネットがありません</string>
+    <string name="connect_wifi">Wi-Fi に接続</string>
+    <string name="ok">OK</string>
+    <string name="pairing_with_tv">テレビとのペアリング</string>
+    <string name="please_confirm_the_connection_on_your_tv">テレビでの接続を確認してください</string>
+    <string name="enter_the_code_you_see_on_tv">テレビに表示されているコードを入力してください</string>
+    <string name="enter_code">コードを入力</string>
+    <string name="verify">確認</string>
+    <string name="please_wait">お待ちください</string>
+    <string name="screen_mirroring">画面ミラーリング</string>
+    <string name="get_premium">プレミアムを取得</string>
+    <string name="smart_tv">スマートテレビ</string>
+    <string name="mobile_screen_sharing_to_tv">テレビへのモバイル画面共有</string>
+    <string name="direct_mirror">ダイレクトミラー</string>
+    <string name="mirror_web_browser">Web ブラウザのミラーリング</string>
+    <string name="typing_url_in_your_pc_s_web_browser">PC の Web ブラウザに URL を入力する</string>
+    <string name="info">情報</string>
+    <string name="name">名前:</string>
+    <string name="size">サイズ:</string>
+    <string name="resolution">解像度:</string>
+    <string name="path">パス:</string>
+
+    <string name="make_sure_your_phone">お使いの携帯電話とテレビが同じ Wi-Fi ネットワークに接続されていることを確認してください。</string>
+    <string name="the_page_you_re_looking">お探しのページが見つからない場合は、ホームに戻ることをお勧めします。</string>
+    <string name="no_internet_des">WiFi に接続されていません。デバイスを接続するには、WiFi ネットワークをオンにしてください。</string>
+    <string name="cast_smartphone_screen">スマートフォンの画面を大きなテレビ画面に安定してキャストします。</string>
+    <string name="sharing_screen_don_t_need_enable_miracast">画面の共有には Miracast を有効にする必要はありません。</string>
+
+
+    <string name="unlock_all_pro_features">すべてのプロ機能をロック解除します</string>
+
+    <string name="sm_smart_tv_des_01">デバイスとテレビが同じ WiFi ネットワークに接続されていることを確認します。</string>
+    <string name="sm_smart_tv_des_02">[ミラーリングを開始] ボタンをクリックして、設定のシステムに接続します。</string>
+    <string name="sm_smart_tv_des_03">携帯電話でワイヤレス ディスプレイ機能を有効にします。デバイスが見つからない場合は、右隅のアイコンをクリックしてワイヤレス ディスプレイをオンにし、テレビを検出します。</string>
+
+    <string name="sm_direct_mirror_des_01">デバイスとテレビが同じ WiFi ネットワークに接続されていることを確認します。</string>
+    <string name="sm_direct_mirror_des_02">画面ミラーリングを開始するには、[開始] ボタンをタップします。</string>
+    <string name="sm_direct_mirror_des_03">テレビに確認ダイアログが表示されたら、物理的なテレビ リモコンを使用して承認します。</string>
+
+    <string name="sm_web_browser_des_01">デバイスとキャスト デバイスが同じ WiFi ネットワークに接続されていることを確認します。</string>
+    <string name="sm_web_browser_des_02">[ミラーリングを開始] ボタンをクリックして、Web ブラウザーで画面ミラーリングを開始します。</string>
+    <string name="sm_web_browser_des_03">テレビに確認ダイアログが表示されたら、承認します。物理的なテレビリモコンを使用します。</string>
+    <string name="sm_web_browser_des_04">他のデバイス (PC、Xbox、テレビなど) でブラウザを開き、次の URL を入力します:</string>
+
+
+    <string name="notification_disconnect_action">Disconnect</string>
+    <string name="notification_remote_camera_desc">Phone Camera is running.</string>
+    <string name="notification_remote_camera_title">Phone Camera</string>
+    <string name="notification_screen_sharing_desc">Connected device has been set to screen sharing.</string>
+    <string name="notification_screen_sharing_title">Screen Share</string>
+    <string name="by_purchasing">By purchasing, you agree to the Terms of Use\nand Privacy Policy</string>
+
+
+    <string name="remote_control">リモコン</string>
+    <string name="suitable_for_all_smart_tv_remote">すべてのスマート TV リモコンに適しています。</string>
+    <string name="remote">リモコン</string>
+    <string name="channel">チャンネル</string>
+    <string name="speak_to_text">音声テキスト</string>
+    <string name="keyboard">キーボード</string>
+    <string name="enter_text_here">ここにテキストを入力してください…</string>
+    <string name="your_channel_will_show_here">ここにチャンネルが表示されます</string>
+    <string name="can_t_find_channel_please_connect_to_tv">チャンネルが見つかりません。テレビに接続してください</string>
+    <string name="error_try_again">エラー!もう一度お試しください</string>
+    <string name="wifi_not_connected">Wifi が接続されていません!</string>
+    <string name="toast_input_socket_is_null">エラー: 入力ソケットが null です!</string>
+    <string name="remote_swipe">スワイプしてタップを移動し、選択してください</string>
+
+</resources>

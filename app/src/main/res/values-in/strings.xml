@@ -1,0 +1,145 @@
+<resources>
+    <string name="app_name">Cast to TV</string>
+
+    <string name="intro_title_1">Pencerminan Layar</string>
+    <string name="intro_title_2">Universal Jarak Jauh</string>
+    <string name="intro_title_3">Transmisikan ke TV</string>
+    <string name="intro_title_4">Transmisi Peramban Web</string>
+    <string name="intro_des_1">Transmisikan layar ponsel kecil ke layar TV besar dengan kualitas tinggi dan Kecepatan waktu nyata</string>
+    <string name="intro_des_2">Kendalikan TV Anda menggunakan ponsel dengan koneksi WiFi</string>
+    <string name="intro_des_3">Transmisikan ke TV dan nikmati pengalaman terbaik menonton video dan film</string>
+    <string name="intro_des_4">Memungkinkan Anda menonton video dari situs web favorit di TV Anda.</string>
+
+
+    <string name="audio">Audio</string>
+    <string name="connect_device">Hubungkan Perangkat</string>
+    <string name="connect_to_device">Hubungkan ke Perangkat</string>
+    <string name="thank_you_for_using_this_app">Terima Kasih Telah Menggunakan Aplikasi Ini!!!</string>
+    <string name="you_want_to_exit">Anda yakin ingin keluar dari aplikasi ini?</string>
+    <string name="yes">Ya</string>
+    <string name="no">Tidak</string>
+    <string name="image">Gambar</string>
+    <string name="skip">Lewati</string>
+    <string name="next">Berikutnya</string>
+    <string name="get_start">Mulai</string>
+    <string name="language">Bahasa</string>
+    <string name="save">Simpan</string>
+    <string name="cast_to_tv">Transmisikan ke TV</string>
+    <string name="no_device_connection">Tidak Ada Perangkat Koneksi</string>
+    <string name="tap_to_connect">Ketuk untuk menghubungkan</string>
+    <string name="tap_to_disconnect">Ketuk untuk Memutuskan</string>
+    <string name="chromecast">Chromecast</string>
+    <string name="cast_media">Transmisikan Media</string>
+    <string name="video">Video</string>
+    <string name="cast_web">Transmisikan Web</string>
+    <string name="drive">Drive</string>
+    <string name="youtube">YouTube</string>
+    <string name="browser">Browser</string>
+    <string name="permission">Izin</string>
+    <string name="for_this_application">Agar aplikasi ini berfungsi, Anda harus memberikan izin yang diperlukan.</string>
+    <string name="image_from_external_storage">Gambar dari penyimpanan eksternal harus dibaca dengan izin untuk tujuan casting.</string>
+    <string name="audio_from_external_storage">Audio dari penyimpanan eksternal harus dibaca dengan izin untuk tujuan casting.</string>
+    <string name="video_from_external_storage">Video dari penyimpanan eksternal harus dibaca dengan izin untuk tujuan casting.</string>
+    <string name="allow_permissions">Izinkan Izin</string>
+    <string name="we_value_your_feedback">Kami Menghargai Umpan Balik Anda!!!</string>
+    <string name="please_take_a_moment">Silakan luangkan waktu sejenak dan beri peringkat aplikasi ini</string>
+    <string name="select_the_connection_you_want">Pilih Koneksi yang Anda Inginkan</string>
+    <string name="choose_a_screencast_scene">Pilih adegan Screencast</string>
+    <string name="setting">Pengaturan</string>
+    <string name="you_will_get_unlimited">Anda akan mendapatkan akses tak terbatas dalam versi premium</string>
+    <string name="go_premium">Beralih ke Premium</string>
+    <string name="general">Umum</string>
+    <string name="vibration">Getaran</string>
+    <string name="vibrate_on_interaction">Getar saat berinteraksi</string>
+    <string name="languages">Bahasa</string>
+    <string name="more">Lainnya</string>
+    <string name="rate_us">Beri kami peringkat</string>
+    <string name="please_let_us_know_about_your_experience_using_the_app">Beri tahu kami tentang pengalaman Anda menggunakan aplikasi</string>
+    <string name="share">Bagikan</string>
+    <string name="share_all_mirror_with_your_friends">Bagikan Semua Cermin dengan teman-teman Anda</string>
+    <string name="privacy_policy">Kebijakan Privasi</string>
+    <string name="read_our_privacy_policy">Baca kebijakan privasi kami</string>
+    <string name="version">Versi :</string>
+    <string name="start_mirroring">Mulai Pencerminan</string>
+    <string name="stop_mirroring">Hentikan Pencerminan</string>
+    <string name="casting_a_small_phone_screen">Mentransmisikan layar ponsel kecil ke layar TV besar dalam kualitas tinggi dan waktu nyata.</string>
+    <string name="no_item_found">Tidak ada item yang ditemukan</string>
+    <string name="connecting">Menghubungkan…</string>
+    <string name="quickly_cast_video_image">Mentransmisikan video, gambar, dan pencerminan web dengan cepat.</string>
+    <string name="disconnect_with_tv">Putuskan Sambungan dengan TV</string>
+    <string name="device_do_you_want_to_disconnect">Perangkat yang ingin Anda putuskan sambungannya?</string>
+    <string name="disconnect">Putuskan Sambungan</string>
+    <string name="cancel">Batal</string>
+    <string name="how_to_connect">Cara menghubungkan</string>
+    <string name="how_to_connect_des_01">Ponsel dan TV Anda terhubung ke Wifi yang sama dan menonaktifkan VPN</string>
+    <string name="how_to_connect_des_02">Aktifkan fungsi tampilan nirkabel di ponsel Anda dan tunggu perangkat mencari. Klik nama perangkat untuk terhubung.</string>
+    <string name="how_to_connect_des_03">Koneksi berhasil. Sekarang Anda dapat mengontrolnya melalui telepon pintar.</string>
+    <string name="i_got_it">Saya mengerti</string>
+    <string name="no_internet">Tidak ada Internet</string>
+    <string name="connect_wifi">Hubungkan Wifi</string>
+    <string name="ok">Oke</string>
+    <string name="pairing_with_tv">Memasangkan dengan TV</string>
+    <string name="please_confirm_the_connection_on_your_tv">Harap konfirmasikan koneksi pada TV Anda</string>
+    <string name="enter_the_code_you_see_on_tv">Masukkan kode yang Anda lihat di TV</string>
+    <string name="enter_code">Masukkan kode</string>
+    <string name="verify">Verifikasi</string>
+    <string name="please_wait">Harap tunggu</string>
+    <string name="screen_mirroring">Pencerminan Layar</string>
+    <string name="get_premium">Dapatkan Premium</string>
+    <string name="smart_tv">Smart TV</string>
+    <string name="mobile_screen_sharing_to_tv">Berbagi layar ponsel ke TV</string>
+    <string name="direct_mirror">Cermin Langsung</string>
+    <string name="mirror_web_browser">Cerminkan Peramban Web</string>
+    <string name="typing_url_in_your_pc_s_web_browser">Mengetik URL di peramban web PC Anda</string>
+    <string name="info">Info</string>
+    <string name="name">Nama :</string>
+    <string name="size">Ukuran :</string>
+    <string name="resolution">Resolusi :</string>
+    <string name="path">Jalur :</string>
+
+    <string name="make_sure_your_phone">Pastikan ponsel dan TV Anda terhubung ke jaringan Wi-Fi yang sama.</string>
+    <string name="the_page_you_re_looking">Halaman yang Anda cari tidak ditemukan, kami sarankan Anda kembali ke beranda</string>
+    <string name="no_internet_des">Anda tidak terhubung ke WiFi. Untuk menghubungkan perangkat Anda, silakan aktifkan jaringan WiFi!</string>
+    <string name="cast_smartphone_screen">Transmisikan layar ponsel cerdas ke layar TV besar secara stabil.</string>
+    <string name="sharing_screen_don_t_need_enable_miracast">Berbagi layar tidak perlu Mengaktifkan Miracast</string>
+
+
+    <string name="unlock_all_pro_features">Buka semua fitur pro</string>
+
+    <string name="sm_smart_tv_des_01">Pastikan perangkat dan TV Anda terhubung ke jaringan WiFi yang sama.</string>
+    <string name="sm_smart_tv_des_02">Klik tombol "mulai mirroring" untuk terhubung ke sistem pengaturan.</string>
+    <string name="sm_smart_tv_des_03">Aktifkan fungsi tampilan nirkabel di ponsel Anda. Klik ikon di sudut kanan untuk mengaktifkan tampilan nirkabel guna mendeteksi TV Anda jika Anda tidak menemukan perangkat Anda.</string>
+
+    <string name="sm_direct_mirror_des_01">Pastikan perangkat dan TV Anda terhubung ke jaringan WiFi yang sama.</string>
+    <string name="sm_direct_mirror_des_02">Ketuk "tombol mulai" untuk memulai pencerminan layar.</string>
+    <string name="sm_direct_mirror_des_03">Jika TV Anda menampilkan dialog konfirmasi, terima menggunakan remote TV fisik.</string>
+
+    <string name="sm_web_browser_des_01">Pastikan perangkat dan perangkat transmisi Anda terhubung ke jaringan WiFi yang sama.</string>
+    <string name="sm_web_browser_des_02">Klik tombol "mulai pencerminan" untuk memulai pencerminan layar di browser web.</string>
+    <string name="sm_web_browser_des_03">Jika TV Anda menampilkan dialog konfirmasi, terima menggunakan remote TV fisik.</string>
+    <string name="sm_web_browser_des_04">Buka browser di perangkat lain (PC, Xbox, TV, dll.) dan masukkan URL ini:</string>
+
+
+    <string name="notification_disconnect_action">Disconnect</string>
+    <string name="notification_remote_camera_desc">Phone Camera is running.</string>
+    <string name="notification_remote_camera_title">Phone Camera</string>
+    <string name="notification_screen_sharing_desc">Connected device has been set to screen sharing.</string>
+    <string name="notification_screen_sharing_title">Screen Share</string>
+    <string name="by_purchasing">By purchasing, you agree to the Terms of Use\nand Privacy Policy</string>
+
+
+    <string name="remote_control">Remote Control</string>
+    <string name="suitable_for_all_smart_tv_remote">Cocok untuk semua remote TV pintar.</string>
+    <string name="remote">Remote</string>
+    <string name="channel">Saluran</string>
+    <string name="speak_to_text">Bicaralah dengan teks</string>
+    <string name="keyboard">Keyboard</string>
+    <string name="enter_text_here">Masukkan teks di sini…</string>
+    <string name="your_channel_will_show_here">Saluran Anda akan ditampilkan di sini</string>
+    <string name="can_t_find_channel_please_connect_to_tv">Tidak dapat menemukan saluran, silakan sambungkan ke TV</string>
+    <string name="error_try_again">Kesalahan! Silakan coba lagi</string>
+    <string name="wifi_not_connected">Wifi tidak terhubung!</string>
+    <string name="toast_input_socket_is_null">Kesalahan: soket input null!</string>
+    <string name="remote_swipe">Geser untuk memindahkan ketuk ke Pilih</string>
+
+</resources>

@@ -1,0 +1,145 @@
+<resources>
+    <string name="app_name">Cast to TV</string>
+
+    <string name="intro_title_1">Bildschirmspiegelung</string>
+    <string name="intro_title_2">Universalfernbedienung</string>
+    <string name="intro_title_3">Auf TV übertragen</string>
+    <string name="intro_title_4">Webbrowser-Übertragung</string>
+    <string name="intro_des_1">Übertragen Sie einen kleinen Telefonbildschirm in hoher Qualität und Echtzeitgeschwindigkeit auf einen großen Fernsehbildschirm</string>
+    <string name="intro_des_2">Steuern Sie Ihren Fernseher mit einem Mobiltelefon mit WLAN-Verbindung</string>
+    <string name="intro_des_3">Auf TV übertragen und das beste Erlebnis beim Ansehen von Videos und Filmen genießen</string>
+    <string name="intro_des_4">Sie können damit Videos von Ihren Lieblingswebsites auf Ihrem Fernseher ansehen.</string>
+
+
+    <string name="audio">Audio</string>
+    <string name="connect_device">Gerät verbinden</string>
+    <string name="connect_to_device">Mit Gerät verbinden</string>
+    <string name="thank_you_for_using_this_app">Danke, dass Sie diese App verwenden!!!</string>
+    <string name="you_want_to_exit">Sind Sie sicher, dass Sie diese App beenden möchten?</string>
+    <string name="yes">Ja</string>
+    <string name="no">Nein</string>
+    <string name="image">Bild</string>
+    <string name="skip">Überspringen</string>
+    <string name="next">Weiter</string>
+    <string name="get_start">Erste Schritte</string>
+    <string name="language">Sprache</string>
+    <string name="save">Speichern</string>
+    <string name="cast_to_tv">Auf Fernseher übertragen</string>
+    <string name="no_device_connection">Kein Gerät Verbindung</string>
+    <string name="tap_to_connect">Zum Verbinden tippen</string>
+    <string name="tap_to_disconnect">Zum Trennen tippen</string>
+    <string name="chromecast">Chromecast</string>
+    <string name="cast_media">Medien übertragen</string>
+    <string name="video">Video</string>
+    <string name="cast_web">Web übertragen</string>
+    <string name="drive">Drive</string>
+    <string name="youtube">YouTube</string>
+    <string name="browser">Browser</string>
+    <string name="permission">Berechtigung</string>
+    <string name="for_this_application">Damit diese Anwendung funktioniert, müssen Sie die erforderlichen Berechtigungen erteilen.</string>
+    <string name="image_from_external_storage">Bilder von externem Speicher müssen für Castingzwecke mit Berechtigung gelesen werden.</string>
+    <string name="audio_from_external_storage">Audio von externem Speicher muss für Castingzwecke mit Berechtigung gelesen werden.</string>
+    <string name="video_from_external_storage">Video von externem Speicher muss für Castingzwecke mit Berechtigung gelesen werden.</string>
+    <string name="allow_permissions">Berechtigungen erteilen</string>
+    <string name="we_value_your_feedback">Ihr Feedback ist uns wichtig!!!</string>
+    <string name="please_take_a_moment">Bitte nehmen Sie sich einen Moment Zeit und bewerten Sie diese App</string>
+    <string name="select_the_connection_you_want">Wählen Sie die gewünschte Verbindung aus</string>
+    <string name="choose_a_screencast_scene">Wählen Sie eine Screencast-Szene aus</string>
+    <string name="setting">Einstellung</string>
+    <string name="you_will_get_unlimited">Sie erhalten unbegrenzten Zugriff in der Premium-Version</string>
+    <string name="go_premium">Premium nutzen</string>
+    <string name="general">Allgemein</string>
+    <string name="vibration">Vibration</string>
+    <string name="vibrate_on_interaction">Bei Interaktion vibrieren</string>
+    <string name="languages">Sprachen</string>
+    <string name="more">Mehr</string>
+    <string name="rate_us">Bewerten Sie uns</string>
+    <string name="please_let_us_know_about_your_experience_using_the_app">Bitte teilen Sie uns Ihre Erfahrungen mit der App mit</string>
+    <string name="share">Teilen</string>
+    <string name="share_all_mirror_with_your_friends">Teilen Sie All Mirror mit Ihren Freunden</string>
+    <string name="privacy_policy">Datenschutzrichtlinie</string>
+    <string name="read_our_privacy_policy">Lesen Sie unsere Datenschutzrichtlinie</string>
+    <string name="version">Version:</string>
+    <string name="start_mirroring">Spiegelung starten</string>
+    <string name="stop_mirroring">Spiegelung beenden</string>
+    <string name="casting_a_small_phone_screen">Übertragen eines kleinen Telefonbildschirms auf einen großen Fernsehbildschirm in hoher Qualität und in Echtzeit.</string>
+    <string name="no_item_found">Kein Element gefunden</string>
+    <string name="connecting">Verbindung wird hergestellt…</string>
+    <string name="quickly_cast_video_image">Schnelles Übertragen von Video, Bild und Web Mirroring.</string>
+    <string name="disconnect_with_tv">Verbindung zum Fernseher trennen</string>
+    <string name="device_do_you_want_to_disconnect">Gerät, das Sie trennen möchten?</string>
+    <string name="disconnect">Verbindung trennen</string>
+    <string name="cancel">Abbrechen</string>
+    <string name="how_to_connect">So stellen Sie eine Verbindung her</string>
+    <string name="how_to_connect_des_01">Ihr Handy und Ihr Fernseher verbinden sich mit demselben WLAN und schalten VPN aus</string>
+    <string name="how_to_connect_des_02">Aktivieren Sie die drahtlose Anzeigefunktion auf Ihrem Handy und warten Sie, bis das Gerät sucht. Klicken Sie, um das zu verbindende Gerät zu benennen.</string>
+    <string name="how_to_connect_des_03">Verbindung erfolgreich hergestellt. Jetzt können Sie es über Ihr Smartphone steuern.</string>
+    <string name="i_got_it">Ich habe es</string>
+    <string name="no_internet">Kein Internet</string>
+    <string name="connect_wifi">WLAN verbinden</string>
+    <string name="ok">OK</string>
+    <string name="pairing_with_tv">Kopplung mit Fernseher</string>
+    <string name="please_confirm_the_connection_on_your_tv">Bitte bestätigen Sie die Verbindung auf Ihrem Fernseher</string>
+    <string name="enter_the_code_you_see_on_tv">Geben Sie den Code ein, den Sie auf dem Fernseher sehen</string>
+    <string name="enter_code">Code eingeben</string>
+    <string name="verify">Bestätigen</string>
+    <string name="please_wait">Bitte warten</string>
+    <string name="screen_mirroring">Bildschirmspiegelung</string>
+    <string name="get_premium">Premium erhalten</string>
+    <string name="smart_tv">Smart TV</string>
+    <string name="mobile_screen_sharing_to_tv">Mobile Bildschirmfreigabe für TV</string>
+    <string name="direct_mirror">Direkte Spiegelung</string>
+    <string name="mirror_web_browser">Webbrowser spiegeln</string>
+    <string name="typing_url_in_your_pc_s_web_browser">URL in den Webbrowser Ihres PCs eingeben</string>
+    <string name="info">Info</string>
+    <string name="name">Name :</string>
+    <string name="size">Größe :</string>
+    <string name="resolution">Auflösung :</string>
+    <string name="path">Pfad :</string>
+
+    <string name="make_sure_your_phone">Make sure your phone and TV are connected\nto the same Wi-Fi network.</string>
+    <string name="the_page_you_re_looking">The page you’re looking for isn\'t found we\nsuggest you back to home</string>
+    <string name="no_internet_des">You are not connected to WiFi. To\nconnect your device, please turn on the\nWiFi network!</string>
+    <string name="cast_smartphone_screen">Cast smartphone screen to big\nTV screen stably.</string>
+    <string name="sharing_screen_don_t_need_enable_miracast">Sharing screen don’t need Enable\nMiracast</string>
+
+
+    <string name="unlock_all_pro_features">Alle Pro-Funktionen freischalten</string>
+
+    <string name="sm_smart_tv_des_01">Stellen Sie sicher, dass Ihr Gerät und Ihr Fernseher mit demselben WLAN-Netzwerk verbunden sind.</string>
+    <string name="sm_smart_tv_des_02">Klicken Sie auf die Schaltfläche „Spiegelung starten“, um eine Verbindung zum Einstellungssystem herzustellen.</string>
+    <string name="sm_smart_tv_des_03">Aktivieren Sie die drahtlose Anzeigefunktion auf Ihrem Telefon. Klicken Sie auf das Symbol in der rechten Ecke, um die drahtlose Anzeige einzuschalten und Ihren Fernseher zu erkennen, falls Sie Ihr Gerät nicht finden.</string>
+
+    <string name="sm_direct_mirror_des_01">Stellen Sie sicher, dass Ihr Gerät und Ihr Fernseher mit demselben WLAN-Netzwerk verbunden sind.</string>
+    <string name="sm_direct_mirror_des_02">Tippen Sie auf die Schaltfläche „Start“, um die Bildschirmspiegelung zu starten.</string>
+    <string name="sm_direct_mirror_des_03">Wenn Ihr Fernseher einen Bestätigungsdialog anzeigt, akzeptieren Sie ihn mit der physischen TV-Fernbedienung.</string>
+
+    <string name="sm_web_browser_des_01">Stellen Sie sicher, dass Ihr Gerät und Ihr Cast-Gerät mit demselben WLAN-Netzwerk verbunden sind.</string>
+    <string name="sm_web_browser_des_02">Klicken Sie auf die Schaltfläche „Spiegelung starten“, um die Bildschirmspiegelung im Webbrowser zu starten.</string>
+    <string name="sm_web_browser_des_03">Wenn Ihr Fernseher einen Bestätigungsdialog anzeigt, akzeptieren Sie ihn mit der physischen TV-Fernbedienung Fernbedienung.</string>
+    <string name="sm_web_browser_des_04">Öffnen Sie den Browser auf dem anderen Gerät (PC, Xbox, TV usw.) und geben Sie diese URL ein:</string>
+
+
+    <string name="notification_disconnect_action">Disconnect</string>
+    <string name="notification_remote_camera_desc">Phone Camera is running.</string>
+    <string name="notification_remote_camera_title">Phone Camera</string>
+    <string name="notification_screen_sharing_desc">Connected device has been set to screen sharing.</string>
+    <string name="notification_screen_sharing_title">Screen Share</string>
+    <string name="by_purchasing">By purchasing, you agree to the Terms of Use\nand Privacy Policy</string>
+
+
+    <string name="remote_control">Fernbedienung</string>
+    <string name="suitable_for_all_smart_tv_remote">Geeignet für alle Smart-TV-Fernbedienungen.</string>
+    <string name="remote">Fernbedienung</string>
+    <string name="channel">Kanal</string>
+    <string name="speak_to_text">Text anzeigen</string>
+    <string name="keyboard">Tastatur</string>
+    <string name="enter_text_here">Hier Text eingeben…</string>
+    <string name="your_channel_will_show_here">Ihr Kanal wird hier angezeigt</string>
+    <string name="can_t_find_channel_please_connect_to_tv">Kanal kann nicht gefunden werden, bitte mit Fernseher verbinden</string>
+    <string name="error_try_again">Fehler! Bitte versuchen Sie es erneut</string>
+    <string name="wifi_not_connected">WLAN nicht verbunden!</string>
+    <string name="toast_input_socket_is_null">Fehler: Eingangsbuchse ist null!</string>
+    <string name="remote_swipe">Wischen, um zu tippen und auszuwählen</string>
+
+</resources>

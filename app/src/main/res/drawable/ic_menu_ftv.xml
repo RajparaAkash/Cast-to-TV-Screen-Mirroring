@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="24dp"
+    android:height="24dp"
+    android:viewportWidth="24"
+    android:viewportHeight="24">
+    <path
+        android:fillAlpha="0.9"
+        android:fillColor="@color/remote_icon_tint"
+        android:fillType="evenOdd"
+        android:pathData="M2.37,11.299C1.613,11.299 1,11.912 1,12.668C1,13.425 1.613,14.038 2.37,14.038H21.514C22.271,14.038 22.884,13.425 22.884,12.668C22.884,11.912 22.271,11.299 21.514,11.299H2.37ZM2.398,5C1.626,5 1,5.626 1,6.398C1,7.17 1.626,7.795 2.398,7.795H21.486C22.258,7.795 22.884,7.17 22.884,6.398C22.884,5.626 22.258,5 21.486,5H2.398ZM21.602,20C22.374,20 23,19.374 23,18.602C23,17.83 22.374,17.205 21.602,17.205H2.514C1.742,17.205 1.116,17.83 1.116,18.602C1.116,19.374 1.742,20 2.514,20H21.602Z"
+        android:strokeAlpha="0.9" />
+</vector>

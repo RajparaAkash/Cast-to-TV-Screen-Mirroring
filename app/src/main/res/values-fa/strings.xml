@@ -1,0 +1,145 @@
+<resources>
+    <string name="app_name">Cast to TV</string>
+
+    <string name="intro_title_1">آینه‌کاری صفحه</string>
+    <string name="intro_title_2">Universal از راه دور</string>
+    <string name="intro_title_3">پخش به تلویزیون</string>
+    <string name="intro_title_4">پخش مرورگر وب</string>
+    <string name="intro_des_1">فرستادن صفحه نمایش تلفن کوچک به صفحه تلویزیون بزرگ با کیفیت بالا و سرعت واقعی</string>
+    <string name="intro_des_2">تلویزیون خود را با استفاده از تلفن همراه با اتصال WiFi کنترل کنید</string>
+    <string name="intro_des_3">پخش به تلویزیون و لذت بردن از بهترین تجربه تماشای ویدیوها و فیلم‌ها</string>
+    <string name="intro_des_4">اگر به شما امکان می دهد ویدیوهای تلویزیون خود را از وب سایت های مورد علاقه خود تماشا کنید.</string>
+
+
+    <string name="audio">صوت</string>
+    <string name="connect_device">دستگاه را وصل کنید</string>
+    <string name="connect_to_device">اتصال به دستگاه</string>
+    <string name="thank_you_for_using_this_app">از شما برای استفاده از این برنامه متشکریم!!!</string>
+    <string name="you_want_to_exit">آیا مطمئن هستید که می‌خواهید از این برنامه خارج شوید؟</string>
+    <string name="yes">بله</string>
+    <string name="no">خیر</string>
+    <string name="image">تصویر</string>
+    <string name="skip">پرش</string>
+    <string name="next">بعدی</string>
+    <string name="get_start">شروع به کار</string>
+    <string name="language">زبان</string>
+    <string name="save">ذخیره</string>
+    <string name="cast_to_tv">پخش به تلویزیون</string>
+    <string name="no_device_connection">بدون اتصال دستگاه</string>
+    <string name="tap_to_connect">برای اتصال ضربه بزنید</string>
+    <string name="tap_to_disconnect">برای قطع ارتباط ضربه بزنید</string>
+    <string name="chromecast">Chromecast</string>
+    <string name="cast_media">Cast Media</string>
+    <string name="video">ویدئو</string>
+    <string name="cast_web">ارسال وب</string>
+    <string name="drive">درایو</string>
+    <string name="youtube">YouTube</string>
+    <string name="browser">مرورگر</string>
+    <string name="permission">مجوز</string>
+    <string name="for_this_application">برای اینکه این برنامه کار کند، باید مجوزهای لازم را بدهید.</string>
+    <string name="image_from_external_storage">تصویر از حافظه خارجی باید با اجازه برای هدف ارسال محتوا خوانده شود.</string>
+    <string name="audio_from_external_storage">صوتی از حافظه خارجی باید با مجوز برای ارسال محتوا خوانده شود.</string>
+    <string name="video_from_external_storage">ویدئوی ذخیره‌سازی خارجی باید با مجوز برای ارسال محتوا خوانده شود.</string>
+    <string name="allow_permissions">اجازه اجازه</string>
+    <string name="we_value_your_feedback">ما برای بازخورد شما ارزش قائلیم!!!</string>
+    <string name="please_take_a_moment">لطفاً کمی وقت بگذارید و به این برنامه امتیاز دهید</string>
+    <string name="select_the_connection_you_want">اتصال مورد نظر را انتخاب کنید</string>
+    <string name="choose_a_screencast_scene">انتخاب صحنه Screencast</string>
+    <string name="setting">تنظیم</string>
+    <string name="you_will_get_unlimited">در نسخه پرمیوم دسترسی نامحدود خواهید داشت</string>
+    <string name="go_premium">به Premium بروید</string>
+    <string name="general">عمومی</string>
+    <string name="vibration">لرزش</string>
+    <string name="vibrate_on_interaction">لرزش در تعامل</string>
+    <string name="languages">زبان‌ها</string>
+    <string name="more">بیشتر</string>
+    <string name="rate_us">به ما امتیاز دهید</string>
+    <string name="please_let_us_know_about_your_experience_using_the_app">لطفاً تجربه خود را در مورد استفاده از برنامه به ما اطلاع دهید</string>
+    <string name="share">اشتراک گذاری</string>
+    <string name="share_all_mirror_with_your_friends">همه آینه را با دوستان خود به اشتراک بگذارید</string>
+    <string name="privacy_policy">خط مشی رازداری</string>
+    <string name="read_our_privacy_policy">خط مشی رازداری ما را بخوانید</string>
+    <string name="version">نسخه :</string>
+    <string name="start_mirroring">آینه سازی را شروع کنید</string>
+    <string name="stop_mirroring">توقف آینه کاری</string>
+    <string name="casting_a_small_phone_screen">فرستادن صفحه نمایش تلفن کوچک به صفحه تلویزیون بزرگ با کیفیت بالا و زمان واقعی.</string>
+    <string name="no_item_found">هیچ موردی یافت نشد</string>
+    <string name="connecting">در حال اتصال…</string>
+    <string name="quickly_cast_video_image">پخش سریع ویدئو، تصویر و آینه‌سازی وب در حال اتصال.</string>
+    <string name="disconnect_with_tv">قطع ارتباط با تلویزیون</string>
+    <string name="device_do_you_want_to_disconnect">دستگاه را می‌خواهید قطع کنید؟</string>
+    <string name="disconnect">قطع ارتباط</string>
+    <string name="cancel">لغو</string>
+    <string name="how_to_connect">نحوه اتصال</string>
+    <string name="how_to_connect_des_01">تلفن همراه و تلویزیون شما به یک Wifi متصل می شوند و VPN را خاموش می کنند</string>
+    <string name="how_to_connect_des_02">عملکرد نمایش بی سیم را در تلفن خود فعال کنید و منتظر بمانید تا دستگاه جستجو کند. برای نامگذاری دستگاه برای اتصال کلیک کنید.</string>
+    <string name="how_to_connect_des_03">اتصال با موفقیت انجام شد. اکنون می توانید از طریق تلفن هوشمند کنترل کنید.</string>
+    <string name="i_got_it">من متوجه شدم</string>
+    <string name="no_internet">بدون اینترنت</string>
+    <string name="connect_wifi">وای فای را وصل کنید</string>
+    <string name="ok">خوب</string>
+    <string name="pairing_with_tv">جفت شدن با تلویزیون</string>
+    <string name="please_confirm_the_connection_on_your_tv">لطفاً اتصال را در تلویزیون خود تأیید کنید</string>
+    <string name="enter_the_code_you_see_on_tv">کدی را که در تلویزیون می بینید وارد کنید</string>
+    <string name="enter_code">کد را وارد کنید</string>
+    <string name="verify">تأیید کنید</string>
+    <string name="please_wait">لطفاً صبر کنید</string>
+    <string name="screen_mirroring">آینه‌کاری صفحه</string>
+    <string name="get_premium">دریافت حق بیمه</string>
+    <string name="smart_tv">تلویزیون هوشمند</string>
+    <string name="mobile_screen_sharing_to_tv">اشتراک گذاری صفحه نمایش تلفن همراه با تلویزیون</string>
+    <string name="direct_mirror">آینه مستقیم</string>
+    <string name="mirror_web_browser">مرورگر وب آینه</string>
+    <string name="typing_url_in_your_pc_s_web_browser">تایپ URL در مرورگر وب رایانه شخصی شما</string>
+    <string name="info">اطلاعات</string>
+    <string name="name">نام:</string>
+    <string name="size">اندازه :</string>
+    <string name="resolution">رزولوشن :</string>
+    <string name="path">مسیر:</string>
+
+    <string name="make_sure_your_phone">مطمئن شوید تلفن و تلویزیون شما\nبه یک شبکه Wi-Fi متصل هستند.</string>
+    <string name="the_page_you_re_looking">صفحه‌ای که به دنبال آن هستید یافت نشد، ما\nبه شما پیشنهاد می‌کنیم به خانه بازگردید</string>
+    <string name="no_internet_des">شما به WiFi متصل نیستید. برای اتصال دستگاه خود، لطفاً\nشبکه WiFi را روشن کنید!</string>
+    <string name="cast_smartphone_screen">صفحه نمایش تلفن هوشمند را به طور پایدار به صفحه\nتلویزیون بزرگ بفرستید.</string>
+    <string name="sharing_screen_don_t_need_enable_miracast">اشتراک‌گذاری صفحه نیازی به فعال کردن ندارد\nMiracast</string>
+
+
+    <string name="unlock_all_pro_features">قفل همه ویژگی های حرفه ای را باز کنید</string>
+
+    <string name="sm_smart_tv_des_01">مطمئن شوید که دستگاه و تلویزیون شما به یک شبکه WiFi متصل هستند.</string>
+    <string name="sm_smart_tv_des_02">برای اتصال به سیستم تنظیمات، روی دکمه "start mirroring" کلیک کنید.</string>
+    <string name="sm_smart_tv_des_03">عملکرد نمایش بی سیم را در تلفن خود فعال کنید. روی نماد در گوشه سمت راست کلیک کنید تا نمایشگر بی سیم روشن شود تا در صورت پیدا نکردن دستگاه، تلویزیون شما را شناسایی کند.</string>
+
+    <string name="sm_direct_mirror_des_01">مطمئن شوید که دستگاه و تلویزیون شما به یک شبکه WiFi متصل هستند.</string>
+    <string name="sm_direct_mirror_des_02">روی "دکمه شروع" ضربه بزنید تا انعکاس صفحه شروع شود.</string>
+    <string name="sm_direct_mirror_des_03">اگر تلویزیون شما گفتگوی تأیید را نشان می‌دهد، آن را با استفاده از کنترل فیزیکی تلویزیون بپذیرید.</string>
+
+    <string name="sm_web_browser_des_01">مطمئن شوید که دستگاه شما و دستگاه ارسال محتوا به یک شبکه WiFi متصل هستند.</string>
+    <string name="sm_web_browser_des_02">برای شروع بازتاب صفحه در مرورگر وب، روی دکمه "شروع بازتاب" کلیک کنید.</string>
+    <string name="sm_web_browser_des_03">اگر تلویزیون شما گفتگوی تأیید را نشان می‌دهد، آن را با استفاده از کنترل فیزیکی تلویزیون بپذیرید.</string>
+    <string name="sm_web_browser_des_04">مرورگر را در دستگاه دیگر (کامپیوتر، ایکس باکس، تلویزیون و غیره) باز کنید و این URL را وارد کنید:</string>
+
+
+    <string name="notification_disconnect_action">Disconnect</string>
+    <string name="notification_remote_camera_desc">Phone Camera is running.</string>
+    <string name="notification_remote_camera_title">Phone Camera</string>
+    <string name="notification_screen_sharing_desc">Connected device has been set to screen sharing.</string>
+    <string name="notification_screen_sharing_title">Screen Share</string>
+    <string name="by_purchasing">By purchasing, you agree to the Terms of Use\nand Privacy Policy</string>
+
+
+    <string name="remote_control">کنترل از راه دور</string>
+    <string name="suitable_for_all_smart_tv_remote">مناسب برای کنترل از راه دور همه تلویزیون های هوشمند.</string>
+    <string name="remote">ریموت</string>
+    <string name="channel">کانال</string>
+    <string name="speak_to_text">به متن صحبت کنید</string>
+    <string name="keyboard">صفحه کلید</string>
+    <string name="enter_text_here">متن را در اینجا وارد کنید…</string>
+    <string name="your_channel_will_show_here">کانال شما در اینجا نشان داده خواهد شد</string>
+    <string name="can_t_find_channel_please_connect_to_tv">کانال را نمی توان یافت، لطفاً به تلویزیون وصل شوید</string>
+    <string name="error_try_again">خطا! لطفا دوباره امتحان کنید</string>
+    <string name="wifi_not_connected">وای فای متصل نیست!</string>
+    <string name="toast_input_socket_is_null">خطا: سوکت ورودی خالی است!</string>
+    <string name="remote_swipe">برای جابجایی تند بکشید روی انتخاب ضربه بزنید</string>
+
+</resources>

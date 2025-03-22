@@ -1,0 +1,145 @@
+<resources>
+    <string name="app_name">Cast to TV</string>
+
+    <string name="intro_title_1">Schermspiegeling</string>
+    <string name="intro_title_2">Universeel op afstand</string>
+    <string name="intro_title_3">Cast naar tv</string>
+    <string name="intro_title_4">Webbrowser cast</string>
+    <string name="intro_des_1">Cast een klein telefoonscherm naar een groot tv-scherm in hoge kwaliteit en realtime snelheid</string>
+    <string name="intro_des_2">Bedien uw tv met een mobiele telefoon met wifi-verbinding</string>
+    <string name="intro_des_3">Cast naar tv en geniet van de beste ervaring bij het bekijken van video\'s en films</string>
+    <string name="intro_des_4">Hiermee kunt u op uw tv video\'s bekijken van uw favoriete websites.</string>
+
+
+    <string name="audio">Audio</string>
+    <string name="connect_device">Apparaat verbinden</string>
+    <string name="connect_to_device">Verbinden met apparaat</string>
+    <string name="thank_you_for_using_this_app">Bedankt voor het gebruiken van deze app!!!</string>
+    <string name="you_want_to_exit">Weet u zeker dat u deze app wilt afsluiten?</string>
+    <string name="yes">Ja</string>
+    <string name="no">Nee</string>
+    <string name="image">Afbeelding</string>
+    <string name="skip">Overslaan</string>
+    <string name="next">Volgende</string>
+    <string name="get_start">Aan de slag</string>
+    <string name="language">Taal</string>
+    <string name="save">Opslaan</string>
+    <string name="cast_to_tv">Casten naar tv</string>
+    <string name="no_device_connection">Geen apparaatverbinding</string>
+    <string name="tap_to_connect">Tik om verbinding te maken</string>
+    <string name="tap_to_disconnect">Tik om verbinding te verbreken</string>
+    <string name="chromecast">Chromecast</string>
+    <string name="cast_media">Cast Media</string>
+    <string name="video">Video</string>
+    <string name="cast_web">Cast Web</string>
+    <string name="drive">Drive</string>
+    <string name="youtube">YouTube</string>
+    <string name="browser">Browser</string>
+    <string name="permission">Toestemming</string>
+    <string name="for_this_application">Om deze applicatie te laten werken, moet u de vereiste machtigingen toestaan.</string>
+    <string name="image_from_external_storage">Afbeelding van externe opslag moet met toestemming worden gelezen voor castingdoeleinden.</string>
+    <string name="audio_from_external_storage">Audio van externe opslag moet met toestemming worden gelezen voor castingdoeleinden.</string>
+    <string name="video_from_external_storage">Video van externe opslag moet met toestemming worden gelezen voor castingdoeleinden.</string>
+    <string name="allow_permissions">Machtigingen toestaan</string>
+    <string name="we_value_your_feedback">Wij stellen uw feedback op prijs!!!</string>
+    <string name="please_take_a_moment">Neem even de tijd om deze app te beoordelen</string>
+    <string name="select_the_connection_you_want">Selecteer de gewenste verbinding</string>
+    <string name="choose_a_screencast_scene">Kies een screencast scene</string>
+    <string name="setting">Instelling</string>
+    <string name="you_will_get_unlimited">Je krijgt onbeperkte toegang in de premiumversie</string>
+    <string name="go_premium">Ga Premium</string>
+    <string name="general">Algemeen</string>
+    <string name="vibration">Trillen</string>
+    <string name="vibrate_on_interaction">Trillen bij interactie</string>
+    <string name="languages">Talen</string>
+    <string name="more">Meer</string>
+    <string name="rate_us">Beoordeel ons</string>
+    <string name="please_let_us_know_about_your_experience_using_the_app">Laat ons weten wat je ervaring is met de app</string>
+    <string name="share">Delen</string>
+    <string name="share_all_mirror_with_your_friends">Deel All Mirror met je vrienden</string>
+    <string name="privacy_policy">Privacybeleid</string>
+    <string name="read_our_privacy_policy">Lees ons privacybeleid</string>
+    <string name="version">Versie:</string>
+    <string name="start_mirroring">Start Mirroring</string>
+    <string name="stop_mirroring">Stop Mirroring</string>
+    <string name="casting_a_small_phone_screen">Een klein telefoonscherm casten naar een groot tv-scherm in hoge kwaliteit en realtime.</string>
+    <string name="no_item_found">Geen item gevonden</string>
+    <string name="connecting">Verbinden…</string>
+    <string name="quickly_cast_video_image">Snel video, afbeeldingen en web mirroring verbinden.</string>
+    <string name="disconnect_with_tv">Verbinding met tv verbreken</string>
+    <string name="device_do_you_want_to_disconnect">Apparaat dat u wilt loskoppelen ?</string>
+    <string name="disconnect">Verbinding verbreken</string>
+    <string name="cancel">Annuleren</string>
+    <string name="how_to_connect">Hoe verbinding maken</string>
+    <string name="how_to_connect_des_01">Uw mobiel en tv maken verbinding met dezelfde wifi en schakel VPN uit</string>
+    <string name="how_to_connect_des_02">Schakel de draadloze weergavefunctie op uw telefoon in en wacht tot het apparaat zoekt. Klik om het apparaat een naam te geven om verbinding te maken.</string>
+    <string name="how_to_connect_des_03">Verbinding succesvol. Nu kunt u de bediening via smartphone uitvoeren.</string>
+    <string name="i_got_it">Ik heb het</string>
+    <string name="no_internet">Geen internet</string>
+    <string name="connect_wifi">Wifi verbinden</string>
+    <string name="ok">OK</string>
+    <string name="pairing_with_tv">Koppelen met tv</string>
+    <string name="please_confirm_the_connection_on_your_tv">Bevestig de verbinding op uw tv</string>
+    <string name="enter_the_code_you_see_on_tv">Voer de code in die u op uw tv ziet</string>
+    <string name="enter_code">Voer de code in</string>
+    <string name="verify">Verifiëren</string>
+    <string name="please_wait">Even geduld</string>
+    <string name="screen_mirroring">Scherm mirroring</string>
+    <string name="get_premium">Premium kopen</string>
+    <string name="smart_tv">Smart TV</string>
+    <string name="mobile_screen_sharing_to_tv">Mobiel scherm delen met TV</string>
+    <string name="direct_mirror">Direct Mirror</string>
+    <string name="mirror_web_browser">Mirror Web Browser</string>
+    <string name="typing_url_in_your_pc_s_web_browser">URL typen in de webbrowser van uw PC</string>
+    <string name="info">Info</string>
+    <string name="name">Naam :</string>
+    <string name="size">Grootte :</string>
+    <string name="resolution">Resolutie :</string>
+    <string name="path">Pad :</string>
+
+    <string name="make_sure_your_phone">Zorg ervoor dat je telefoon en tv verbonden zijn met hetzelfde wifi-netwerk.</string>
+    <string name="the_page_you_re_looking">De pagina die je zoekt is niet gevonden. We\nsuggesteren je terug naar home</string>
+    <string name="no_internet_des">Je bent niet verbonden met wifi. Om je apparaat te verbinden, schakel je het wifi-netwerk in!</string>
+    <string name="cast_smartphone_screen">Sterk het smartphonescherm casten naar het grote tv-scherm.</string>
+    <string name="sharing_screen_don_t_need_enable_miracast">Scherm delen hoeft Miracast niet in te schakelen</string>
+
+
+    <string name="unlock_all_pro_features">Ontgrendel alle pro-functies</string>
+
+    <string name="sm_smart_tv_des_01">Zorg ervoor dat uw apparaat en tv zijn verbonden met hetzelfde wifi-netwerk.</string>
+    <string name="sm_smart_tv_des_02">Klik op de knop "start mirroring" om verbinding te maken met het systeem van de instellingen.</string>
+    <string name="sm_smart_tv_des_03">Schakel de draadloze weergavefunctie in op uw telefoon. Klik op het pictogram in de rechterhoek om draadloos display in te schakelen om uw tv te detecteren als u uw apparaat niet kunt vinden.</string>
+
+    <string name="sm_direct_mirror_des_01">Zorg ervoor dat uw apparaat en tv zijn verbonden met hetzelfde wifi-netwerk.</string>
+    <string name="sm_direct_mirror_des_02">Tik op de knop \'Start\' om schermspiegeling te starten.</string>
+    <string name="sm_direct_mirror_des_03">Als uw tv een bevestigingsdialoogvenster toont, accepteer dit dan met de fysieke afstandsbediening van uw tv.</string>
+
+    <string name="sm_web_browser_des_01">Zorg ervoor dat uw apparaat en cast-apparaat zijn verbonden met hetzelfde wifi-netwerk.</string>
+    <string name="sm_web_browser_des_02">Klik op de knop \'Start mirroring\' om schermspiegeling op de webbrowser te starten.</string>
+    <string name="sm_web_browser_des_03">Als uw tv toont bevestigingsdialoog, accepteer het met fysieke tv-afstandsbediening.</string>
+    <string name="sm_web_browser_des_04">Open de browser op het andere apparaat (pc, Xbox, tv, enz.) en voer deze URL in:</string>
+
+
+    <string name="notification_disconnect_action">Disconnect</string>
+    <string name="notification_remote_camera_desc">Phone Camera is running.</string>
+    <string name="notification_remote_camera_title">Phone Camera</string>
+    <string name="notification_screen_sharing_desc">Connected device has been set to screen sharing.</string>
+    <string name="notification_screen_sharing_title">Screen Share</string>
+    <string name="by_purchasing">By purchasing, you agree to the Terms of Use\nand Privacy Policy</string>
+
+
+    <string name="remote_control">Afstandsbediening</string>
+    <string name="suitable_for_all_smart_tv_remote">Geschikt voor alle smart-tv-afstandsbedieningen.</string>
+    <string name="remote">Afstandsbediening</string>
+    <string name="channel">Kanaal</string>
+    <string name="speak_to_text">Spreek met tekst</string>
+    <string name="keyboard">Toetsenbord</string>
+    <string name="enter_text_here">Voer hier tekst in…</string>
+    <string name="your_channel_will_show_here">Uw kanaal wordt hier weergegeven</string>
+    <string name="can_t_find_channel_please_connect_to_tv">Kan kanaal niet vinden, maak verbinding met tv</string>
+    <string name="error_try_again">Fout! Probeer het opnieuw</string>
+    <string name="wifi_not_connected">Wifi niet verbonden!</string>
+    <string name="toast_input_socket_is_null">Fout: input socket is null!</string>
+    <string name="remote_swipe">Veeg om te verplaatsen tik om te selecteren</string>
+
+</resources>

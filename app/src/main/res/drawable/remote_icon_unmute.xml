@@ -1,0 +1,23 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="20dp"
+    android:height="20dp"
+    android:viewportWidth="20"
+    android:viewportHeight="20">
+    <group>
+        <clip-path android:pathData="M0,0h20v20h-20z" />
+<!--        <path-->
+<!--            android:fillColor="@color/remote_icon_tint"-->
+<!--            android:pathData="M20.8,4.293A1,1 0,0 0,19.39 5.707a8.911,8.911 0,0 1,0 12.586A1,1 0,1 0,20.8 19.707,10.911 10.911,0 0,0 20.8,4.293Z"/>-->
+<!--        <path-->
+<!--            android:fillColor="@color/remote_icon_tint"-->
+<!--            android:pathData="M18.093,7.293a1,1 0,1 0,-1.414 1.414,4.664 4.664,0 0,1 0,6.586 1,1 0,1 0,1.414 1.414A6.665,6.665 0,0 0,18.093 7.293Z"/>-->
+
+        <path
+            android:fillColor="@color/remote_icon_tint"
+            android:pathData="M17.093,6.100a1,1 0,1 0,-1.400 1.400,4.400 4.664,0 0,1 0,6.586 1,1 0,1 0,1.414 1.414A6.400,6.665 0,0 0,18.000 7.293Z"/>
+
+        <path
+            android:fillColor="@color/remote_icon_tint"
+            android:pathData="M11.156,19.25C11.313,19.369 11.506,19.425 11.7,19.425C11.844,19.425 11.994,19.394 12.125,19.325C12.438,19.163 12.637,18.837 12.637,18.487V1.513C12.637,1.163 12.438,0.837 12.125,0.675C11.819,0.519 11.438,0.544 11.156,0.75L4.556,5.456H1.25C0.731,5.456 0.313,5.881 0.313,6.394V13.606C0.313,14.119 0.731,14.544 1.25,14.544H4.556L11.156,19.25Z" />
+    </group>
+</vector>
